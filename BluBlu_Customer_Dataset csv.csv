@@ -1,0 +1,801 @@
+﻿Customer_ID,Age,Gender,Income_Level,Marital_Status,Education_Level,Occupation,Location,Purchase_Category,Currency,Purchase_Amount,Frequency_of_Purchase,Purchase_Channel,Brand_Loyalty,Product_Rating,Time_Spent_on_Product_Research(hours),Social_Media_Influence,Discount_Sensitivity,Return_Rate,Customer_Satisfaction,Engagement_with_Ads,Device_Used_for_Shopping,Payment_Method,Time_of_Purchase,Discount_Used,Customer_Loyalty_Program_Member,Purchase_Intent,Shipping_Preference,Time_to_Decision_Hours,Discount (%)
+29-374-1297,33,Non-binary,Middle,Widowed,High School,Middle,Nantes,Animal Feed,USD,$333.80,4,Online,5,4,0,Low,Not Sensitive,1,8,Medium,Desktop,PayPal,3/1/2024,TRUE,TRUE,Wants-based,Standard,2,25
+73-846-1423,38,Female,High,Single,High School,High,Saint Joseph,Beauty & Personal Care,USD,$222.22,11,In-Store,1,5,2,Low,Somewhat Sensitive,2,8,None,Desktop,PayPal,4/16/2024,FALSE,FALSE,Planned,No Preference,6,15
+98-376-8787,36,Male,High,Married,Master's,Middle,Pho Duc,Electronics,USD,$426.22,2,Mixed,1,5,0,Medium,Somewhat Sensitive,1,3,Low,Smartphone,Other,3/15/2024,FALSE,TRUE,Planned,No Preference,3,0
+84-208-7045,33,Male,High,Divorced,High School,High,Kazimierz Dolny,Books,USD,$101.31,6,In-Store,4,3,0.3,Medium,Not Sensitive,1,3,High,Tablet,PayPal,10/4/2024,FALSE,TRUE,Need-based,Express,10,0
+55-876-7407,42,Female,High,Married,Bachelor's,Middle,Muaralabuh,Packages),USD,$211.70,6,Mixed,2,3,1,High,Not Sensitive,2,1,None,Smartphone,Credit Card,1/30/2024,FALSE,TRUE,Need-based,No Preference,4,10
+46-452-3822,38,Female,Middle,Single,Bachelor's,Middle,Genting,Furniture,USD,$487.95,8,Mixed,1,2,2,None,Not Sensitive,1,7,High,Desktop,Debit Card,3/19/2024,TRUE,FALSE,Need-based,No Preference,7,15
+87-518-0375,46,Non-binary,Middle,Divorced,High School,High,Bistrinci,Sports & Outdoors,USD,$486.40,12,In-Store,1,5,1,Medium,Very Sensitive,1,6,Low,Desktop,Debit Card,3/15/2024,TRUE,TRUE,Planned,Express,13,20
+48-630-6410,39,Male,High,Divorced,Master's,High,Dom Pedrito,Groceries,USD,$218.06,6,In-Store,3,4,1,None,Somewhat Sensitive,1,3,Medium,Smartphone,Debit Card,3/17/2024,TRUE,FALSE,Planned,Express,13,0
+44-786-7696,41,Bigender,Middle,Divorced,Master's,Middle,Zhongying,Gardening & Outdoors,USD,$201.96,8,In-Store,1,2,0,None,Somewhat Sensitive,0,4,Low,Smartphone,PayPal,6/10/2024,TRUE,TRUE,Impulsive,No Preference,7,0
+52-779-8972,47,Male,High,Widowed,High School,High,Florida,Food & Beverages,USD,$418.83,7,In-Store,3,2,0,None,Somewhat Sensitive,2,5,High,Tablet,Credit Card,10/7/2024,TRUE,TRUE,Impulsive,No Preference,13,25
+81-926-9297,22,Female,Middle,Widowed,Master's,High,GÃ¤vle,Packages),USD,$389.70,12,Mixed,4,1,0,None,Not Sensitive,0,3,High,Desktop,Other,7/2/2024,FALSE,FALSE,Wants-based,Standard,12,15
+30-567-4471,34,Male,Middle,Married,Bachelor's,Middle,Parumasan,Clothing,USD,$238.93,5,Online,3,2,2,Medium,Not Sensitive,1,8,None,Tablet,Credit Card,12/27/2024,FALSE,TRUE,Impulsive,Express,1,30
+63-808-3641,25,Male,High,Widowed,Bachelor's,Middle,Pointe Michel,Home Appliances,USD,$61.22,7,Online,1,2,1,Medium,Very Sensitive,1,1,None,Desktop,paypal,8/5/2024,FALSE,TRUE,Need-based,Standard,5,30
+78-091-8662,43,Male,High,Divorced,High School,Middle,Prengtale,Gardening & Outdoors,USD,$79.81,4,Online,4,1,1,None,Somewhat Sensitive,1,8,Low,Smartphone,Cash,7/16/2024,TRUE,TRUE,Planned,Express,14,5
+14-364-4904,43,Male,High,Widowed,Master's,High,GuÃ©ret,Electronics,USD,$58.51,2,Online,1,2,1,High,Somewhat Sensitive,0,9,Low,Desktop,Credit Card,12/14/2024,TRUE,TRUE,Need-based,Standard,14,20
+74-033-1145,27,Polygender,High,Widowed,Bachelor's,Middle,Mranggen,Jewelry & Accessories,USD,$109.29,3,Mixed,5,1,0,High,Not Sensitive,2,6,None,Tablet,Other,8/11/2024,TRUE,FALSE,Wants-based,Standard,11,10
+61-663-9008,18,Male,Middle,Married,Master's,Middle,Taishihe,Travel & Leisure (Flights,USD,$356.45,6,In-Store,4,5,0,High,Somewhat Sensitive,2,6,Low,Smartphone,PayPal,10/18/2024,TRUE,TRUE,Wants-based,Express,8,5
+76-213-5806,21,Female,High,Widowed,Bachelor's,Middle,Rende,Electronics,USD,$236.99,10,In-Store,3,1,2,None,Not Sensitive,1,3,Low,Desktop,Debit Card,12/9/2024,FALSE,TRUE,Need-based,Express,13,10
+29-438-8126,36,Female,Middle,Single,High School,High,Pasirmadang,Packages),USD,$454.39,10,Online,1,3,0,Medium,Very Sensitive,2,2,Low,Smartphone,Debit Card,7/23/2024,FALSE,FALSE,Planned,Express,3,5
+55-846-2579,47,Male,Middle,Divorced,Bachelor's,High,Kiev,Software & Apps,USD,$490.75,10,Mixed,2,2,1,Medium,Very Sensitive,1,6,High,Smartphone,PayPal,7/8/2024,FALSE,FALSE,Wants-based,Standard,13,5
+45-795-1873,20,Agender,High,Widowed,Master's,Middle,Jagistay,Packages),USD,$463.07,7,Mixed,3,4,2,High,Not Sensitive,0,4,High,Tablet,Credit Card,7/23/2024,TRUE,TRUE,Need-based,No Preference,11,5
+18-097-5707,34,Male,Middle,Widowed,High School,High,DhÄ«bÄ«n,Sports & Outdoors,USD,$56.74,5,In-Store,3,3,2,High,Somewhat Sensitive,0,7,None,Desktop,Cash,7/31/2024,FALSE,TRUE,Need-based,Standard,7,30
+93-649-9356,18,Female,High,Single,Master's,Middle,Cibuah,Electronics,USD,$371.32,7,Mixed,5,4,2,None,Not Sensitive,2,4,Medium,Desktop,Credit Card,2/25/2024,TRUE,FALSE,Impulsive,No Preference,6,5
+37-283-9076,18,Female,Middle,Single,High School,High,Valbo,Furniture,USD,$461.00,7,In-Store,5,3,2,None,Not Sensitive,1,5,Low,Desktop,Cash,7/10/2024,FALSE,FALSE,Planned,Standard,9,25
+22-311-5460,44,Male,Middle,Widowed,High School,Middle,Bronnitsy,Arts & Crafts,USD,$253.37,6,Online,1,1,1,High,Not Sensitive,1,8,None,Tablet,Credit Card,12/25/2024,TRUE,TRUE,Planned,No Preference,8,25
+08-755-1170,47,Male,Middle,Single,High School,High,Sinarwangi,Furniture,USD,$136.53,3,In-Store,1,3,0,Low,Not Sensitive,1,8,Low,Tablet,Cash,5/31/2024,FALSE,TRUE,Impulsive,Express,10,5
+75-953-8663,35,Male,High,Single,Master's,Middle,Acobambilla,Hotels,USD,$489.05,10,Mixed,4,5,1,Medium,Not Sensitive,1,2,None,Desktop,Cash,9/4/2024,FALSE,FALSE,Need-based,Standard,7,15
+60-005-5187,25,Male,Middle,Single,High School,High,Bailadores,Electronics,USD,$81.91,10,Mixed,2,1,2,Medium,Not Sensitive,0,8,High,Desktop,debit card,7/24/2024,TRUE,TRUE,Wants-based,Standard,2,5
+73-259-8940,34,Female,Middle,Widowed,Bachelor's,Middle,Masoyila,Hotels,USD,$135.80,2,Online,1,5,0,High,Very Sensitive,1,6,Low,Tablet,PayPal,11/16/2024,TRUE,FALSE,Planned,Express,9,10
+45-337-1798,26,Male,Middle,Married,Bachelor's,Middle,Al QÄrah,Baby Products,USD,$382.24,12,In-Store,5,5,0,Low,Not Sensitive,1,6,Medium,Tablet,Credit Card,7/6/2024,FALSE,TRUE,Wants-based,No Preference,3,15
+58-528-6262,42,Male,Middle,Married,Master's,High,Sobue,Software & Apps,USD,$354.70,5,Online,4,5,2,Low,Not Sensitive,0,2,Low,Smartphone,Other,2/10/2024,TRUE,TRUE,Wants-based,No Preference,12,20
+80-607-9947,43,Male,High,Divorced,Bachelor's,Middle,Krajan Kidul Rojopolo,Toys & Games,USD,$433.82,6,Online,1,4,2,Low,Somewhat Sensitive,0,9,Medium,Smartphone,other,6/29/2024,FALSE,FALSE,Need-based,Express,10,30
+17-648-0171,38,Female,High,Widowed,Bachelor's,Middle,JoÃ£o CÃ¢mara,Groceries,USD,$282.13,5,Online,1,1,0.3,Low,Somewhat Sensitive,1,3,High,Desktop,Other,1/26/2024,TRUE,FALSE,Wants-based,No Preference,9,0
+28-764-3337,43,Male,Middle,Divorced,Bachelor's,Middle,Renshan,Electronics,USD,$454.38,10,Mixed,4,3,2,Low,Not Sensitive,1,7,None,Tablet,Other,6/15/2024,FALSE,TRUE,Wants-based,Express,7,30
+79-297-1061,44,Male,Middle,Single,Master's,Middle,Kozelâ€™shchyna,Software & Apps,USD,$138.88,7,In-Store,4,5,2,None,Not Sensitive,2,8,None,Smartphone,cash,6/8/2024,FALSE,TRUE,Need-based,Standard,4,5
+48-315-0196,23,Male,Middle,Single,High School,Middle,Balboa,Office Supplies,USD,$52.34,6,In-Store,4,4,2,None,Somewhat Sensitive,2,9,Medium,Desktop,Debit Card,5/21/2024,TRUE,FALSE,Wants-based,Express,13,15
+49-469-9163,20,Female,Middle,Divorced,Bachelor's,High,Desakolot,Jewelry & Accessories,USD,$338.20,7,Mixed,1,3,0,Low,Very Sensitive,0,2,Low,Smartphone,Credit Card,9/1/2024,TRUE,TRUE,Impulsive,Standard,7,0
+41-215-6092,37,Female,High,Single,High School,High,ZubÅ«bah,Books,USD,$263.15,3,In-Store,2,5,0,None,Very Sensitive,0,9,Low,Tablet,Credit Card,3/4/2024,FALSE,TRUE,Planned,Express,10,30
+90-170-1951,34,Male,Middle,Widowed,Master's,High,Caitang,Electronics,USD,$371.58,2,Online,2,1,1,None,Very Sensitive,2,9,None,Smartphone,Credit Card,9/13/2024,TRUE,TRUE,Wants-based,No Preference,11,10
+39-499-3854,25,Female,Middle,Married,Bachelor's,Middle,Huaidao,Hotels,USD,$353.40,2,Online,5,3,0,High,Not Sensitive,2,10,Medium,Smartphone,paypal,12/6/2024,FALSE,FALSE,Impulsive,Express,3,20
+00-107-4749,36,Female,Middle,Single,Master's,Middle,Merlo,Health Supplements,USD,$329.41,5,Mixed,1,1,2,None,Somewhat Sensitive,2,10,High,Smartphone,Credit Card,10/21/2024,TRUE,TRUE,Impulsive,Express,2,10
+05-857-1572,23,Female,Middle,Widowed,Bachelor's,High,Rakszawa,Animal Feed,USD,$54.46,5,Mixed,3,5,0,Medium,Not Sensitive,1,1,None,Smartphone,Other,11/17/2024,FALSE,TRUE,Need-based,No Preference,1,0
+54-207-8349,40,Male,High,Single,Bachelor's,Middle,San Luis,Baby Products,USD,$257.12,8,Mixed,4,5,2,None,Very Sensitive,2,2,High,Smartphone,Other,7/24/2024,FALSE,FALSE,Need-based,Express,11,25
+62-720-2922,30,Male,High,Widowed,Bachelor's,High,Cabanas,Home Appliances,USD,$293.04,11,Online,3,4,1,High,Very Sensitive,1,5,Low,Smartphone,cash,3/3/2024,FALSE,FALSE,Impulsive,No Preference,6,0
+82-389-2029,28,Female,High,Widowed,High School,High,SarishÄbÄri,Gardening & Outdoors,USD,$110.40,12,Mixed,1,3,2,High,Somewhat Sensitive,0,3,Medium,Tablet,PayPal,11/13/2024,TRUE,FALSE,Planned,No Preference,12,20
+32-414-1466,26,Male,High,Widowed,Master's,Middle,Hallsberg,Sports & Outdoors,USD,$76.27,4,In-Store,5,1,1,None,Not Sensitive,1,1,Medium,Smartphone,debit card,12/24/2024,TRUE,FALSE,Wants-based,Standard,10,15
+11-802-5604,26,Male,High,Divorced,High School,Middle,Zengfu,Groceries,USD,$392.08,6,Online,4,5,1,Low,Not Sensitive,2,3,High,Tablet,Cash,8/4/2024,FALSE,FALSE,Impulsive,Express,6,30
+65-167-9819,28,Male,High,Divorced,High School,Middle,Punta Gorda,Luxury Goods,USD,$51.22,6,Online,1,3,1,Low,Somewhat Sensitive,0,8,High,Tablet,Credit Card,8/25/2024,TRUE,FALSE,Planned,No Preference,5,25
+35-850-8676,24,Female,High,Married,High School,Middle,Sishilichengzi,Luxury Goods,USD,$227.57,2,Online,2,4,0,Low,Somewhat Sensitive,2,8,Medium,Tablet,Cash,8/17/2024,FALSE,TRUE,Planned,No Preference,14,10
+34-094-1923,40,Female,Middle,Widowed,Master's,Middle,San Ramon,Sports & Outdoors,USD,$378.87,7,Mixed,5,3,1,None,Not Sensitive,0,9,Medium,Smartphone,PayPal,4/1/2024,FALSE,TRUE,Wants-based,No Preference,5,5
+32-314-2958,24,Male,Middle,Married,Master's,High,Nanhuang,Home Appliances,USD,$423.92,8,Mixed,2,4,0,High,Somewhat Sensitive,0,7,None,Tablet,Cash,8/24/2024,TRUE,TRUE,Impulsive,No Preference,8,0
+82-864-1154,50,Bigender,High,Divorced,High School,High,Pedraza,Health Care,USD,$111.24,9,In-Store,2,3,0,Medium,Not Sensitive,1,9,None,Desktop,Debit Card,8/6/2024,TRUE,FALSE,Need-based,No Preference,12,0
+31-088-6950,27,Female,Middle,Single,Master's,High,Hengshi,Furniture,USD,$299.31,7,Mixed,1,4,1,High,Somewhat Sensitive,0,8,Medium,Desktop,credit card,2/1/2024,FALSE,TRUE,Wants-based,Express,3,20
+84-459-7736,22,Genderqueer,Middle,Widowed,Master's,Middle,Xiluodu,Luxury Goods,USD,$169.28,7,Online,2,2,0,High,Very Sensitive,1,6,Medium,Desktop,PayPal,6/17/2024,TRUE,FALSE,Need-based,Express,6,25
+95-478-2650,37,Female,Middle,Single,Bachelor's,Middle,SÃ£o Roque,Software & Apps,USD,$449.13,9,Online,2,4,1,High,Not Sensitive,0,8,Low,Tablet,Cash,6/12/2024,FALSE,TRUE,Wants-based,Standard,14,0
+89-194-0596,33,Female,High,Married,Bachelor's,Middle,Marseille,Gardening & Outdoors,USD,$427.48,6,Online,4,2,0,None,Very Sensitive,2,7,None,Smartphone,Other,12/16/2024,TRUE,FALSE,Planned,Express,11,15
+87-418-1400,39,Male,Middle,Widowed,Bachelor's,High,Taoyuan,Clothing,USD,$171.61,3,In-Store,4,4,1,Medium,Very Sensitive,0,5,None,Desktop,Cash,10/31/2024,FALSE,TRUE,Need-based,Standard,8,30
+44-674-4037,33,Male,Middle,Divorced,Bachelor's,Middle,Punta Gorda,Mobile Accessories,USD,$240.28,3,In-Store,1,4,0.5,Low,Not Sensitive,0,4,High,Desktop,paypal,12/7/2024,TRUE,FALSE,Planned,Express,4,30
+03-827-4021,39,Male,High,Divorced,Bachelor's,Middle,Moate,Groceries,USD,$310.17,6,Mixed,1,2,0,High,Not Sensitive,2,1,High,Tablet,Cash,2/24/2024,FALSE,FALSE,Impulsive,Standard,13,20
+05-506-7216,36,Male,High,Single,Bachelor's,Middle,Don Carlos,Animal Feed,USD,$166.00,10,Online,2,2,0,Low,Very Sensitive,1,1,Low,Smartphone,Credit Card,6/11/2024,FALSE,FALSE,Planned,Express,5,30
+07-751-9620,23,Polygender,Middle,Widowed,Bachelor's,High,Ferreira do Alentejo,Software & Apps,USD,$362.01,2,Mixed,1,5,0,Medium,Very Sensitive,0,7,Low,Tablet,Debit Card,11/24/2024,FALSE,FALSE,Planned,No Preference,1,15
+18-655-3670,29,Male,Middle,Widowed,High School,High,ProstÅ™ednÃ­ BeÄva,Office Supplies,USD,$348.50,3,In-Store,2,1,0.5,Medium,Not Sensitive,2,2,Low,Tablet,Credit Card,7/9/2024,FALSE,FALSE,Planned,No Preference,8,30
+87-056-8987,49,Agender,High,Widowed,High School,Middle,Negeriagung,Groceries,USD,$395.97,9,In-Store,5,3,0,Medium,Very Sensitive,1,1,Low,Desktop,Credit Card,8/18/2024,FALSE,FALSE,Wants-based,Standard,1,10
+66-050-6391,45,Female,Middle,Single,Master's,High,TecpÃ¡n Guatemala,Sports & Outdoors,USD,$474.99,9,Online,2,1,0,None,Very Sensitive,1,10,None,Tablet,Other,7/10/2024,FALSE,FALSE,Planned,Express,5,25
+00-520-4376,50,Male,High,Widowed,Bachelor's,Middle,Harembo,Beauty & Personal Care,USD,$286.43,4,In-Store,5,5,1,Low,Somewhat Sensitive,0,10,None,Desktop,credit card,7/12/2024,TRUE,FALSE,Planned,No Preference,14,5
+15-625-4047,39,Male,Middle,Single,Master's,Middle,La UniÃ³n,Groceries,USD,$333.32,8,Online,1,2,1,High,Very Sensitive,2,2,None,Tablet,Cash,10/5/2024,TRUE,TRUE,Impulsive,No Preference,3,0
+18-925-1867,23,Female,High,Married,Bachelor's,High,GarÃ§a,Toys & Games,USD,$223.47,9,Online,1,5,1,Low,Somewhat Sensitive,0,9,None,Smartphone,Debit Card,9/20/2024,TRUE,TRUE,Planned,Express,8,15
+67-639-5838,23,Male,Middle,Married,High School,Middle,Shimorskoye,Packages),USD,$414.83,2,In-Store,4,3,1,Low,Somewhat Sensitive,1,1,Low,Tablet,PayPal,7/16/2024,FALSE,FALSE,Planned,Express,8,10
+07-024-4995,27,Bigender,Middle,Widowed,High School,Middle,Holboo,Furniture,USD,$391.38,5,In-Store,1,4,2,High,Very Sensitive,0,4,None,Tablet,cash,4/2/2024,FALSE,TRUE,Wants-based,Express,8,0
+06-160-8063,21,Bigender,Middle,Divorced,High School,High,Latacunga,Sports & Outdoors,USD,$368.40,11,Online,5,3,2,Low,Not Sensitive,1,9,None,Desktop,Credit Card,6/21/2024,FALSE,FALSE,Planned,Express,13,0
+82-572-9091,46,Female,Middle,Widowed,High School,Middle,MrÄ…gowo,Travel & Leisure (Flights,USD,$328.36,11,In-Store,5,5,2,Low,Not Sensitive,1,8,High,Desktop,Other,3/11/2024,TRUE,TRUE,Need-based,Express,4,0
+69-157-9577,41,Male,High,Divorced,Master's,High,Paisha,Toys & Games,USD,$424.39,9,Mixed,3,4,1,None,Somewhat Sensitive,1,9,High,Desktop,Credit Card,2/26/2024,TRUE,TRUE,Need-based,No Preference,13,15
+64-799-3174,46,Male,Middle,Divorced,Master's,Middle,Buzen,Travel & Leisure (Flights,USD,$197.12,10,In-Store,1,5,0,Medium,Somewhat Sensitive,2,7,None,Smartphone,PayPal,6/14/2024,FALSE,FALSE,Wants-based,No Preference,10,0
+18-938-9896,44,Female,Middle,Widowed,High School,High,Åeba,Packages),USD,$454.57,9,In-Store,3,4,1,Medium,Very Sensitive,0,6,None,Smartphone,Other,3/24/2024,TRUE,TRUE,Impulsive,No Preference,1,25
+29-827-8515,40,Female,High,Widowed,Bachelor's,High,Xidianzi,Electronics,USD,$298.38,4,Online,5,1,1,High,Very Sensitive,0,10,None,Tablet,Cash,4/27/2024,FALSE,FALSE,Need-based,No Preference,3,25
+41-934-7739,45,Genderfluid,Middle,Divorced,High School,High,Campo Maior,Jewelry & Accessories,USD,$111.70,6,In-Store,4,3,2,High,Very Sensitive,2,6,Medium,Smartphone,Other,11/7/2024,TRUE,TRUE,Wants-based,Express,7,20
+08-614-6177,32,Male,Middle,Widowed,Master's,Middle,Sungai Raya,Home Appliances,USD,$373.69,10,In-Store,5,1,1,Low,Very Sensitive,0,1,Medium,Tablet,Credit Card,12/4/2024,FALSE,TRUE,Planned,Express,14,20
+19-999-0134,30,Male,Middle,Widowed,Bachelor's,Middle,Hongqi,Health Care,USD,$354.87,5,Online,2,3,2,Medium,Very Sensitive,0,1,Low,Tablet,Credit Card,4/18/2024,FALSE,TRUE,Impulsive,No Preference,12,25
+95-999-0984,33,Male,High,Divorced,Bachelor's,Middle,Nanyaojie,Packages),USD,$214.48,2,In-Store,2,1,1,High,Very Sensitive,2,8,Medium,Tablet,Cash,4/21/2024,TRUE,TRUE,Planned,No Preference,2,30
+23-752-2213,36,Male,Middle,Widowed,Master's,Middle,NÃ­kaia,Books,USD,$399.58,6,Online,2,1,2,High,Very Sensitive,1,7,None,Desktop,Other,9/25/2024,FALSE,FALSE,Impulsive,No Preference,7,10
+54-877-5699,21,Male,High,Married,Master's,High,Madan,Sports & Outdoors,USD,$380.99,7,Online,5,1,1,Low,Somewhat Sensitive,0,5,Low,Desktop,other,12/9/2024,FALSE,TRUE,Impulsive,No Preference,8,15
+09-346-4992,46,Bigender,High,Single,Master's,High,JesÃºs MenÃ©ndez,Electronics,USD,$79.00,10,Mixed,2,1,1,High,Somewhat Sensitive,0,2,None,Tablet,Debit Card,9/14/2024,TRUE,TRUE,Need-based,Standard,7,20
+17-213-2834,34,Male,Middle,Single,High School,Middle,Marshintsy,Clothing,USD,$113.88,2,Online,4,3,0,High,Very Sensitive,0,5,Medium,Desktop,Debit Card,3/29/2024,TRUE,FALSE,Planned,No Preference,9,15
+75-083-3608,23,Male,Middle,Divorced,Master's,Middle,Hongguang,Sports & Outdoors,USD,$121.57,4,Mixed,2,4,0.5,High,Somewhat Sensitive,2,4,High,Desktop,Credit Card,6/6/2024,FALSE,FALSE,Planned,Express,13,0
+91-199-9097,29,Male,High,Married,High School,Middle,TrhovÃ© Sviny,Clothing,USD,$215.54,11,In-Store,4,5,0,Low,Not Sensitive,0,7,None,Desktop,credit card,4/8/2024,FALSE,TRUE,Planned,Express,10,5
+84-724-8407,47,Female,High,Divorced,Bachelor's,Middle,Veiga,Jewelry & Accessories,USD,$87.03,10,Online,3,3,1,None,Very Sensitive,2,4,High,Tablet,cash,8/11/2024,TRUE,TRUE,Planned,Express,7,20
+53-091-2176,21,Female,High,Widowed,Bachelor's,Middle,BÃ©ziers,Baby Products,USD,$111.75,4,In-Store,4,4,0.3,Low,Somewhat Sensitive,0,5,Medium,Desktop,Cash,10/10/2024,TRUE,TRUE,Impulsive,Standard,8,0
+97-505-8416,43,Male,Middle,Married,Bachelor's,Middle,Chamical,Luxury Goods,USD,$136.20,2,Mixed,4,5,0,None,Very Sensitive,1,10,High,Desktop,Credit Card,6/15/2024,FALSE,TRUE,Planned,Standard,9,10
+80-360-6324,24,Female,High,Single,Bachelor's,Middle,Foso,Packages),USD,$439.31,4,Online,1,4,2,Medium,Very Sensitive,2,10,None,Desktop,Debit Card,8/11/2024,FALSE,TRUE,Impulsive,Standard,7,20
+60-198-5417,27,Female,High,Single,Bachelor's,High,Celso Ramos,Software & Apps,USD,$194.93,9,In-Store,4,2,0,Medium,Somewhat Sensitive,2,7,None,Desktop,Other,3/28/2024,FALSE,FALSE,Need-based,No Preference,5,0
+30-839-5589,42,Female,Middle,Married,High School,Middle,Yaodu,Hotels,USD,$377.67,8,In-Store,5,4,1,Low,Not Sensitive,2,2,High,Smartphone,PayPal,5/13/2024,TRUE,TRUE,Planned,No Preference,14,5
+63-964-6954,19,Female,High,Married,High School,Middle,Prince Albert,Health Care,USD,$108.61,10,Mixed,2,5,1,Low,Not Sensitive,2,8,High,Smartphone,PayPal,11/23/2024,FALSE,TRUE,Need-based,No Preference,14,0
+80-728-6133,47,Male,Middle,Divorced,High School,Middle,Tamorot,Gardening & Outdoors,USD,$366.77,7,Mixed,5,1,2,High,Very Sensitive,1,1,Low,Desktop,paypal,9/18/2024,TRUE,FALSE,Planned,No Preference,1,10
+03-623-6767,48,Female,Middle,Single,High School,High,Huancabamba,Toys & Games,USD,$178.04,5,In-Store,3,3,2,High,Somewhat Sensitive,0,7,Low,Tablet,Debit Card,7/16/2024,FALSE,FALSE,Planned,Standard,12,5
+66-033-0540,34,Male,High,Widowed,High School,Middle,StÄ›boÅ™ice,Home Appliances,USD,$461.09,8,Online,1,5,1,None,Somewhat Sensitive,1,2,High,Desktop,paypal,8/3/2024,FALSE,TRUE,Planned,No Preference,8,0
+61-794-8438,45,Polygender,Middle,Divorced,Bachelor's,Middle,Rakhiv,Health Care,USD,$211.16,5,Online,1,3,2,High,Not Sensitive,2,6,None,Desktop,Cash,6/28/2024,TRUE,TRUE,Impulsive,Standard,2,0
+64-490-6975,46,Female,Middle,Married,Bachelor's,Middle,Ahar,Jewelry & Accessories,USD,$421.95,8,Mixed,3,5,2,None,Somewhat Sensitive,2,3,High,Desktop,Credit Card,3/18/2024,TRUE,TRUE,Need-based,No Preference,7,15
+87-499-6916,48,Male,Middle,Married,High School,Middle,Ndewel,Food & Beverages,USD,$378.59,5,In-Store,3,2,1,Medium,Very Sensitive,0,6,Medium,Smartphone,Debit Card,10/15/2024,FALSE,TRUE,Wants-based,No Preference,14,10
+91-440-0011,50,Female,Middle,Widowed,High School,Middle,Shiree,Sports & Outdoors,USD,$268.93,2,Online,2,4,1,None,Somewhat Sensitive,0,8,High,Desktop,Credit Card,11/23/2024,TRUE,FALSE,Planned,Standard,8,30
+43-386-2489,27,Bigender,High,Widowed,High School,Middle,Naghalin,Food & Beverages,USD,$444.87,11,Mixed,3,2,2,None,Somewhat Sensitive,1,4,None,Desktop,PayPal,11/29/2024,TRUE,FALSE,Planned,Standard,7,10
+51-302-9537,40,Female,High,Single,Bachelor's,Middle,Cibeusi,Animal Feed,USD,$160.82,7,Mixed,1,5,2,Low,Very Sensitive,1,3,High,Tablet,other,7/9/2024,TRUE,FALSE,Need-based,Express,3,5
+89-625-5542,38,Female,Middle,Divorced,Bachelor's,High,MirÃ³w,Electronics,USD,$494.18,6,In-Store,5,4,0,Low,Not Sensitive,2,9,Low,Tablet,Credit Card,8/3/2024,TRUE,TRUE,Wants-based,No Preference,14,30
+30-083-9565,37,Male,Middle,Widowed,Master's,High,Bokong Timur,Sports & Outdoors,USD,$177.05,5,Online,3,3,2,None,Very Sensitive,0,2,Low,Smartphone,Cash,12/4/2024,FALSE,FALSE,Impulsive,No Preference,1,20
+23-066-1915,23,Female,Middle,Single,Bachelor's,Middle,Jiangcun,Software & Apps,USD,$450.66,7,Mixed,5,5,0,Low,Very Sensitive,1,4,Low,Smartphone,Credit Card,6/13/2024,TRUE,TRUE,Planned,No Preference,9,20
+47-178-9529,37,Female,High,Divorced,Master's,Middle,Bida,Jewelry & Accessories,USD,$164.27,6,In-Store,4,4,2,Medium,Not Sensitive,1,4,High,Tablet,debit card,7/13/2024,FALSE,TRUE,Wants-based,No Preference,14,30
+07-323-0255,31,Genderfluid,Middle,Married,High School,High,Sakura,Groceries,USD,$346.36,12,Online,2,1,2,High,Somewhat Sensitive,1,6,None,Smartphone,PayPal,9/4/2024,TRUE,TRUE,Wants-based,No Preference,14,20
+08-806-0588,25,Male,High,Single,High School,Middle,Al QarÄrah,Health Supplements,USD,$377.77,9,In-Store,2,5,2,High,Somewhat Sensitive,0,4,Medium,Smartphone,Other,8/26/2024,TRUE,FALSE,Impulsive,Express,3,15
+20-699-9217,28,Female,High,Married,High School,Middle,San Juan del Cesar,Packages),USD,$163.41,2,Mixed,1,4,0,High,Not Sensitive,1,9,Medium,Smartphone,Debit Card,2/25/2024,FALSE,TRUE,Impulsive,Standard,4,25
+87-590-8963,45,Female,High,Married,Master's,High,Peer,Baby Products,USD,$467.58,10,In-Store,1,4,0,High,Not Sensitive,0,7,Medium,Smartphone,Debit Card,4/15/2024,FALSE,TRUE,Need-based,Standard,7,30
+49-476-1729,42,Male,High,Single,Master's,Middle,SkÃ³rzec,Travel & Leisure (Flights,USD,$247.51,10,Online,2,5,1,High,Very Sensitive,1,6,None,Tablet,PayPal,7/1/2024,FALSE,FALSE,Planned,Standard,2,20
+39-075-3518,27,Male,Middle,Widowed,High School,High,Jaguaruana,Sports & Outdoors,USD,$365.10,3,Mixed,2,5,0,High,Not Sensitive,0,6,Low,Desktop,Other,8/30/2024,FALSE,FALSE,Impulsive,No Preference,1,5
+17-364-8685,26,Male,High,Single,Master's,High,Ebebiyin,Groceries,USD,$485.42,5,Mixed,1,3,2,None,Somewhat Sensitive,0,8,None,Tablet,PayPal,11/13/2024,TRUE,FALSE,Planned,Express,4,10
+23-617-2637,50,Female,Middle,Single,Master's,High,Hekou,Software & Apps,USD,$250.54,4,Mixed,5,5,0,None,Very Sensitive,1,1,Medium,Desktop,Cash,12/27/2024,FALSE,TRUE,Need-based,Express,3,0
+68-971-6148,45,Male,High,Single,Master's,Middle,Palampal,Jewelry & Accessories,USD,$163.14,5,Mixed,4,5,0,Low,Not Sensitive,2,1,None,Smartphone,Other,8/7/2024,TRUE,TRUE,Wants-based,Express,1,0
+76-672-1193,19,Male,High,Divorced,High School,High,GuacarÃ­,Travel & Leisure (Flights,USD,$162.31,8,In-Store,1,4,0,High,Not Sensitive,1,6,High,Tablet,Debit Card,10/5/2024,FALSE,TRUE,Impulsive,Standard,11,25
+78-163-4800,43,Male,Middle,Single,Master's,Middle,Regimin,Toys & Games,USD,$328.21,7,Online,1,1,2,Low,Very Sensitive,0,4,High,Tablet,Other,2/14/2024,FALSE,TRUE,Wants-based,Standard,12,5
+91-603-1565,48,Male,Middle,Divorced,High School,Middle,Shostka,Animal Feed,USD,$268.59,4,Mixed,1,2,1,High,Not Sensitive,0,1,None,Desktop,credit card,4/5/2024,FALSE,FALSE,Wants-based,No Preference,3,10
+96-772-7220,40,Male,High,Married,Bachelor's,High,Tanjungbalai,Travel & Leisure (Flights,USD,$257.37,7,Mixed,5,5,2,Low,Somewhat Sensitive,1,3,None,Tablet,Credit Card,2/1/2024,TRUE,FALSE,Need-based,Standard,13,30
+79-759-6726,18,Male,High,Widowed,High School,High,KÅ‚oczew,Home Appliances,USD,$205.49,4,In-Store,2,4,1,Medium,Very Sensitive,1,3,None,Smartphone,Other,11/9/2024,FALSE,TRUE,Wants-based,Express,11,15
+10-328-5732,44,Female,High,Single,High School,Middle,Kliteh,Health Supplements,USD,$407.91,7,In-Store,2,4,2,Low,Very Sensitive,0,6,High,Smartphone,Credit Card,6/17/2024,FALSE,TRUE,Planned,No Preference,14,30
+91-053-3261,49,Male,Middle,Divorced,Bachelor's,High,Youcheng,Sports & Outdoors,USD,$254.73,6,Online,5,3,2,High,Not Sensitive,1,2,Medium,Desktop,Debit Card,6/1/2024,TRUE,FALSE,Impulsive,No Preference,3,5
+00-264-3797,26,Male,Middle,Married,Master's,Middle,ChavarrÃ­a,Home Appliances,USD,$397.78,12,Mixed,4,2,1,Medium,Somewhat Sensitive,0,1,High,Smartphone,debit card,9/24/2024,TRUE,FALSE,Need-based,No Preference,11,10
+80-830-3184,47,Female,High,Single,High School,Middle,Lyon,Jewelry & Accessories,USD,$305.29,3,Online,3,5,0,None,Very Sensitive,1,8,Medium,Desktop,Cash,9/5/2024,TRUE,TRUE,Need-based,Standard,10,15
+93-867-8303,21,Female,Middle,Single,Master's,High,Liangnong,Gardening & Outdoors,USD,$257.86,6,In-Store,1,4,2,Medium,Very Sensitive,1,4,High,Smartphone,PayPal,6/12/2024,FALSE,FALSE,Impulsive,Express,1,30
+60-073-3575,30,Male,Middle,Widowed,Bachelor's,Middle,EÅ‚k,Books,USD,$393.45,12,Mixed,1,1,2,Low,Very Sensitive,1,2,High,Smartphone,cash,10/6/2024,TRUE,TRUE,Wants-based,No Preference,12,15
+99-581-5577,20,Male,High,Single,High School,High,YlÃ¤ne,Gardening & Outdoors,USD,$58.49,6,Mixed,4,1,2,None,Somewhat Sensitive,0,6,Low,Desktop,Debit Card,7/29/2024,FALSE,TRUE,Planned,No Preference,7,25
+04-052-5592,41,Male,Middle,Widowed,High School,Middle,Xiaqiao,Food & Beverages,USD,$226.48,11,In-Store,5,3,2,High,Very Sensitive,0,4,Low,Desktop,Cash,10/18/2024,TRUE,TRUE,Impulsive,Standard,11,5
+18-614-2070,47,Female,Middle,Married,Bachelor's,High,Ugra,Baby Products,USD,$469.22,6,Mixed,4,4,1,None,Not Sensitive,0,5,Medium,Tablet,Debit Card,8/7/2024,TRUE,TRUE,Need-based,No Preference,7,30
+51-415-1931,42,Female,High,Divorced,High School,High,KoÅ›cielec,Electronics,USD,$335.32,6,Mixed,3,4,1,None,Not Sensitive,2,3,None,Desktop,PayPal,8/12/2024,TRUE,TRUE,Impulsive,Express,10,30
+34-237-3943,44,Male,Middle,Married,Master's,Middle,Fangshan,Luxury Goods,USD,$184.74,5,Mixed,2,5,1,Medium,Not Sensitive,1,3,Low,Smartphone,Cash,11/27/2024,FALSE,FALSE,Impulsive,Express,10,5
+08-584-8296,18,Female,Middle,Divorced,High School,High,Shaxi,Food & Beverages,USD,$442.18,5,Mixed,3,1,2,Low,Very Sensitive,0,8,High,Smartphone,Debit Card,1/25/2024,FALSE,FALSE,Wants-based,Standard,12,0
+06-357-6548,39,Female,Middle,Divorced,High School,Middle,Ishikawa,Groceries,USD,"427,1",8,Online,3,3,1,None,Very Sensitive,2,4,Low,Tablet,cash,5/10/2024,FALSE,FALSE,Planned,Express,5,15
+25-502-1415,38,Female,High,Married,Master's,Middle,Longhuashan,Arts & Crafts,USD,$326.82,4,Mixed,4,5,0,Medium,Somewhat Sensitive,2,2,Medium,Desktop,Credit Card,4/22/2024,FALSE,TRUE,Planned,No Preference,4,30
+20-562-2569,44,Female,High,Divorced,Bachelor's,High,Aramayuan,Mobile Accessories,USD,$98.97,12,Online,2,4,0.3,High,Not Sensitive,2,4,None,Tablet,PayPal,3/19/2024,TRUE,FALSE,Need-based,Standard,11,20
+84-315-7189,29,Female,High,Married,Bachelor's,Middle,Å¢Äqchah KhÄnah,Mobile Accessories,USD,$77.65,6,Mixed,4,5,1,High,Somewhat Sensitive,0,9,High,Smartphone,Debit Card,1/24/2024,FALSE,FALSE,Wants-based,Standard,1,15
+72-431-5021,35,Female,High,Married,Master's,High,Oeiras,Animal Feed,USD,$85.61,2,Online,4,2,0,Medium,Not Sensitive,1,1,Low,Smartphone,Debit Card,10/4/2024,TRUE,FALSE,Impulsive,Standard,5,15
+57-410-7415,33,Female,High,Divorced,Bachelor's,High,TÃ½n nad Vltavou,Food & Beverages,USD,$164.79,4,Online,4,3,0,Medium,Very Sensitive,0,3,Low,Smartphone,Other,5/23/2024,TRUE,TRUE,Impulsive,Express,1,20
+89-438-5310,24,Male,High,Divorced,Bachelor's,High,SeleuÅ¡,Travel & Leisure (Flights,USD,$235.46,10,In-Store,5,1,2,Low,Very Sensitive,2,5,Low,Desktop,Cash,11/13/2024,FALSE,TRUE,Impulsive,No Preference,2,0
+21-755-8745,37,Male,High,Widowed,High School,High,Montpellier,Packages),USD,$245.14,4,Mixed,2,4,2,High,Not Sensitive,1,3,High,Smartphone,paypal,3/3/2024,TRUE,TRUE,Planned,Standard,3,30
+31-395-1286,47,Male,High,Married,High School,High,Ostashkov,Health Supplements,USD,$439.91,5,In-Store,4,4,0,Low,Somewhat Sensitive,1,1,Medium,Tablet,Other,3/3/2024,TRUE,TRUE,Wants-based,Standard,10,30
+95-525-0842,34,Male,High,Single,Master's,High,Delta del Tigre,Books,USD,$309.22,5,Mixed,5,1,2,None,Somewhat Sensitive,1,3,Medium,Tablet,debit card,3/24/2024,FALSE,FALSE,Need-based,Standard,10,0
+93-356-8589,35,Female,High,Married,Master's,High,Besko,Arts & Crafts,USD,$146.59,10,Online,3,2,1,High,Not Sensitive,0,9,High,Smartphone,Debit Card,1/22/2024,FALSE,TRUE,Need-based,No Preference,3,15
+43-715-8777,27,Male,Middle,Divorced,Master's,High,Minneapolis,Luxury Goods,USD,$298.73,4,In-Store,3,5,2,Medium,Not Sensitive,2,2,None,Desktop,Debit Card,11/2/2024,TRUE,FALSE,Impulsive,No Preference,4,5
+86-917-7481,48,Female,Middle,Widowed,Master's,High,Shanghu,Animal Feed,USD,$395.01,2,Mixed,5,3,0,None,Very Sensitive,1,10,High,Tablet,debit card,4/18/2024,TRUE,TRUE,Impulsive,Standard,3,15
+50-447-5171,50,Female,High,Married,Master's,Middle,Napoli,Office Supplies,USD,$371.19,10,In-Store,4,3,1,High,Somewhat Sensitive,1,6,None,Smartphone,Cash,8/27/2024,TRUE,FALSE,Impulsive,Express,1,15
+47-947-4888,26,Male,High,Single,Master's,High,Baisha,Baby Products,USD,$193.76,10,In-Store,4,3,2,Medium,Not Sensitive,2,6,Medium,Tablet,PayPal,2/3/2024,TRUE,TRUE,Impulsive,Express,12,25
+57-000-8646,41,Female,High,Widowed,Master's,Middle,Purwa,Jewelry & Accessories,USD,$424.27,6,In-Store,5,1,0,High,Very Sensitive,1,5,Medium,Smartphone,Debit Card,9/15/2024,TRUE,FALSE,Wants-based,Standard,12,25
+82-304-6495,19,Male,High,Married,Master's,High,Labo,Beauty & Personal Care,USD,$496.11,2,Mixed,2,2,0.3,Low,Very Sensitive,2,4,High,Tablet,Credit Card,6/8/2024,FALSE,FALSE,Planned,No Preference,12,20
+42-898-6421,21,Female,High,Divorced,High School,Middle,Cervantes,Luxury Goods,USD,$341.91,3,Mixed,1,4,2,Low,Very Sensitive,1,7,Medium,Desktop,Cash,5/31/2024,FALSE,FALSE,Impulsive,Standard,7,5
+67-599-9267,47,Male,High,Widowed,High School,Middle,Lomintsevskiy,Arts & Crafts,USD,$127.66,11,In-Store,5,1,2,Low,Somewhat Sensitive,1,10,High,Smartphone,Other,2/23/2024,FALSE,FALSE,Impulsive,No Preference,7,30
+91-810-3612,36,Female,Middle,Married,Bachelor's,Middle,Dashkawka,Sports & Outdoors,USD,$227.47,2,Online,5,1,0,Medium,Very Sensitive,2,2,High,Smartphone,Debit Card,10/30/2024,TRUE,TRUE,Need-based,No Preference,9,20
+22-382-9636,32,Male,Middle,Married,Bachelor's,High,Kamal,Health Care,USD,$342.99,3,Mixed,1,4,2,High,Somewhat Sensitive,2,5,High,Smartphone,Other,11/22/2024,FALSE,TRUE,Wants-based,Standard,6,20
+22-022-9256,37,Female,Middle,Married,Master's,High,Fenglu,Jewelry & Accessories,USD,$306.48,5,Online,2,5,1,None,Very Sensitive,2,9,None,Tablet,other,9/15/2024,FALSE,FALSE,Impulsive,No Preference,14,15
+74-051-7865,19,Female,High,Divorced,Bachelor's,High,Deqing,Baby Products,USD,$308.54,3,Mixed,5,1,0,Medium,Very Sensitive,0,4,High,Desktop,Other,9/29/2024,TRUE,FALSE,Need-based,Standard,7,15
+09-737-8354,37,Female,Middle,Widowed,High School,High,Tandahimba,Animal Feed,USD,$124.17,12,In-Store,3,3,0,Medium,Not Sensitive,2,1,Low,Desktop,PayPal,11/16/2024,TRUE,TRUE,Need-based,No Preference,6,20
+24-878-4507,34,Male,High,Divorced,Bachelor's,Middle,Lenart v Slov. Goricah,Clothing,USD,$78.00,5,Mixed,5,4,0,Low,Somewhat Sensitive,2,3,High,Desktop,Cash,11/9/2024,FALSE,TRUE,Need-based,No Preference,11,5
+76-382-7162,26,Female,High,Single,High School,Middle,Mahanoro,Food & Beverages,USD,$393.03,4,Online,3,5,0,Low,Somewhat Sensitive,2,7,Medium,Desktop,Debit Card,9/3/2024,FALSE,FALSE,Wants-based,No Preference,7,5
+44-938-7475,28,Female,High,Single,Bachelor's,High,Tochio-honchÅ,Hotels,USD,$102.09,3,Mixed,2,5,2,High,Not Sensitive,1,10,Medium,Tablet,cash,3/13/2024,FALSE,TRUE,Wants-based,Standard,1,5
+39-636-5871,38,Male,High,Divorced,Bachelor's,High,Bilice,Baby Products,USD,$426.21,3,In-Store,2,4,1,None,Somewhat Sensitive,2,1,Medium,Tablet,Debit Card,4/18/2024,FALSE,FALSE,Impulsive,Express,2,30
+66-894-5431,41,Male,Middle,Single,Master's,High,Zarasai,Mobile Accessories,USD,$140.31,2,Online,3,1,2,Medium,Very Sensitive,2,9,None,Desktop,PayPal,5/21/2024,FALSE,FALSE,Wants-based,No Preference,8,0
+42-101-8525,21,Male,Middle,Widowed,Bachelor's,Middle,Curahkalak Tengah,Gardening & Outdoors,USD,$413.70,8,Mixed,2,1,2,High,Not Sensitive,2,8,Medium,Smartphone,Other,6/17/2024,FALSE,TRUE,Need-based,Express,6,20
+33-203-4230,23,Male,High,Divorced,Master's,Middle,Perbaungan,Software & Apps,USD,$348.63,4,Mixed,5,3,0,High,Not Sensitive,2,7,Low,Desktop,PayPal,4/1/2024,FALSE,FALSE,Need-based,Express,6,15
+06-764-5496,26,Female,High,Single,High School,Middle,TiÅ¡ina,Clothing,USD,$91.27,7,In-Store,4,4,0,None,Very Sensitive,0,10,Medium,Desktop,PayPal,6/21/2024,TRUE,TRUE,Impulsive,No Preference,13,0
+67-036-4295,50,Female,Middle,Divorced,Master's,High,Montceau-les-Mines,Arts & Crafts,USD,$359.94,11,Online,3,2,1,None,Somewhat Sensitive,1,7,Low,Smartphone,other,12/19/2024,TRUE,TRUE,Need-based,Standard,9,5
+67-676-5945,28,Female,High,Married,Bachelor's,High,Legaspi,Baby Products,USD,$138.20,8,In-Store,4,5,2,Medium,Somewhat Sensitive,1,5,High,Smartphone,Cash,3/2/2024,FALSE,TRUE,Planned,No Preference,12,0
+30-987-7421,36,Male,Middle,Widowed,High School,High,Estacion,Furniture,USD,$196.33,11,Online,1,4,0,High,Somewhat Sensitive,0,9,Medium,Desktop,Cash,6/29/2024,FALSE,FALSE,Wants-based,Express,11,20
+19-885-2597,42,Male,High,Widowed,Master's,Middle,La MontaÃ±ita,Health Supplements,USD,$249.24,8,Mixed,3,1,0,Low,Not Sensitive,2,8,High,Desktop,Other,8/29/2024,TRUE,TRUE,Planned,Standard,7,5
+91-761-9492,29,Female,Middle,Divorced,Master's,High,Luoting,Travel & Leisure (Flights,USD,$129.10,12,Online,1,1,1,Low,Very Sensitive,0,1,Medium,Smartphone,paypal,4/15/2024,TRUE,TRUE,Impulsive,Standard,7,10
+52-005-9914,28,Male,High,Married,Bachelor's,High,Kanoni,Mobile Accessories,USD,$112.69,10,In-Store,3,4,1,Low,Not Sensitive,1,8,High,Desktop,Debit Card,8/27/2024,FALSE,FALSE,Impulsive,No Preference,1,20
+28-947-4295,29,Male,Middle,Widowed,Bachelor's,High,Mozdok,Beauty & Personal Care,USD,$267.85,5,In-Store,2,4,2,Low,Not Sensitive,1,1,High,Desktop,Other,3/20/2024,TRUE,FALSE,Impulsive,Express,7,0
+24-241-7171,30,Female,High,Single,High School,High,Huaqiu,Health Supplements,USD,$205.36,12,Mixed,1,5,2,None,Not Sensitive,2,7,Low,Desktop,Other,4/27/2024,TRUE,TRUE,Need-based,Express,5,15
+86-771-9082,20,Male,High,Married,Bachelor's,High,Ugljevik,Sports & Outdoors,USD,$79.10,10,Online,3,4,0.3,None,Somewhat Sensitive,1,8,High,Smartphone,paypal,5/5/2024,FALSE,TRUE,Wants-based,Standard,4,15
+70-108-1493,25,Female,Middle,Single,High School,High,Dobrica,Office Supplies,USD,$256.63,12,In-Store,2,3,0,None,Not Sensitive,1,3,High,Desktop,debit card,6/16/2024,FALSE,TRUE,Wants-based,No Preference,10,15
+54-238-5459,40,Female,High,Widowed,High School,High,Xinzhou,Jewelry & Accessories,USD,$409.98,12,In-Store,2,5,1,None,Somewhat Sensitive,0,6,None,Smartphone,cash,10/15/2024,FALSE,FALSE,Wants-based,No Preference,8,20
+37-560-7247,38,Genderqueer,Middle,Married,Master's,High,GryfÃ³w ÅšlÄ…ski,Groceries,USD,$291.60,2,Online,2,2,0,None,Somewhat Sensitive,1,9,None,Smartphone,Other,8/1/2024,FALSE,FALSE,Wants-based,Standard,3,10
+83-561-3374,45,Female,High,Widowed,Master's,Middle,Santa Maria do Souto,Software & Apps,USD,$101.70,7,Mixed,1,4,1,High,Somewhat Sensitive,1,3,None,Tablet,Debit Card,6/25/2024,FALSE,FALSE,Wants-based,Standard,4,15
+41-009-7879,27,Female,High,Married,High School,Middle,Anyang,Hotels,USD,$369.73,2,Mixed,1,1,1,High,Very Sensitive,0,3,High,Desktop,other,2/4/2024,TRUE,FALSE,Wants-based,Standard,12,10
+04-352-1558,36,Female,High,Single,Master's,Middle,Wang Yang,Home Appliances,USD,$71.00,12,Online,2,5,0,High,Very Sensitive,1,5,None,Smartphone,Other,6/26/2024,FALSE,FALSE,Impulsive,Express,13,15
+16-583-2801,32,Female,Middle,Widowed,Master's,Middle,Anchorage,Gardening & Outdoors,USD,$280.05,10,In-Store,1,4,1,None,Very Sensitive,2,10,High,Desktop,Debit Card,7/6/2024,TRUE,FALSE,Wants-based,Standard,11,10
+84-458-6432,40,Female,Middle,Divorced,Bachelor's,Middle,Mawu,Groceries,USD,$54.71,4,Online,3,3,1,None,Not Sensitive,0,5,High,Tablet,Credit Card,10/26/2024,TRUE,FALSE,Need-based,Standard,3,20
+09-513-4923,38,Genderfluid,High,Divorced,Master's,High,Kadugadung,Travel & Leisure (Flights,USD,$119.51,11,Online,2,3,0,Medium,Not Sensitive,1,6,High,Desktop,PayPal,5/7/2024,FALSE,FALSE,Need-based,Express,1,30
+85-467-6564,35,Female,Middle,Widowed,High School,Middle,San Nicolas,Health Care,USD,$57.50,12,In-Store,4,2,0,High,Very Sensitive,1,7,None,Smartphone,other,12/8/2024,FALSE,FALSE,Planned,No Preference,13,30
+53-240-2040,26,Male,High,Married,High School,High,ItaguaÃ­,Gardening & Outdoors,USD,$225.05,5,Mixed,1,1,0,Medium,Somewhat Sensitive,2,2,None,Tablet,Cash,6/27/2024,FALSE,TRUE,Impulsive,Express,10,25
+57-372-5969,35,Non-binary,High,Divorced,Master's,High,Bogovarovo,Clothing,USD,$441.15,7,Mixed,1,2,0,Medium,Somewhat Sensitive,1,2,Low,Tablet,PayPal,8/31/2024,FALSE,FALSE,Planned,Express,8,10
+08-977-4418,29,Female,Middle,Married,Master's,High,Reuleuet,Electronics,USD,$481.21,3,In-Store,5,4,0,None,Not Sensitive,2,6,None,Tablet,Other,11/13/2024,FALSE,TRUE,Impulsive,Standard,11,15
+40-520-3271,29,Female,High,Widowed,High School,High,Zhongcheng,Health Supplements,USD,$102.96,3,In-Store,3,4,2,None,Not Sensitive,0,7,None,Desktop,Credit Card,12/19/2024,FALSE,TRUE,Impulsive,No Preference,4,20
+72-336-1992,44,Female,Middle,Widowed,Bachelor's,High,Jubaoshan,Groceries,USD,$331.57,11,Online,4,1,0,Medium,Very Sensitive,0,10,Low,Tablet,Cash,5/6/2024,TRUE,TRUE,Impulsive,Standard,14,10
+00-275-9990,24,Female,Middle,Married,Bachelor's,Middle,Tempuran,Food & Beverages,USD,$101.29,11,Mixed,1,5,0,High,Very Sensitive,0,6,High,Smartphone,PayPal,10/30/2024,TRUE,TRUE,Wants-based,Express,4,25
+12-417-5609,29,Female,Middle,Widowed,High School,Middle,Iwade,Baby Products,USD,$143.52,9,Online,4,2,0,High,Very Sensitive,2,6,High,Tablet,cash,4/11/2024,TRUE,FALSE,Planned,No Preference,12,0
+36-649-0081,24,Female,High,Divorced,Master's,Middle,Beigucheng,Hotels,USD,$276.48,3,Online,3,3,1,High,Very Sensitive,1,7,Low,Smartphone,Credit Card,5/5/2024,TRUE,FALSE,Planned,No Preference,7,15
+34-265-8558,22,Female,High,Single,High School,High,Antipolo,Food & Beverages,USD,$352.87,11,Online,2,2,2,Medium,Very Sensitive,0,3,None,Desktop,cash,2/19/2024,FALSE,FALSE,Planned,No Preference,12,0
+73-367-8478,41,Genderfluid,High,Single,Bachelor's,High,Giesteira,Packages),USD,$228.68,3,Online,2,2,0,Low,Not Sensitive,1,7,None,Tablet,debit card,10/9/2024,TRUE,TRUE,Impulsive,Express,4,10
+55-237-7991,49,Male,Middle,Widowed,Master's,High,Huangtang,Home Appliances,USD,$301.39,6,In-Store,4,4,2,None,Somewhat Sensitive,0,8,High,Desktop,paypal,4/21/2024,FALSE,TRUE,Planned,No Preference,11,10
+71-959-3896,29,Male,High,Married,Bachelor's,High,Cipari,Luxury Goods,USD,$473.50,11,Online,4,5,2,High,Somewhat Sensitive,1,3,Low,Tablet,Other,7/24/2024,FALSE,TRUE,Planned,Standard,10,15
+29-779-3457,49,Female,Middle,Widowed,Bachelor's,High,Huangni,Office Supplies,USD,$72.80,11,In-Store,2,3,2,None,Very Sensitive,0,7,High,Tablet,cash,8/20/2024,TRUE,TRUE,Need-based,No Preference,3,25
+72-006-3769,41,Female,High,Married,Bachelor's,High,SÃ£o Mateus do MaranhÃ£o,Packages),USD,$171.72,3,Mixed,3,1,1,Medium,Very Sensitive,0,10,Medium,Desktop,paypal,3/24/2024,TRUE,TRUE,Wants-based,Express,12,0
+81-814-3498,32,Male,Middle,Single,High School,Middle,PÄ«rgaaj,Hotels,USD,$467.50,6,Online,1,4,1,Medium,Not Sensitive,2,1,Medium,Desktop,other,4/4/2024,FALSE,FALSE,Impulsive,Standard,6,30
+23-794-8196,36,Genderfluid,High,Married,Master's,Middle,Xinchengzi,Furniture,USD,$209.79,6,Mixed,5,2,2,High,Very Sensitive,2,2,High,Smartphone,credit card,9/13/2024,FALSE,TRUE,Need-based,Standard,10,5
+90-602-3583,32,Female,High,Widowed,Bachelor's,Middle,Mocho,Home Appliances,USD,$150.33,9,Mixed,2,4,1.2,None,Somewhat Sensitive,0,6,None,Smartphone,Debit Card,4/24/2024,TRUE,FALSE,Need-based,Express,6,20
+69-692-0614,18,Female,Middle,Widowed,Bachelor's,High,ShÄhzÄdpur,Mobile Accessories,USD,$98.63,7,Online,4,2,2,None,Very Sensitive,1,3,None,Tablet,Cash,1/9/2024,TRUE,TRUE,Wants-based,Express,6,30
+25-839-8670,45,Female,Middle,Widowed,High School,Middle,TÃ¡la,Health Supplements,USD,$193.30,11,In-Store,1,5,1,High,Very Sensitive,1,4,High,Tablet,PayPal,6/3/2024,TRUE,TRUE,Planned,Standard,12,25
+12-851-1771,50,Bigender,High,Married,High School,High,Zhukovo,Electronics,USD,$145.02,7,Online,1,4,0,High,Not Sensitive,2,5,High,Smartphone,Credit Card,6/23/2024,FALSE,TRUE,Need-based,No Preference,9,20
+73-145-5784,50,Female,Middle,Divorced,High School,High,Donglu,Furniture,USD,$294.99,4,In-Store,2,2,1,None,Not Sensitive,0,5,High,Smartphone,Other,11/30/2024,TRUE,TRUE,Need-based,Standard,5,10
+98-535-8497,35,Male,High,Divorced,Master's,Middle,Lincheng,Clothing,USD,$305.45,2,Mixed,3,2,1,Low,Not Sensitive,1,1,Medium,Tablet,cash,10/24/2024,FALSE,FALSE,Planned,Express,9,10
+42-859-2475,40,Male,Middle,Widowed,Master's,High,Yenakiyeve,Sports & Outdoors,USD,$432.42,2,Online,4,2,1,Low,Not Sensitive,0,4,Medium,Desktop,Cash,4/21/2024,TRUE,TRUE,Need-based,No Preference,13,30
+69-157-6752,18,Male,Middle,Single,Bachelor's,Middle,Ebu,Electronics,USD,$227.58,11,Online,4,1,2,Medium,Somewhat Sensitive,2,5,None,Desktop,Other,1/23/2024,TRUE,TRUE,Planned,Express,6,25
+53-690-5759,38,Agender,High,Divorced,High School,High,Medicine Hat,Home Appliances,USD,$160.89,10,Online,4,3,1,Medium,Not Sensitive,0,5,None,Desktop,Debit Card,6/23/2024,TRUE,TRUE,Planned,Standard,13,5
+64-803-7087,32,Male,Middle,Single,Bachelor's,High,SÃ£o JoÃ£o dos Inhamuns,Groceries,USD,$139.10,7,Online,5,1,0,High,Not Sensitive,2,10,Low,Desktop,PayPal,3/20/2024,TRUE,FALSE,Impulsive,No Preference,8,25
+82-975-8569,26,Male,High,Widowed,Bachelor's,High,Paris 15,Luxury Goods,USD,$268.28,9,Mixed,5,1,1,Medium,Somewhat Sensitive,1,8,High,Desktop,PayPal,4/9/2024,FALSE,TRUE,Planned,Standard,8,25
+13-618-9438,40,Male,High,Divorced,Bachelor's,High,Chuquitira,Home Appliances,USD,$64.49,6,Online,4,1,0,None,Very Sensitive,0,6,None,Desktop,Debit Card,10/19/2024,FALSE,FALSE,Need-based,Standard,7,15
+84-337-1016,19,Genderfluid,High,Widowed,High School,High,Longxing,Health Care,USD,$80.17,10,Online,1,5,0,Low,Very Sensitive,0,3,High,Smartphone,Credit Card,5/10/2024,TRUE,FALSE,Planned,No Preference,6,20
+99-316-9993,27,Male,Middle,Widowed,Master's,Middle,Staritsa,Groceries,USD,$277.52,11,Mixed,5,1,2,Low,Very Sensitive,0,2,None,Smartphone,Cash,5/14/2024,FALSE,TRUE,Impulsive,No Preference,11,5
+41-750-4105,23,Female,High,Divorced,Master's,High,Tingsryd,Books,USD,$53.67,7,In-Store,1,3,0,Medium,Not Sensitive,0,6,None,Desktop,Debit Card,4/13/2024,FALSE,FALSE,Need-based,Standard,11,20
+67-438-2378,29,Female,Middle,Divorced,High School,High,Honolulu,Jewelry & Accessories,USD,$323.39,10,Online,5,2,1,High,Very Sensitive,2,3,Low,Smartphone,PayPal,1/4/2024,FALSE,TRUE,Impulsive,No Preference,11,10
+54-193-3526,24,Female,Middle,Widowed,Bachelor's,Middle,Masaran,Travel & Leisure (Flights,USD,$98.02,5,Online,1,2,1,Low,Very Sensitive,2,8,Medium,Desktop,Cash,6/30/2024,TRUE,TRUE,Planned,No Preference,10,5
+79-973-7862,47,Female,Middle,Married,Master's,Middle,Mount Ayliff,Animal Feed,USD,$231.26,10,In-Store,2,5,0,Low,Very Sensitive,0,1,High,Desktop,Cash,4/30/2024,FALSE,TRUE,Need-based,Express,10,15
+91-695-8237,31,Female,Middle,Widowed,High School,High,Kryva Hora,Arts & Crafts,USD,$382.49,6,Online,3,2,2,Medium,Very Sensitive,2,9,Medium,Tablet,PayPal,2/1/2024,TRUE,TRUE,Wants-based,Standard,1,20
+53-042-5685,44,Female,Middle,Widowed,Bachelor's,High,Sula,Jewelry & Accessories,USD,$255.42,9,In-Store,3,4,0.3,Low,Not Sensitive,1,10,Medium,Tablet,cash,7/1/2024,FALSE,TRUE,Planned,Standard,11,25
+27-941-4995,27,Female,High,Married,High School,Middle,Sankeyushu,Packages),USD,$423.23,12,In-Store,1,2,0,None,Very Sensitive,0,5,None,Desktop,credit card,11/5/2024,FALSE,FALSE,Wants-based,No Preference,6,30
+21-300-2001,41,Female,Middle,Widowed,High School,Middle,á¸¨abÄ«l al Jabr,Luxury Goods,USD,$276.08,4,Mixed,4,4,1,High,Very Sensitive,0,6,None,Smartphone,Cash,1/29/2024,FALSE,FALSE,Impulsive,No Preference,10,10
+86-668-1045,20,Female,High,Single,High School,Middle,Paris 17,Office Supplies,USD,$333.56,3,Online,1,1,0,High,Not Sensitive,1,2,Medium,Desktop,Debit Card,10/25/2024,FALSE,TRUE,Impulsive,Express,14,10
+85-366-1482,31,Female,Middle,Married,High School,Middle,Badajoz,Health Care,USD,$129.82,12,Mixed,3,3,2,Low,Not Sensitive,1,5,High,Desktop,Credit Card,6/3/2024,TRUE,FALSE,Impulsive,Express,8,30
+47-528-3961,24,Male,High,Married,Master's,High,FaÄ«áº•ÄbÄd,Gardening & Outdoors,USD,$278.78,3,Online,3,1,0,Low,Not Sensitive,0,2,High,Desktop,credit card,6/14/2024,TRUE,TRUE,Need-based,Express,2,15
+82-990-0504,46,Female,Middle,Widowed,Bachelor's,Middle,PÃ©lla,Groceries,USD,$112.55,5,Online,1,2,0,None,Very Sensitive,1,2,Low,Tablet,paypal,10/22/2024,TRUE,FALSE,Planned,No Preference,2,20
+74-281-3421,50,Female,Middle,Widowed,High School,High,Panyam,Food & Beverages,USD,$142.02,7,Mixed,5,2,2,High,Somewhat Sensitive,2,3,None,Smartphone,Credit Card,7/9/2024,TRUE,FALSE,Planned,No Preference,3,0
+84-649-5117,24,Female,Middle,Single,Master's,High,Huzhen,Office Supplies,USD,$481.84,10,Mixed,5,5,0.3,Low,Not Sensitive,1,7,Low,Smartphone,Debit Card,8/14/2024,TRUE,TRUE,Impulsive,No Preference,9,5
+73-434-2308,19,Female,Middle,Married,Master's,High,Guanzhou,Mobile Accessories,USD,$165.01,10,Mixed,2,3,0,Low,Very Sensitive,0,8,Low,Desktop,Other,4/17/2024,FALSE,FALSE,Need-based,No Preference,10,30
+28-874-8938,46,Male,High,Married,High School,High,Phong Äiá»n,Office Supplies,USD,$56.85,5,Mixed,4,2,2,Low,Not Sensitive,1,8,Medium,Desktop,PayPal,11/16/2024,FALSE,TRUE,Wants-based,Express,14,20
+23-949-1954,42,Male,Middle,Single,Bachelor's,Middle,Kariya,Toys & Games,USD,$182.89,2,Online,2,5,0,None,Not Sensitive,0,9,High,Tablet,Credit Card,8/12/2024,FALSE,FALSE,Need-based,No Preference,5,20
+79-960-1714,31,Male,Middle,Single,Master's,High,NykÃ¶ping,Travel & Leisure (Flights,USD,$373.01,5,In-Store,3,3,0,Low,Very Sensitive,1,9,Low,Smartphone,Credit Card,7/27/2024,TRUE,FALSE,Impulsive,No Preference,8,0
+35-418-0288,48,Female,High,Divorced,High School,Middle,Spasskoye,Baby Products,USD,$220.77,7,In-Store,1,5,2,High,Very Sensitive,1,5,None,Desktop,other,4/15/2024,TRUE,FALSE,Impulsive,Standard,11,20
+08-185-6608,32,Female,High,Divorced,Master's,Middle,Podbrdo,Baby Products,USD,$291.09,11,Online,3,5,1,Low,Somewhat Sensitive,1,5,High,Desktop,Credit Card,10/6/2024,FALSE,FALSE,Planned,Standard,1,5
+14-249-1256,46,Male,Middle,Single,High School,Middle,Marolambo,Beauty & Personal Care,USD,$414.06,9,Mixed,2,3,2,Medium,Somewhat Sensitive,1,7,Low,Tablet,Other,11/26/2024,FALSE,TRUE,Impulsive,Standard,2,10
+02-004-0620,32,Male,Middle,Single,Master's,High,Lagoa Seca,Groceries,USD,$408.51,9,Online,3,5,1,None,Not Sensitive,2,2,Low,Desktop,Other,5/26/2024,TRUE,FALSE,Need-based,No Preference,1,10
+14-305-8712,48,Male,High,Widowed,High School,Middle,Bronnitsy,Mobile Accessories,USD,$103.40,9,Online,3,4,0,None,Somewhat Sensitive,0,10,Medium,Smartphone,PayPal,11/4/2024,TRUE,FALSE,Impulsive,No Preference,9,0
+55-163-1389,24,Male,High,Divorced,Bachelor's,High,Nasielsk,Mobile Accessories,USD,$67.92,3,Online,3,2,1,Medium,Somewhat Sensitive,0,8,Medium,Desktop,Other,10/18/2024,FALSE,TRUE,Planned,Express,10,5
+36-274-5269,27,Male,Middle,Married,Master's,High,Ponte,Hotels,USD,$354.16,8,Online,2,2,2,None,Somewhat Sensitive,0,9,High,Smartphone,PayPal,6/13/2024,TRUE,FALSE,Need-based,No Preference,5,25
+02-100-4320,32,Female,High,Single,Master's,High,Majennang,Baby Products,USD,$276.77,2,Online,3,5,1,High,Somewhat Sensitive,2,5,Low,Tablet,paypal,3/3/2024,TRUE,TRUE,Wants-based,Express,4,10
+95-112-6724,31,Female,Middle,Divorced,Master's,High,Xuedian,Food & Beverages,USD,$190.25,6,Online,2,1,0,None,Very Sensitive,1,4,Low,Desktop,Debit Card,6/3/2024,FALSE,FALSE,Need-based,No Preference,13,5
+34-375-8138,48,Male,Middle,Married,Bachelor's,Middle,Zbraslavice,Home Appliances,USD,$203.49,7,Mixed,5,3,0,High,Somewhat Sensitive,1,9,High,Tablet,Cash,8/10/2024,FALSE,FALSE,Wants-based,Standard,11,5
+48-980-6078,29,Female,Middle,Single,Master's,Middle,WiwilÃ­,Home Appliances,USD,$263.50,6,Mixed,3,1,1,High,Somewhat Sensitive,0,1,None,Smartphone,other,11/18/2024,TRUE,TRUE,Need-based,Express,1,30
+72-393-6893,50,Female,Middle,Widowed,High School,Middle,Villa ConcepciÃ³n del TÃ­o,Toys & Games,USD,$247.30,2,In-Store,4,4,0,Medium,Not Sensitive,0,8,None,Tablet,PayPal,2/8/2024,FALSE,TRUE,Need-based,Express,11,20
+50-471-0212,19,Female,High,Single,Bachelor's,High,San SebastiÃ¡n de YalÃ­,Jewelry & Accessories,USD,$50.71,12,Mixed,3,3,1,Medium,Not Sensitive,0,3,Medium,Smartphone,Cash,3/17/2024,FALSE,FALSE,Impulsive,Standard,8,5
+55-955-9889,31,Female,High,Divorced,Bachelor's,High,Wailang,Health Care,USD,$131.85,4,Mixed,3,4,1,High,Not Sensitive,0,2,High,Smartphone,Credit Card,1/4/2024,TRUE,TRUE,Planned,No Preference,6,10
+14-603-9698,40,Male,High,Married,High School,High,Hultsfred,Animal Feed,USD,$459.39,6,In-Store,2,1,2,None,Somewhat Sensitive,2,5,None,Tablet,Debit Card,9/29/2024,TRUE,FALSE,Need-based,Standard,14,30
+08-733-0300,39,Female,Middle,Widowed,Bachelor's,High,Oslo,Books,USD,$383.33,6,Mixed,2,1,2,Low,Somewhat Sensitive,1,8,Low,Tablet,Credit Card,8/5/2024,TRUE,FALSE,Impulsive,Standard,12,0
+40-450-4266,37,Female,Middle,Single,Bachelor's,Middle,Sala,Health Care,USD,$212.08,8,Mixed,4,2,0,Medium,Very Sensitive,0,1,High,Smartphone,Other,5/7/2024,TRUE,TRUE,Planned,Express,13,15
+04-465-1819,37,Male,High,Widowed,Master's,Middle,Karpogory,Jewelry & Accessories,USD,$370.73,7,In-Store,1,1,0,None,Not Sensitive,2,4,None,Desktop,Cash,8/18/2024,FALSE,TRUE,Planned,Express,7,0
+31-218-0024,21,Female,High,Divorced,High School,Middle,Lewotola,Health Supplements,USD,$319.66,7,Online,3,1,2,Low,Somewhat Sensitive,2,6,High,Desktop,Credit Card,2/18/2024,TRUE,TRUE,Planned,No Preference,3,0
+85-192-9218,31,Female,High,Divorced,Bachelor's,High,Kisovec,Health Care,USD,$373.05,3,Mixed,1,4,0,Medium,Not Sensitive,0,9,High,Desktop,PayPal,3/14/2024,TRUE,TRUE,Planned,Express,7,5
+74-353-6312,46,Female,Middle,Married,Bachelor's,Middle,Pameungpeuk,Groceries,USD,$393.78,6,Online,5,2,2,Medium,Not Sensitive,2,4,High,Tablet,PayPal,3/25/2024,FALSE,FALSE,Wants-based,Express,14,15
+48-271-1908,40,Bigender,High,Single,Bachelor's,High,Oke Ila,Baby Products,USD,$245.04,4,Online,2,5,2,Medium,Not Sensitive,0,7,Medium,Smartphone,Debit Card,12/3/2024,FALSE,TRUE,Need-based,Express,10,30
+27-571-9402,44,Female,Middle,Married,Master's,Middle,SÃ£o Torcato,Home Appliances,USD,$111.27,3,Mixed,3,4,2,High,Somewhat Sensitive,0,3,High,Tablet,PayPal,5/13/2024,TRUE,FALSE,Planned,Standard,12,20
+89-754-7244,45,Male,High,Widowed,Master's,Middle,El CaÃ±o,Mobile Accessories,USD,$93.29,11,Mixed,2,3,2,High,Very Sensitive,1,8,Medium,Tablet,Credit Card,7/25/2024,TRUE,FALSE,Impulsive,No Preference,9,25
+09-783-7921,19,Female,High,Divorced,Bachelor's,High,AristÃ³bulo del Valle,Gardening & Outdoors,USD,$156.50,5,In-Store,5,5,1,Low,Not Sensitive,0,2,None,Smartphone,paypal,1/10/2024,TRUE,TRUE,Wants-based,Standard,14,25
+99-509-4653,36,Male,High,Widowed,Master's,High,OlavarrÃ­a,Health Care,USD,$290.11,8,In-Store,3,5,1,Low,Somewhat Sensitive,2,8,None,Tablet,Other,10/30/2024,TRUE,FALSE,Wants-based,Standard,14,30
+43-595-0966,46,Male,Middle,Married,Master's,Middle,Sabon Gari-Nangere,Software & Apps,USD,$355.28,3,In-Store,1,3,0,High,Very Sensitive,1,7,None,Desktop,Debit Card,9/17/2024,FALSE,FALSE,Need-based,Standard,5,15
+27-619-9264,23,Male,High,Single,Master's,High,GÃ¶teborg,Packages),USD,$73.74,7,Online,1,4,2,High,Very Sensitive,0,2,Medium,Desktop,Cash,8/17/2024,TRUE,FALSE,Planned,Standard,13,5
+96-484-1000,26,Male,Middle,Married,Bachelor's,High,Xiangshan,Gardening & Outdoors,USD,$170.35,10,In-Store,3,2,1,Low,Very Sensitive,2,4,High,Desktop,PayPal,6/3/2024,TRUE,TRUE,Need-based,Express,1,25
+82-561-4233,45,Male,Middle,Married,Master's,High,Boro Utara,Office Supplies,USD,$123.70,6,Mixed,3,3,0,High,Not Sensitive,2,3,None,Tablet,Debit Card,7/28/2024,FALSE,FALSE,Planned,No Preference,2,25
+20-648-1010,34,Male,High,Married,High School,Middle,Zilang,Home Appliances,USD,$201.60,9,Online,4,4,1,Low,Very Sensitive,1,3,Medium,Smartphone,Credit Card,10/24/2024,FALSE,TRUE,Impulsive,Standard,14,25
+03-023-9932,37,Female,High,Widowed,Bachelor's,Middle,Xiaruyue,Groceries,USD,$116.14,11,In-Store,5,2,0,Medium,Very Sensitive,2,4,Low,Tablet,debit card,4/1/2024,TRUE,TRUE,Wants-based,Express,14,25
+26-521-8328,49,Female,Middle,Divorced,Bachelor's,High,Fengjiang,Furniture,USD,$483.38,9,Online,2,1,0,None,Somewhat Sensitive,0,4,High,Desktop,other,6/9/2024,FALSE,FALSE,Wants-based,No Preference,8,0
+50-000-9588,47,Male,High,Divorced,Master's,High,Zhovkva,Jewelry & Accessories,USD,$418.62,9,In-Store,1,4,0,None,Very Sensitive,0,4,High,Tablet,Credit Card,11/14/2024,TRUE,TRUE,Impulsive,Express,11,30
+77-178-6086,42,Female,Middle,Single,Master's,Middle,Gueltat Zemmour,Toys & Games,USD,$139.83,12,In-Store,1,4,2,Medium,Somewhat Sensitive,1,2,High,Smartphone,other,10/8/2024,FALSE,TRUE,Impulsive,Express,10,10
+96-764-3843,20,Male,Middle,Widowed,Master's,High,Yongfu,Office Supplies,USD,$54.17,4,In-Store,3,4,1,None,Not Sensitive,2,2,None,Tablet,Cash,1/11/2024,TRUE,TRUE,Impulsive,Express,7,5
+25-286-8786,27,Male,High,Single,Master's,High,Berlin,Home Appliances,USD,$437.59,10,Mixed,4,3,0,Medium,Very Sensitive,0,8,Low,Desktop,Other,2/26/2024,TRUE,FALSE,Wants-based,No Preference,9,30
+04-213-4617,43,Male,High,Divorced,High School,High,XibÃ«r-MurrizÃ«,Food & Beverages,USD,$113.57,5,Mixed,2,3,2,Low,Very Sensitive,2,9,None,Desktop,PayPal,11/1/2024,FALSE,TRUE,Planned,No Preference,8,10
+29-067-4901,35,Male,High,Divorced,Master's,Middle,Arhust,Health Supplements,USD,$305.54,6,Online,2,2,0,High,Very Sensitive,2,10,Low,Desktop,PayPal,3/28/2024,TRUE,TRUE,Planned,Standard,7,10
+79-384-7469,50,Male,Middle,Single,Bachelor's,High,Xudat,Groceries,USD,$339.12,2,Mixed,5,1,0,Medium,Somewhat Sensitive,0,2,Medium,Desktop,Other,1/8/2024,TRUE,FALSE,Planned,Standard,1,25
+13-571-6506,25,Male,Middle,Divorced,Master's,High,Muslyumovo,Animal Feed,USD,$323.40,11,Mixed,1,2,1,Low,Very Sensitive,1,5,Low,Smartphone,PayPal,2/28/2024,TRUE,TRUE,Wants-based,Express,10,20
+67-935-7964,41,Female,Middle,Single,High School,High,Nikolayevsk,Office Supplies,USD,$472.61,9,In-Store,5,3,2,Low,Somewhat Sensitive,2,2,High,Tablet,cash,9/15/2024,TRUE,FALSE,Need-based,Express,5,30
+24-272-6205,39,Agender,High,Divorced,Master's,High,Cigadog,Packages),USD,$68.02,10,In-Store,5,3,0,High,Very Sensitive,0,4,Medium,Smartphone,Other,11/1/2024,TRUE,FALSE,Need-based,No Preference,6,5
+35-853-2222,19,Female,High,Married,Bachelor's,High,Valongo,Sports & Outdoors,USD,$199.44,7,Online,3,4,1,Medium,Very Sensitive,0,5,Low,Tablet,Other,7/14/2024,TRUE,FALSE,Need-based,No Preference,1,20
+58-502-7490,32,Male,High,Widowed,Bachelor's,High,Sinchao,Health Supplements,USD,$250.73,4,Mixed,4,4,0,Medium,Very Sensitive,2,2,None,Smartphone,paypal,4/24/2024,FALSE,FALSE,Impulsive,Standard,10,5
+84-894-9222,25,Bigender,High,Married,Bachelor's,High,Pryamitsyno,Sports & Outdoors,USD,$372.49,12,Online,2,5,1,None,Somewhat Sensitive,1,5,Medium,Tablet,PayPal,8/22/2024,TRUE,FALSE,Need-based,No Preference,7,30
+52-908-9971,31,Male,Middle,Widowed,High School,Middle,Gulou,Software & Apps,USD,$186.85,2,In-Store,2,1,0,None,Somewhat Sensitive,1,1,High,Desktop,paypal,2/20/2024,FALSE,FALSE,Planned,No Preference,12,0
+03-669-7519,40,Female,Middle,Married,Master's,High,Yinying,Health Supplements,USD,$73.32,10,Online,3,1,1,None,Not Sensitive,0,1,Medium,Smartphone,other,1/27/2024,FALSE,TRUE,Impulsive,Express,14,20
+81-580-3810,36,Male,Middle,Married,High School,High,CrÃ©teil,Food & Beverages,USD,$214.59,6,Online,1,2,1,Medium,Very Sensitive,2,6,Low,Smartphone,Cash,2/9/2024,FALSE,TRUE,Planned,Standard,9,5
+84-538-0238,19,Male,Middle,Divorced,High School,Middle,Harhorin,Office Supplies,USD,$467.32,12,In-Store,3,4,0.2,Medium,Not Sensitive,2,3,High,Tablet,Debit Card,1/28/2024,TRUE,TRUE,Need-based,Express,11,5
+24-109-2173,27,Female,High,Single,Bachelor's,High,MessÃ­ni,Food & Beverages,USD,$475.65,4,Online,1,5,1,High,Very Sensitive,1,2,None,Tablet,paypal,6/23/2024,FALSE,TRUE,Wants-based,Standard,14,20
+78-214-5658,48,Female,Middle,Single,High School,High,Villavicencio,Arts & Crafts,USD,$161.38,11,In-Store,4,2,1,None,Not Sensitive,0,1,High,Desktop,Debit Card,8/20/2024,FALSE,FALSE,Need-based,Standard,10,5
+93-675-1619,28,Female,Middle,Married,Master's,Middle,VÃ­lia,Animal Feed,USD,$249.78,4,In-Store,4,1,2,Medium,Not Sensitive,1,8,High,Tablet,Cash,11/24/2024,FALSE,TRUE,Need-based,Express,11,30
+48-825-0400,38,Male,Middle,Single,Master's,High,SÃ¤vedalen,Books,USD,$149.88,9,In-Store,1,3,1,None,Very Sensitive,1,10,Medium,Tablet,Cash,4/19/2024,FALSE,FALSE,Planned,Standard,4,0
+51-917-0766,28,Male,High,Married,Master's,High,Araci,Groceries,USD,$347.09,5,In-Store,4,1,0,None,Not Sensitive,1,7,Medium,Smartphone,paypal,1/26/2024,TRUE,FALSE,Need-based,Standard,7,30
+88-313-2633,33,Male,Middle,Divorced,Master's,Middle,ItsandzÃ©ni,Furniture,USD,$345.49,9,In-Store,2,2,2,Low,Somewhat Sensitive,0,7,None,Tablet,debit card,9/6/2024,TRUE,FALSE,Wants-based,No Preference,3,25
+75-210-7391,44,Female,Middle,Married,High School,Middle,Kokstad,Packages),USD,$297.24,2,In-Store,2,3,1,Medium,Somewhat Sensitive,2,7,Medium,Desktop,Other,6/29/2024,TRUE,TRUE,Need-based,No Preference,7,20
+51-320-2801,27,Female,High,Divorced,Bachelor's,High,Mouquim,Groceries,USD,$494.34,12,In-Store,1,5,1,High,Very Sensitive,1,8,None,Desktop,Cash,3/3/2024,TRUE,FALSE,Planned,No Preference,3,10
+36-240-3240,25,Male,Middle,Divorced,High School,Middle,Shilin,Baby Products,USD,$443.52,5,Online,2,1,2,None,Very Sensitive,0,1,High,Smartphone,Cash,5/10/2024,TRUE,FALSE,Wants-based,Standard,9,25
+40-149-8247,23,Male,Middle,Married,Bachelor's,Middle,Qiman,Home Appliances,USD,$457.18,7,In-Store,5,2,2,High,Not Sensitive,0,7,Low,Tablet,PayPal,8/20/2024,TRUE,TRUE,Impulsive,No Preference,10,5
+33-609-0598,29,Female,High,Single,Master's,Middle,Xinzha,Luxury Goods,USD,$407.88,4,Online,2,1,2,Medium,Very Sensitive,1,7,High,Smartphone,Credit Card,11/11/2024,FALSE,FALSE,Planned,Express,14,20
+74-022-7557,19,Male,High,Married,Bachelor's,Middle,WÅnsan,Electronics,USD,$448.68,8,In-Store,1,5,1,Low,Somewhat Sensitive,0,8,Medium,Tablet,Credit Card,5/25/2024,TRUE,TRUE,Planned,Express,8,20
+04-832-3559,26,Male,Middle,Widowed,Bachelor's,Middle,Narol,Beauty & Personal Care,USD,$255.96,7,In-Store,5,2,0,Medium,Not Sensitive,0,4,Medium,Desktop,cash,12/23/2024,TRUE,FALSE,Need-based,No Preference,13,5
+81-479-0790,19,Male,High,Single,Bachelor's,Middle,Guadalupe,Food & Beverages,USD,$146.07,7,Mixed,4,4,2,Medium,Somewhat Sensitive,1,5,Low,Desktop,Credit Card,7/7/2024,FALSE,FALSE,Need-based,No Preference,1,15
+53-784-1855,19,Female,Middle,Divorced,Master's,High,Loket,Health Supplements,USD,$311.90,4,Mixed,4,3,0,High,Very Sensitive,2,5,None,Smartphone,Credit Card,12/30/2024,TRUE,TRUE,Planned,Standard,2,30
+09-369-0588,42,Male,High,Single,Bachelor's,Middle,Dalumangcob,Gardening & Outdoors,USD,$301.60,4,In-Store,1,1,0,Medium,Very Sensitive,2,5,Low,Smartphone,other,3/11/2024,TRUE,FALSE,Planned,Express,13,10
+28-969-7540,44,Female,High,Married,Master's,Middle,KuÃ§ovÃ«,Electronics,USD,$297.45,3,Online,3,1,1,Low,Somewhat Sensitive,0,2,High,Desktop,PayPal,7/7/2024,FALSE,TRUE,Impulsive,Standard,4,5
+89-730-1134,46,Male,Middle,Divorced,High School,Middle,Jixian,Gardening & Outdoors,USD,$157.26,3,Mixed,3,4,0,None,Somewhat Sensitive,1,9,Medium,Smartphone,Cash,7/24/2024,FALSE,FALSE,Planned,Express,8,20
+88-661-4689,39,Male,Middle,Single,High School,Middle,Taocheng,Books,USD,$239.46,3,Online,5,4,1,Low,Somewhat Sensitive,2,9,None,Desktop,credit card,8/4/2024,FALSE,TRUE,Impulsive,No Preference,7,0
+10-961-9336,27,Female,Middle,Married,Master's,Middle,Dayapan,Travel & Leisure (Flights,USD,$240.82,10,Online,1,5,0,None,Not Sensitive,1,1,Low,Desktop,debit card,1/2/2024,TRUE,FALSE,Wants-based,No Preference,8,15
+99-080-9462,24,Male,High,Single,High School,Middle,Saraburi,Books,USD,$302.07,6,Mixed,1,5,2,High,Not Sensitive,2,10,Medium,Tablet,other,4/9/2024,FALSE,FALSE,Wants-based,Express,13,15
+07-958-2231,27,Female,Middle,Married,Bachelor's,Middle,Tigaherang,Baby Products,USD,$367.99,2,Mixed,3,5,1,None,Somewhat Sensitive,2,7,Low,Smartphone,Debit Card,10/15/2024,TRUE,FALSE,Wants-based,Standard,8,30
+75-617-1460,50,Male,High,Married,Master's,High,WiwilÃ­,Health Supplements,USD,$359.75,7,Mixed,1,1,1,Medium,Very Sensitive,0,10,Medium,Desktop,Other,1/23/2024,TRUE,TRUE,Wants-based,Express,3,10
+64-769-5737,45,Male,Middle,Widowed,Master's,Middle,Acheng,Home Appliances,USD,"204,44",2,Mixed,3,4,2,Low,Very Sensitive,1,5,None,Tablet,cash,12/1/2024,FALSE,FALSE,Need-based,No Preference,13,30
+34-788-8387,38,Female,Middle,Single,High School,Middle,Qingqu,Groceries,USD,$228.93,7,In-Store,3,4,0,Medium,Somewhat Sensitive,0,4,High,Desktop,debit card,2/19/2024,TRUE,TRUE,Wants-based,No Preference,11,30
+67-323-7406,35,Female,High,Married,High School,High,Yuyangguan,Electronics,USD,$355.31,11,Mixed,3,5,2,High,Somewhat Sensitive,1,6,Medium,Desktop,cash,8/19/2024,FALSE,FALSE,Need-based,Standard,12,20
+05-067-9686,20,Genderfluid,High,Single,Master's,Middle,Xilu,Toys & Games,USD,$334.67,12,Online,1,3,0,Low,Somewhat Sensitive,1,5,High,Tablet,PayPal,11/18/2024,FALSE,FALSE,Wants-based,Standard,13,20
+78-822-9328,44,Male,High,Divorced,High School,Middle,Bugarama,Gardening & Outdoors,USD,$182.72,5,In-Store,4,2,0,None,Somewhat Sensitive,1,6,Medium,Desktop,paypal,6/4/2024,FALSE,FALSE,Wants-based,Express,13,5
+02-676-9312,44,Female,High,Single,Bachelor's,High,Araci,Mobile Accessories,USD,$260.22,11,Mixed,5,4,1,Low,Very Sensitive,2,6,Low,Smartphone,Debit Card,11/20/2024,FALSE,FALSE,Need-based,No Preference,13,0
+95-528-2313,19,Female,Middle,Married,Bachelor's,High,Gudja,Electronics,USD,$454.93,8,Mixed,3,3,0,High,Somewhat Sensitive,1,9,None,Smartphone,Other,4/21/2024,TRUE,TRUE,Wants-based,Express,11,5
+51-387-9144,38,Male,High,Single,Master's,Middle,Thá»‹ Tráº¥n Cáº©m Thá»§y,Electronics,USD,$325.42,11,Online,5,2,1,None,Somewhat Sensitive,2,10,High,Desktop,PayPal,10/20/2024,FALSE,TRUE,Impulsive,Express,7,0
+75-964-5589,24,Male,High,Widowed,Master's,High,Lipovci,Sports & Outdoors,USD,$351.36,2,Mixed,4,3,0,Medium,Not Sensitive,2,7,None,Smartphone,Debit Card,2/9/2024,FALSE,TRUE,Need-based,Express,7,0
+61-926-1691,32,Male,High,Divorced,High School,Middle,Waiwukak,Office Supplies,USD,$333.63,8,In-Store,5,3,1,None,Very Sensitive,2,6,Low,Smartphone,PayPal,12/5/2024,FALSE,FALSE,Wants-based,Express,14,0
+13-848-5757,32,Female,High,Single,Master's,Middle,Longotea,Sports & Outdoors,USD,$469.90,4,Online,5,2,0,None,Very Sensitive,0,7,Medium,Smartphone,Other,6/28/2024,TRUE,FALSE,Planned,No Preference,7,5
+04-545-9162,49,Male,High,Divorced,Master's,High,Tiang,Electronics,USD,$207.52,4,Mixed,1,1,1,None,Somewhat Sensitive,1,9,High,Smartphone,Debit Card,8/6/2024,TRUE,TRUE,Need-based,Standard,2,15
+02-911-0447,29,Female,Middle,Single,High School,Middle,ZajeÄov,Travel & Leisure (Flights,USD,$125.89,7,In-Store,4,2,2,None,Not Sensitive,2,2,None,Desktop,Cash,11/22/2024,FALSE,FALSE,Planned,No Preference,13,0
+54-936-4361,34,Agender,High,Single,Bachelor's,High,Paris 17,Hotels,USD,$170.77,9,Mixed,5,3,1,Low,Not Sensitive,1,9,Low,Smartphone,PayPal,8/4/2024,FALSE,FALSE,Wants-based,Express,4,0
+07-966-8728,23,Male,Middle,Married,Master's,High,Franceville,Home Appliances,USD,$63.91,2,Online,2,2,2,None,Very Sensitive,2,8,None,Tablet,Cash,1/12/2024,FALSE,FALSE,Need-based,Standard,12,30
+02-725-7664,43,Female,High,Divorced,High School,Middle,Klishkivtsi,Food & Beverages,USD,$340.55,7,In-Store,2,1,0,None,Very Sensitive,0,2,None,Desktop,paypal,11/19/2024,FALSE,TRUE,Wants-based,Express,1,0
+53-013-1026,40,Male,High,Widowed,Master's,Middle,Duyure,Health Supplements,USD,$378.14,6,Online,3,5,1,High,Not Sensitive,0,2,High,Desktop,PayPal,9/4/2024,FALSE,FALSE,Planned,Express,7,15
+12-839-8066,20,Male,High,Divorced,Bachelor's,Middle,Muaratiga,Software & Apps,USD,$235.84,9,In-Store,3,4,0,None,Very Sensitive,1,8,Low,Tablet,Other,8/3/2024,TRUE,FALSE,Need-based,Standard,14,10
+87-934-6762,41,Male,High,Widowed,Bachelor's,Middle,SollefteÃ¥,Baby Products,USD,$164.44,5,Online,4,4,0,Low,Not Sensitive,1,9,None,Tablet,Cash,4/8/2024,FALSE,FALSE,Impulsive,Express,5,15
+10-232-0685,46,Female,High,Married,Master's,Middle,Yangping,Groceries,USD,$455.81,3,In-Store,5,1,1,High,Not Sensitive,1,6,Low,Tablet,Other,4/21/2024,FALSE,FALSE,Wants-based,Standard,6,5
+46-681-0764,44,Female,Middle,Married,Master's,High,Muara,Luxury Goods,USD,$298.32,7,In-Store,4,3,1,High,Somewhat Sensitive,0,4,None,Desktop,other,6/17/2024,TRUE,TRUE,Impulsive,Standard,12,5
+23-758-1012,39,Female,Middle,Single,High School,High,Myingyan,Books,USD,$351.71,7,In-Store,5,1,1,None,Somewhat Sensitive,1,2,Low,Smartphone,Other,3/19/2024,TRUE,TRUE,Planned,Standard,8,10
+74-882-6648,34,Female,High,Married,High School,High,Nakhchivan,Arts & Crafts,USD,$393.48,11,In-Store,3,4,0,High,Very Sensitive,2,3,High,Desktop,debit card,8/13/2024,FALSE,TRUE,Wants-based,Express,3,10
+12-440-5464,28,Male,Middle,Divorced,Master's,Middle,Ndungu,Electronics,USD,$241.72,6,Online,5,5,2,Medium,Somewhat Sensitive,1,8,Medium,Smartphone,Other,5/29/2024,FALSE,TRUE,Impulsive,No Preference,2,0
+22-234-9315,44,Female,High,Widowed,Bachelor's,High,Miyazu,Jewelry & Accessories,USD,$280.20,3,Online,2,1,2,None,Very Sensitive,0,9,Low,Smartphone,PayPal,12/3/2024,FALSE,TRUE,Impulsive,Standard,13,15
+03-422-8710,49,Male,Middle,Divorced,Bachelor's,High,Yuanguping,Sports & Outdoors,USD,$178.04,5,Mixed,2,1,0,Medium,Very Sensitive,1,8,Medium,Tablet,PayPal,9/19/2024,TRUE,FALSE,Wants-based,Standard,11,10
+60-618-2561,41,Male,High,Widowed,High School,Middle,Pedra Azul,Hotels,USD,$347.99,5,In-Store,2,5,2,None,Very Sensitive,1,7,High,Tablet,Other,3/22/2024,TRUE,TRUE,Impulsive,No Preference,6,20
+47-225-8686,29,Male,High,Widowed,High School,High,WrzÄ…sowice,Health Care,USD,$343.81,3,Mixed,2,4,0.3,Low,Not Sensitive,2,3,Medium,Desktop,Credit Card,2/22/2024,FALSE,FALSE,Impulsive,Express,3,15
+84-765-0748,34,Female,Middle,Widowed,High School,High,Hoolt,Jewelry & Accessories,USD,$105.29,7,In-Store,5,3,2,High,Very Sensitive,2,6,None,Desktop,Other,12/25/2024,FALSE,TRUE,Need-based,Standard,4,25
+94-692-4313,31,Female,High,Single,Bachelor's,Middle,PÃ©fki,Animal Feed,USD,$483.66,3,Online,5,3,1,None,Very Sensitive,1,6,High,Desktop,PayPal,8/27/2024,FALSE,TRUE,Need-based,Standard,9,15
+43-990-6454,33,Female,High,Divorced,Master's,Middle,Qorveh,Jewelry & Accessories,USD,$69.41,8,Online,3,2,2,Medium,Very Sensitive,0,4,Low,Tablet,Cash,1/28/2024,TRUE,FALSE,Planned,Express,5,20
+37-611-6911,22,Female,Middle,Married,Bachelor's,Middle,Ã‰vry,Gardening & Outdoors,USD,$207.18,11,Mixed,5,5,2,None,Somewhat Sensitive,1,7,None,Tablet,credit card,11/16/2024,TRUE,FALSE,Need-based,No Preference,8,5
+26-596-5461,46,Female,High,Single,Master's,Middle,Payapa,Electronics,USD,$454.15,11,Online,5,2,1,Medium,Somewhat Sensitive,2,1,Low,Smartphone,credit card,12/8/2024,FALSE,FALSE,Impulsive,No Preference,13,10
+30-735-8744,24,Female,Middle,Divorced,Bachelor's,High,Nawu,Mobile Accessories,USD,$113.01,11,Online,2,4,0,Medium,Not Sensitive,1,2,High,Desktop,Cash,5/15/2024,FALSE,FALSE,Wants-based,No Preference,4,10
+05-710-6109,27,Female,High,Divorced,Master's,High,Malveira,Home Appliances,USD,$419.13,4,Mixed,2,3,2,None,Very Sensitive,2,3,Low,Desktop,Debit Card,8/3/2024,TRUE,FALSE,Impulsive,No Preference,6,15
+64-906-4475,43,Male,High,Married,High School,Middle,Nantang,Travel & Leisure (Flights,USD,$183.86,5,Online,2,3,1,None,Not Sensitive,1,6,High,Tablet,Other,10/7/2024,FALSE,TRUE,Wants-based,No Preference,3,20
+08-297-3351,34,Male,High,Single,Master's,High,Thá»‹ Tráº¥n Than UyÃªn,Health Care,USD,$53.87,10,Online,2,2,2,None,Very Sensitive,0,8,High,Tablet,Cash,6/25/2024,TRUE,TRUE,Wants-based,Standard,2,30
+47-710-5471,50,Male,Middle,Single,High School,Middle,Huangtan,Beauty & Personal Care,USD,$427.82,9,Online,5,4,1,High,Somewhat Sensitive,1,5,High,Desktop,PayPal,4/4/2024,FALSE,TRUE,Planned,Express,14,0
+22-352-0576,48,Male,Middle,Married,Bachelor's,Middle,NabÄ«nagar,Food & Beverages,USD,$282.82,6,Online,5,3,2,None,Somewhat Sensitive,2,10,Medium,Desktop,PayPal,2/29/2024,TRUE,FALSE,Wants-based,Standard,3,0
+62-493-5282,35,Male,High,Widowed,High School,Middle,Shuigou,Health Care,USD,$215.31,7,In-Store,1,4,0,High,Somewhat Sensitive,2,2,None,Smartphone,Debit Card,4/9/2024,TRUE,TRUE,Impulsive,Standard,7,15
+98-817-6731,30,Male,High,Married,Bachelor's,Middle,Manwakh,Health Supplements,USD,$183.66,11,Online,2,2,0,Medium,Very Sensitive,0,8,High,Tablet,Other,4/18/2024,TRUE,TRUE,Planned,Express,6,15
+73-698-2326,39,Male,Middle,Divorced,Bachelor's,High,Daying,Baby Products,USD,$198.73,10,Mixed,5,1,2,High,Very Sensitive,1,8,Low,Smartphone,Debit Card,2/2/2024,TRUE,TRUE,Impulsive,No Preference,4,5
+62-687-5354,23,Male,Middle,Single,High School,Middle,Abaetetuba,Health Care,USD,$265.72,5,Online,4,5,2,High,Very Sensitive,0,1,Low,Tablet,paypal,4/22/2024,TRUE,FALSE,Planned,No Preference,13,15
+94-288-4423,39,Female,High,Widowed,Master's,High,Qalâ€˜eh-ye KhvÄjeh,Beauty & Personal Care,USD,$138.35,2,In-Store,1,4,0,None,Somewhat Sensitive,0,6,None,Desktop,PayPal,7/14/2024,TRUE,FALSE,Impulsive,Express,8,30
+77-796-5786,42,Male,Middle,Single,Master's,High,Beiyuan,Furniture,USD,$441.87,3,In-Store,5,5,1,Low,Very Sensitive,1,4,Low,Tablet,Other,9/10/2024,TRUE,TRUE,Need-based,No Preference,13,20
+36-323-3504,29,Male,Middle,Widowed,Master's,High,Fengtai,Food & Beverages,USD,$178.29,4,Online,5,3,0,None,Very Sensitive,2,1,High,Desktop,PayPal,7/29/2024,TRUE,FALSE,Need-based,No Preference,8,30
+08-652-2085,48,Male,Middle,Single,Master's,High,PostÅ™ekov,Animal Feed,USD,$77.08,10,In-Store,4,4,2,Low,Not Sensitive,2,7,High,Tablet,other,10/15/2024,TRUE,TRUE,Need-based,No Preference,1,25
+00-733-8770,37,Female,High,Single,Master's,High,Narok,Arts & Crafts,USD,$266.90,11,Online,5,1,1,None,Not Sensitive,0,3,None,Desktop,Cash,7/1/2024,TRUE,TRUE,Impulsive,No Preference,13,0
+43-612-8079,47,Male,High,Divorced,High School,Middle,Colima,Sports & Outdoors,USD,$269.84,4,Online,3,2,1,Low,Somewhat Sensitive,1,10,None,Desktop,cash,5/4/2024,FALSE,TRUE,Planned,No Preference,2,20
+56-072-7011,19,Male,High,Single,Master's,High,Heemstede,Mobile Accessories,USD,$334.22,8,In-Store,5,2,1,High,Very Sensitive,0,6,Medium,Smartphone,Credit Card,3/2/2024,FALSE,TRUE,Need-based,Express,1,0
+12-409-5166,48,Male,Middle,Divorced,Bachelor's,High,Camp Ithier,Furniture,USD,$474.56,8,Online,2,5,1,High,Not Sensitive,0,3,High,Desktop,Credit Card,4/17/2024,FALSE,FALSE,Need-based,No Preference,12,25
+30-133-5120,30,Male,Middle,Widowed,Bachelor's,Middle,Brikcha,Books,USD,$360.91,4,In-Store,4,4,2,High,Somewhat Sensitive,1,3,Medium,Tablet,Debit Card,8/30/2024,TRUE,FALSE,Wants-based,Express,4,30
+58-788-8938,49,Male,High,Married,High School,Middle,HachiÅji,Health Supplements,USD,$373.49,6,Mixed,1,2,1,High,Somewhat Sensitive,0,2,Medium,Desktop,PayPal,4/23/2024,FALSE,TRUE,Planned,No Preference,1,25
+97-463-0048,44,Female,Middle,Single,Master's,High,Mangge,Sports & Outdoors,USD,$462.30,5,Mixed,1,5,1,Medium,Not Sensitive,2,5,Medium,Desktop,Other,11/25/2024,TRUE,FALSE,Planned,Express,4,5
+53-951-2529,25,Male,Middle,Divorced,Master's,High,Burgastai,Electronics,USD,$332.67,8,Mixed,4,2,1,High,Not Sensitive,0,9,Medium,Smartphone,PayPal,12/11/2024,FALSE,TRUE,Need-based,No Preference,4,0
+52-726-9328,19,Genderfluid,High,Single,High School,High,Pingzhuang,Office Supplies,USD,$235.39,9,Mixed,5,2,1,Medium,Not Sensitive,0,8,High,Desktop,Debit Card,5/25/2024,FALSE,TRUE,Planned,Express,6,15
+47-992-7446,41,Male,Middle,Married,Bachelor's,High,Vitali,Electronics,USD,$269.78,7,Mixed,1,2,2,High,Somewhat Sensitive,1,8,Medium,Desktop,Credit Card,7/25/2024,FALSE,FALSE,Planned,Express,5,5
+62-892-2088,38,Male,High,Widowed,Master's,High,Huakoulongtan,Software & Apps,USD,$498.33,2,Mixed,5,4,2,Medium,Not Sensitive,1,9,Low,Tablet,Cash,5/8/2024,FALSE,TRUE,Need-based,Express,1,30
+07-560-6637,41,Female,Middle,Divorced,Master's,High,Lobuk,Clothing,USD,$182.94,7,In-Store,4,5,0,None,Not Sensitive,0,1,None,Tablet,Debit Card,5/28/2024,TRUE,FALSE,Planned,No Preference,12,10
+76-982-8107,47,Female,Middle,Widowed,Master's,High,La Mohammedia,Electronics,USD,$121.70,7,Online,4,2,1,High,Not Sensitive,1,3,Low,Desktop,Other,6/24/2024,TRUE,TRUE,Need-based,Standard,8,25
+50-510-5119,43,Male,High,Widowed,Master's,High,Montecristi,Beauty & Personal Care,USD,$489.27,4,Mixed,4,2,1,Medium,Very Sensitive,2,3,Medium,Tablet,Cash,1/13/2024,TRUE,TRUE,Need-based,Express,3,0
+43-172-9431,25,Male,Middle,Divorced,High School,Middle,Lameira,Gardening & Outdoors,USD,$303.93,6,In-Store,1,2,2,High,Not Sensitive,0,6,Low,Desktop,Debit Card,3/13/2024,FALSE,TRUE,Need-based,No Preference,2,15
+56-506-4709,50,Male,Middle,Married,Bachelor's,Middle,Glendale,Arts & Crafts,USD,$302.74,11,In-Store,2,5,1,Low,Somewhat Sensitive,1,2,High,Desktop,Debit Card,6/28/2024,FALSE,TRUE,Planned,No Preference,5,30
+68-296-5978,36,Male,High,Married,High School,Middle,Kadumelati,Hotels,USD,$157.21,11,Mixed,4,3,0,Medium,Very Sensitive,0,4,Medium,Smartphone,Cash,4/30/2024,TRUE,FALSE,Planned,No Preference,5,0
+27-262-6874,25,Female,Middle,Married,Bachelor's,High,Yuyapichis,Books,USD,$159.45,2,Mixed,2,4,1,Low,Somewhat Sensitive,2,3,High,Tablet,Other,6/14/2024,FALSE,TRUE,Impulsive,Express,14,5
+86-268-2904,49,Male,High,Widowed,High School,Middle,Pindiga,Jewelry & Accessories,USD,$312.93,2,Online,2,1,1,None,Not Sensitive,1,8,Low,Desktop,Cash,8/4/2024,TRUE,TRUE,Need-based,Express,3,0
+30-528-9105,42,Female,Middle,Married,Master's,High,Aksha,Gardening & Outdoors,USD,$65.68,4,Online,1,1,2,None,Somewhat Sensitive,1,9,None,Desktop,Cash,5/7/2024,FALSE,TRUE,Wants-based,Standard,12,15
+47-931-2642,46,Male,Middle,Widowed,Bachelor's,High,BelÅ«sovka,Beauty & Personal Care,USD,$61.86,5,Online,5,2,2,Medium,Somewhat Sensitive,1,5,High,Smartphone,credit card,11/15/2024,FALSE,TRUE,Need-based,Standard,9,5
+03-991-2098,41,Female,High,Divorced,Bachelor's,Middle,Bor,Software & Apps,USD,$343.77,6,In-Store,1,5,1,None,Not Sensitive,1,6,High,Smartphone,Debit Card,2/16/2024,FALSE,TRUE,Impulsive,No Preference,3,15
+87-290-8263,31,Male,High,Widowed,High School,High,Metchosin,Home Appliances,USD,$107.21,2,Mixed,3,5,2,Low,Not Sensitive,2,4,None,Tablet,cash,8/5/2024,FALSE,FALSE,Planned,Standard,6,25
+18-841-7253,50,Female,High,Divorced,High School,Middle,Xingxi,Books,USD,$148.98,12,Mixed,5,4,0,None,Not Sensitive,2,1,Medium,Desktop,PayPal,8/11/2024,TRUE,FALSE,Wants-based,Express,13,25
+90-144-9193,21,Female,Middle,Divorced,High School,Middle,Liren,Furniture,USD,$490.41,4,Online,2,5,1,High,Somewhat Sensitive,0,9,Low,Desktop,debit card,12/15/2024,TRUE,FALSE,Need-based,Express,3,25
+81-111-7832,50,Female,High,Widowed,Bachelor's,Middle,PelasgÃ­a,Animal Feed,USD,$461.34,4,Online,5,2,2,None,Very Sensitive,2,2,Medium,Desktop,debit card,3/6/2024,TRUE,FALSE,Planned,No Preference,7,10
+88-167-7129,40,Polygender,High,Married,Bachelor's,Middle,Ilâ€™inskiy,Packages),USD,$338.89,7,In-Store,5,5,0.2,High,Somewhat Sensitive,1,1,Medium,Desktop,Other,5/21/2024,TRUE,TRUE,Wants-based,No Preference,3,15
+60-838-4334,45,Male,High,Single,Bachelor's,High,Hongshanzui,Books,USD,$222.63,3,Mixed,2,5,1,Low,Somewhat Sensitive,0,1,Medium,Smartphone,Debit Card,3/23/2024,TRUE,TRUE,Wants-based,Express,6,20
+43-920-9499,35,Bigender,Middle,Widowed,High School,Middle,Tarata,Food & Beverages,USD,$71.95,2,Mixed,3,3,0.2,None,Very Sensitive,2,5,None,Smartphone,Other,9/22/2024,FALSE,FALSE,Planned,No Preference,13,10
+63-217-7638,34,Non-binary,Middle,Single,Bachelor's,Middle,Colima,Arts & Crafts,USD,$264.52,9,Online,5,4,2,None,Not Sensitive,0,9,Low,Smartphone,cash,4/2/2024,TRUE,TRUE,Need-based,Standard,6,20
+97-237-3483,49,Male,Middle,Single,High School,Middle,Moju,Health Care,USD,$414.80,9,Mixed,4,2,2,None,Very Sensitive,2,9,None,Tablet,PayPal,1/30/2024,FALSE,FALSE,Planned,Express,7,10
+37-513-5073,33,Female,Middle,Married,Master's,High,Mizque,Electronics,USD,$50.79,12,Mixed,4,3,1,Medium,Not Sensitive,0,2,Low,Desktop,Debit Card,5/28/2024,FALSE,FALSE,Wants-based,No Preference,3,0
+41-602-4042,47,Female,High,Single,High School,Middle,Oslo,Beauty & Personal Care,USD,$264.30,10,Online,1,1,0.3,Medium,Very Sensitive,0,2,Low,Smartphone,Cash,8/20/2024,TRUE,TRUE,Planned,Standard,5,30
+37-748-4988,21,Male,Middle,Married,High School,High,RadÄâ€˜,Furniture,USD,$122.46,12,In-Store,4,1,2,High,Not Sensitive,1,9,Medium,Smartphone,debit card,2/15/2024,TRUE,FALSE,Planned,Standard,6,25
+03-977-8103,25,Male,Middle,Widowed,Bachelor's,Middle,Quebrada Canoa,Books,USD,$238.01,8,Mixed,4,5,1,Low,Not Sensitive,2,2,High,Smartphone,Other,7/13/2024,TRUE,TRUE,Impulsive,No Preference,5,20
+07-834-3350,29,Female,High,Single,Master's,Middle,San Luis,Gardening & Outdoors,USD,$490.34,4,Mixed,4,1,1,Medium,Not Sensitive,2,4,High,Desktop,Debit Card,4/17/2024,FALSE,TRUE,Wants-based,No Preference,2,5
+00-285-9607,44,Genderfluid,Middle,Married,Bachelor's,Middle,Sobinka,Clothing,USD,$245.98,4,Mixed,1,1,0,Low,Somewhat Sensitive,2,7,None,Desktop,PayPal,11/29/2024,FALSE,FALSE,Planned,Standard,10,30
+52-240-3825,34,Male,High,Widowed,High School,High,Jolo,Home Appliances,USD,$390.83,9,Mixed,3,2,1,High,Somewhat Sensitive,2,5,Medium,Tablet,credit card,10/28/2024,TRUE,FALSE,Planned,Standard,8,25
+85-922-0190,19,Female,High,Widowed,Bachelor's,High,Nanfeng,Toys & Games,USD,$158.84,6,Online,3,3,1,Low,Not Sensitive,0,4,None,Desktop,PayPal,7/12/2024,TRUE,FALSE,Wants-based,Express,5,10
+03-874-9055,29,Female,Middle,Married,Bachelor's,High,Amparo,Mobile Accessories,USD,$439.24,8,In-Store,3,5,2,Low,Very Sensitive,0,6,Low,Smartphone,Cash,7/26/2024,FALSE,FALSE,Impulsive,Express,10,20
+35-122-5020,48,Female,High,Married,Bachelor's,Middle,Pukekohe East,Arts & Crafts,USD,$92.43,12,Mixed,1,1,1,Low,Very Sensitive,0,7,Low,Desktop,PayPal,12/5/2024,FALSE,TRUE,Wants-based,Standard,6,30
+07-816-2673,46,Female,Middle,Married,Master's,Middle,Topolâ€™noye,Food & Beverages,USD,$333.15,9,Online,4,5,1,High,Not Sensitive,1,1,Low,Tablet,Other,8/12/2024,FALSE,FALSE,Impulsive,Standard,14,15
+50-637-1630,42,Polygender,High,Married,High School,Middle,Inderka,Electronics,USD,$64.22,9,Mixed,5,4,1.3,High,Not Sensitive,1,2,None,Smartphone,other,1/2/2024,FALSE,FALSE,Impulsive,No Preference,10,10
+86-044-1071,30,Female,Middle,Divorced,Master's,Middle,Ngawi,Hotels,USD,$290.53,3,Mixed,1,2,0,None,Somewhat Sensitive,1,6,Low,Desktop,PayPal,11/4/2024,TRUE,TRUE,Wants-based,Standard,10,5
+79-939-2140,41,Male,Middle,Widowed,High School,High,Yishui,Health Care,USD,$251.80,6,Online,5,1,1,Low,Somewhat Sensitive,1,8,None,Tablet,Debit Card,7/5/2024,FALSE,TRUE,Need-based,Standard,11,5
+07-479-3919,27,Female,Middle,Single,High School,High,KÃ½thnos,Sports & Outdoors,USD,$480.52,3,Online,3,1,2,Low,Very Sensitive,1,6,High,Desktop,Credit Card,4/30/2024,TRUE,FALSE,Planned,Express,13,30
+28-676-0614,49,Male,Middle,Married,High School,High,La Ravoire,Clothing,USD,$461.71,10,In-Store,2,5,1,Medium,Somewhat Sensitive,0,10,Medium,Smartphone,Other,2/16/2024,FALSE,TRUE,Wants-based,Standard,11,15
+46-167-7999,44,Bigender,Middle,Single,Master's,Middle,PoÃ¡,Beauty & Personal Care,USD,$288.34,12,Mixed,5,5,0,None,Very Sensitive,1,2,Medium,Smartphone,PayPal,3/20/2024,FALSE,FALSE,Wants-based,No Preference,6,15
+63-680-7694,29,Female,High,Divorced,Master's,Middle,Mbala,Hotels,USD,$194.08,3,Online,5,4,1,Medium,Very Sensitive,2,1,None,Tablet,paypal,10/27/2024,TRUE,TRUE,Need-based,No Preference,13,5
+77-241-7621,26,Male,High,Married,Bachelor's,High,Warudoyong,Food & Beverages,USD,$198.45,11,Mixed,1,1,2,Low,Very Sensitive,0,6,High,Desktop,Credit Card,5/4/2024,TRUE,TRUE,Wants-based,Express,5,30
+04-349-6759,33,Female,High,Married,Bachelor's,High,BanÄ« KhaddÄsh,Food & Beverages,USD,$216.45,5,In-Store,4,1,1,None,Very Sensitive,2,10,High,Tablet,Other,10/31/2024,TRUE,FALSE,Impulsive,Standard,3,20
+32-799-7704,34,Female,High,Widowed,Master's,High,Przelewice,Health Care,USD,$358.72,5,In-Store,3,5,1,High,Not Sensitive,0,2,None,Desktop,Cash,2/6/2024,FALSE,FALSE,Impulsive,Standard,12,20
+89-997-9041,36,Male,High,Widowed,High School,Middle,Kudanding,Office Supplies,USD,$367.56,9,Mixed,5,1,0,High,Very Sensitive,0,3,High,Desktop,credit card,7/18/2024,FALSE,FALSE,Need-based,Standard,14,15
+06-594-3417,27,Male,High,Single,Bachelor's,High,Panagyurishte,Software & Apps,USD,$88.78,10,In-Store,3,1,2,Low,Somewhat Sensitive,1,9,High,Desktop,Other,1/6/2024,TRUE,TRUE,Wants-based,Express,13,15
+73-991-0066,35,Female,High,Single,Bachelor's,Middle,San Marcos de ColÃ³n,Baby Products,USD,$465.85,10,Online,4,4,2,Low,Somewhat Sensitive,2,2,High,Desktop,Credit Card,4/4/2024,FALSE,TRUE,Need-based,Standard,7,30
+71-436-6908,47,Male,High,Divorced,Bachelor's,Middle,Arnprior,Toys & Games,USD,$262.61,3,Online,3,3,0,Medium,Somewhat Sensitive,0,3,Medium,Smartphone,Cash,2/28/2024,TRUE,TRUE,Need-based,No Preference,6,30
+31-491-8457,47,Female,High,Single,Bachelor's,High,Tipaz,Beauty & Personal Care,USD,$91.24,8,Online,4,5,0,None,Somewhat Sensitive,2,2,Low,Smartphone,Debit Card,10/28/2024,FALSE,FALSE,Wants-based,No Preference,4,15
+09-443-7536,37,Female,High,Single,Bachelor's,High,Maurisu,Jewelry & Accessories,USD,$425.69,5,Mixed,1,1,2,Medium,Not Sensitive,1,4,Low,Smartphone,Debit Card,6/21/2024,FALSE,TRUE,Wants-based,Standard,4,10
+76-148-9413,43,Non-binary,High,Widowed,Master's,Middle,Benevides,Arts & Crafts,USD,$446.11,9,Mixed,5,2,0,Medium,Somewhat Sensitive,0,2,High,Smartphone,Credit Card,6/6/2024,TRUE,FALSE,Need-based,No Preference,11,5
+03-180-9200,39,Male,High,Divorced,Bachelor's,Middle,CurumanÃ­,Packages),USD,$490.11,8,In-Store,3,2,1,None,Very Sensitive,0,4,None,Desktop,Credit Card,12/24/2024,FALSE,TRUE,Impulsive,No Preference,14,10
+15-152-9751,21,Female,High,Married,High School,Middle,Turkestan,Furniture,USD,$403.57,6,Online,1,4,2,High,Somewhat Sensitive,1,9,High,Desktop,Debit Card,11/14/2024,TRUE,TRUE,Wants-based,Standard,1,15
+51-116-5937,25,Polygender,High,Widowed,Bachelor's,Middle,Lazarat,Travel & Leisure (Flights,USD,$442.15,10,In-Store,5,4,0,None,Not Sensitive,2,1,Medium,Smartphone,PayPal,12/18/2024,FALSE,FALSE,Impulsive,Express,9,20
+86-359-7320,43,Female,Middle,Widowed,Master's,Middle,Phu Loc,Toys & Games,USD,$78.71,5,In-Store,3,5,2,Low,Very Sensitive,0,2,High,Tablet,Debit Card,4/10/2024,FALSE,TRUE,Planned,Express,4,0
+18-263-0366,33,Female,Middle,Divorced,Bachelor's,Middle,Abiko,Books,USD,$491.51,2,Online,2,4,2,None,Not Sensitive,0,1,None,Tablet,Cash,12/6/2024,FALSE,FALSE,Impulsive,Express,7,30
+22-053-4627,30,Female,High,Married,High School,High,KamÃ¡rai,Food & Beverages,USD,$457.39,12,Online,4,1,1,Medium,Somewhat Sensitive,2,7,Medium,Smartphone,Debit Card,10/29/2024,FALSE,FALSE,Wants-based,Express,9,5
+66-557-1474,25,Male,Middle,Single,Master's,Middle,LÄ«kak,Furniture,USD,$178.61,12,Online,5,1,0,Medium,Somewhat Sensitive,2,6,High,Tablet,Debit Card,7/10/2024,TRUE,TRUE,Need-based,Express,8,10
+60-834-3348,32,Female,Middle,Married,Master's,Middle,Gafargaon,Jewelry & Accessories,USD,$492.51,7,In-Store,3,1,2,Medium,Not Sensitive,2,3,High,Tablet,Debit Card,1/30/2024,FALSE,FALSE,Impulsive,No Preference,4,30
+89-189-3295,23,Female,Middle,Single,Master's,Middle,Vereshchagino,Office Supplies,USD,$411.40,3,In-Store,2,4,0,None,Somewhat Sensitive,2,8,Low,Smartphone,Cash,8/12/2024,TRUE,FALSE,Need-based,Standard,6,25
+09-775-4058,23,Male,High,Married,High School,High,PerzÃ³w,Mobile Accessories,USD,$96.52,11,Online,2,4,2,Low,Somewhat Sensitive,0,4,High,Desktop,Other,3/17/2024,TRUE,TRUE,Planned,Express,11,15
+44-949-9040,23,Female,High,Divorced,Bachelor's,High,Garibaldi,Health Care,USD,$65.45,6,In-Store,2,1,2,None,Very Sensitive,0,2,Medium,Desktop,paypal,9/21/2024,FALSE,FALSE,Wants-based,No Preference,3,25
+00-477-9449,36,Male,Middle,Widowed,Bachelor's,High,White Rock,Packages),USD,$255.86,3,In-Store,2,4,2,Medium,Not Sensitive,0,3,None,Desktop,Other,3/25/2024,FALSE,TRUE,Impulsive,Standard,4,0
+98-585-4742,38,Female,High,Widowed,High School,High,Ãgios AndrÃ©as,Home Appliances,USD,$74.69,10,Mixed,4,1,1,High,Not Sensitive,2,2,Low,Desktop,Credit Card,11/12/2024,TRUE,TRUE,Planned,Express,3,30
+10-247-0192,29,Female,High,Single,Bachelor's,Middle,Cali,Groceries,USD,$430.75,8,Mixed,3,1,0,Medium,Very Sensitive,2,6,Low,Tablet,PayPal,4/6/2024,FALSE,TRUE,Wants-based,No Preference,6,10
+94-682-4886,27,Male,Middle,Single,Bachelor's,High,Gawul,Gardening & Outdoors,USD,$370.17,2,Mixed,3,2,0,High,Not Sensitive,0,5,High,Tablet,PayPal,11/23/2024,TRUE,FALSE,Need-based,Express,1,10
+90-272-5701,28,Male,Middle,Single,Master's,High,Semiletka,Toys & Games,USD,$384.26,6,Mixed,4,5,0,None,Somewhat Sensitive,0,4,High,Tablet,Other,7/11/2024,TRUE,TRUE,Impulsive,Express,11,0
+22-692-3470,46,Female,High,Widowed,High School,High,SÃ£o CristÃ³vÃ£o,Sports & Outdoors,USD,$128.01,2,Online,3,2,2,Medium,Very Sensitive,0,5,None,Smartphone,debit card,4/17/2024,TRUE,FALSE,Impulsive,Standard,10,0
+78-824-1887,26,Male,Middle,Married,High School,Middle,Junshan,Travel & Leisure (Flights,USD,$301.40,4,Mixed,1,5,0,High,Not Sensitive,0,4,High,Desktop,Other,9/14/2024,FALSE,TRUE,Impulsive,No Preference,5,25
+71-667-2334,33,Polygender,High,Married,Bachelor's,Middle,Isla Verde,Travel & Leisure (Flights,USD,$397.25,6,Mixed,2,3,2,None,Not Sensitive,0,6,Medium,Smartphone,Debit Card,8/8/2024,FALSE,FALSE,Planned,No Preference,2,20
+40-224-1057,40,Female,Middle,Married,Bachelor's,High,Sabugo,Sports & Outdoors,USD,$96.18,3,In-Store,4,2,2,None,Not Sensitive,0,4,Medium,Smartphone,Debit Card,5/5/2024,FALSE,FALSE,Wants-based,No Preference,10,0
+00-265-0556,20,Female,Middle,Widowed,High School,Middle,Qiryat Yam,Furniture,USD,$390.44,4,Online,3,2,1,None,Very Sensitive,1,6,None,Tablet,Credit Card,2/15/2024,TRUE,TRUE,Need-based,Express,4,25
+23-085-0811,43,Female,High,Widowed,Master's,High,Daâ€™an,Health Care,USD,$61.50,11,Mixed,3,1,2,High,Not Sensitive,0,10,Medium,Tablet,PayPal,1/26/2024,TRUE,FALSE,Impulsive,Express,8,5
+60-470-3563,29,Male,Middle,Married,Bachelor's,Middle,Malasin,Gardening & Outdoors,USD,$234.44,6,Online,3,5,2,Medium,Very Sensitive,1,9,Medium,Smartphone,paypal,5/23/2024,TRUE,TRUE,Wants-based,Express,5,20
+55-301-9368,34,Male,High,Married,Master's,High,Zamora,Electronics,USD,$318.84,6,Mixed,3,5,1,High,Somewhat Sensitive,0,8,High,Desktop,Credit Card,4/20/2024,TRUE,TRUE,Planned,No Preference,10,20
+78-905-2660,36,Female,Middle,Divorced,Bachelor's,High,Damnoen Saduak,Beauty & Personal Care,USD,$327.32,6,Online,2,1,1,Medium,Very Sensitive,1,10,High,Desktop,PayPal,6/9/2024,FALSE,TRUE,Impulsive,Express,13,0
+12-699-6543,49,Male,Middle,Widowed,Bachelor's,Middle,Celso Ramos,Clothing,USD,$475.64,3,Online,1,1,0,None,Somewhat Sensitive,1,8,Low,Tablet,Other,2/15/2024,TRUE,FALSE,Wants-based,Standard,9,25
+19-933-8095,34,Male,Middle,Single,Bachelor's,High,Gaosheng,Luxury Goods,USD,$68.59,9,In-Store,5,2,2,Low,Very Sensitive,1,7,High,Desktop,debit card,4/18/2024,TRUE,TRUE,Need-based,No Preference,5,10
+47-501-3435,38,Female,High,Married,Bachelor's,High,Gimcheon,Books,USD,$133.04,12,Mixed,2,1,1,High,Somewhat Sensitive,1,1,Low,Desktop,Credit Card,7/7/2024,FALSE,FALSE,Need-based,No Preference,11,5
+90-322-7329,44,Female,High,Widowed,High School,Middle,Buensuseso,Luxury Goods,USD,$196.63,9,In-Store,2,2,1,High,Very Sensitive,0,7,None,Smartphone,PayPal,12/15/2024,TRUE,TRUE,Wants-based,No Preference,7,20
+22-860-9860,24,Female,High,Married,High School,High,Pasinan Barat,Home Appliances,USD,$473.96,12,Mixed,2,4,0,Medium,Not Sensitive,2,3,High,Smartphone,other,7/28/2024,TRUE,TRUE,Impulsive,Standard,14,20
+27-347-7437,44,Female,High,Married,Bachelor's,High,Mineiros,Luxury Goods,USD,$472.52,8,Online,1,3,1,Low,Very Sensitive,2,10,Low,Tablet,Credit Card,1/24/2024,TRUE,TRUE,Wants-based,Standard,14,15
+73-942-8440,37,Male,Middle,Married,Bachelor's,High,ÐœÐ°Ñ€Ð¸Ð½Ð¾,Gardening & Outdoors,USD,$335.80,9,In-Store,1,4,2,None,Very Sensitive,2,1,Low,Desktop,credit card,2/10/2024,TRUE,FALSE,Planned,Standard,5,10
+28-855-1639,46,Male,High,Single,High School,Middle,Jiaozuo,Electronics,USD,$85.57,12,Online,5,5,2,High,Somewhat Sensitive,2,4,High,Smartphone,debit card,8/31/2024,FALSE,TRUE,Need-based,No Preference,9,30
+59-971-0799,48,Male,Middle,Divorced,Bachelor's,High,Vichuga,Health Supplements,USD,$108.50,11,In-Store,1,1,1,High,Very Sensitive,0,2,High,Desktop,Debit Card,7/16/2024,TRUE,FALSE,Need-based,Standard,10,10
+35-879-0014,34,Male,High,Married,Master's,Middle,Zwedru,Food & Beverages,USD,$172.50,8,Mixed,5,3,2,High,Very Sensitive,2,10,Low,Smartphone,Credit Card,7/19/2024,FALSE,TRUE,Wants-based,No Preference,7,0
+84-260-6464,23,Female,Middle,Married,Bachelor's,High,Tabuc Pontevedra,Mobile Accessories,USD,$212.80,6,In-Store,1,5,0,Low,Not Sensitive,1,6,Low,Smartphone,PayPal,5/17/2024,TRUE,TRUE,Need-based,Standard,1,25
+68-129-1060,37,Female,High,Divorced,Bachelor's,High,AbaetÃ©,Arts & Crafts,USD,$324.41,7,In-Store,5,5,0,Medium,Very Sensitive,0,7,Low,Desktop,other,4/29/2024,FALSE,TRUE,Impulsive,Standard,4,5
+81-225-6647,43,Female,High,Widowed,Bachelor's,High,Changbai,Animal Feed,USD,$342.39,8,Online,4,3,2,None,Not Sensitive,2,7,Low,Tablet,Debit Card,1/4/2024,FALSE,FALSE,Need-based,Express,9,0
+65-036-2410,50,Female,Middle,Single,High School,Middle,Paris 09,Health Care,USD,$446.86,9,Online,1,2,2,None,Not Sensitive,0,3,None,Tablet,debit card,11/7/2024,TRUE,TRUE,Wants-based,No Preference,5,20
+68-458-0904,20,Female,High,Single,Bachelor's,High,Pyra,Sports & Outdoors,USD,$463.15,3,Mixed,3,5,0,None,Not Sensitive,2,4,Medium,Tablet,credit card,4/25/2024,TRUE,TRUE,Planned,No Preference,9,20
+93-093-0556,42,Male,Middle,Single,Master's,Middle,Pan-an,Sports & Outdoors,USD,$122.99,12,In-Store,4,5,1,Low,Very Sensitive,1,8,Medium,Tablet,Cash,10/3/2024,TRUE,FALSE,Planned,No Preference,1,15
+89-833-7175,43,Male,Middle,Widowed,High School,High,KÄ™sowo,Animal Feed,USD,$322.40,7,Mixed,1,2,1,Medium,Very Sensitive,0,7,Medium,Tablet,other,8/7/2024,TRUE,FALSE,Planned,Standard,2,20
+36-340-8494,38,Male,Middle,Divorced,Bachelor's,High,Perugia,Arts & Crafts,USD,$73.19,5,Online,4,4,2,Medium,Somewhat Sensitive,0,6,None,Tablet,Other,4/11/2024,FALSE,FALSE,Wants-based,Standard,3,5
+10-300-8072,46,Female,High,Single,High School,High,Argenteuil,Home Appliances,USD,$279.08,10,Online,3,2,1,Low,Very Sensitive,0,6,High,Desktop,Debit Card,4/25/2024,TRUE,FALSE,Planned,No Preference,3,25
+36-948-6994,29,Female,High,Divorced,Bachelor's,High,Mgachi,Luxury Goods,USD,$478.85,10,Mixed,2,5,2,None,Very Sensitive,1,8,Low,Smartphone,Cash,4/28/2024,FALSE,TRUE,Wants-based,Express,4,30
+92-142-9480,39,Male,High,Divorced,Master's,Middle,Aubergenville,Clothing,USD,$86.39,5,Mixed,4,2,1,High,Not Sensitive,1,10,None,Desktop,Debit Card,9/9/2024,FALSE,FALSE,Wants-based,Express,7,25
+64-706-7841,25,Male,High,Divorced,Bachelor's,Middle,Kragan,Gardening & Outdoors,USD,$192.35,11,Online,3,3,2,High,Not Sensitive,2,10,None,Smartphone,Cash,5/8/2024,FALSE,FALSE,Impulsive,No Preference,11,30
+20-939-3906,40,Female,High,Married,High School,Middle,Nanchangshan,Electronics,USD,$235.32,7,Online,5,5,2,Medium,Very Sensitive,2,10,Low,Tablet,PayPal,6/9/2024,TRUE,TRUE,Need-based,Standard,11,30
+39-107-6852,21,Male,Middle,Married,High School,High,Xinglongchang,Sports & Outdoors,USD,$212.63,8,Mixed,3,2,1,High,Not Sensitive,0,2,None,Desktop,Credit Card,8/27/2024,FALSE,FALSE,Need-based,No Preference,6,25
+82-014-2564,33,Male,High,Married,High School,Middle,Yelyzavethradka,Groceries,USD,$246.63,8,In-Store,3,1,0,High,Somewhat Sensitive,1,9,Low,Desktop,Cash,4/1/2024,FALSE,TRUE,Wants-based,Express,10,15
+47-720-9520,49,Female,Middle,Widowed,Bachelor's,High,CheÅ‚miec,Sports & Outdoors,USD,$228.47,9,Online,4,3,1,None,Somewhat Sensitive,1,10,Low,Smartphone,PayPal,8/29/2024,TRUE,TRUE,Planned,No Preference,12,20
+71-197-8227,37,Male,Middle,Divorced,High School,High,Tocoa,Electronics,USD,$343.77,6,Mixed,3,4,2,High,Very Sensitive,0,2,Low,Tablet,Cash,9/18/2024,FALSE,TRUE,Need-based,Standard,6,25
+78-272-6417,49,Female,Middle,Divorced,High School,High,Marseille,Jewelry & Accessories,USD,$339.32,9,Mixed,5,4,0,Low,Somewhat Sensitive,1,2,None,Desktop,Debit Card,9/5/2024,TRUE,TRUE,Planned,No Preference,7,20
+04-468-5487,22,Male,Middle,Married,High School,High,CrÃ©teil,Office Supplies,USD,$327.05,9,In-Store,2,1,2,None,Somewhat Sensitive,1,1,None,Tablet,Debit Card,8/6/2024,FALSE,FALSE,Impulsive,Standard,7,30
+94-985-5336,29,Female,High,Divorced,Bachelor's,High,GÃ¤vle,Clothing,USD,$334.45,2,Mixed,4,5,1,High,Very Sensitive,2,6,Low,Tablet,PayPal,6/18/2024,TRUE,TRUE,Planned,Express,6,15
+76-910-2337,23,Polygender,Middle,Widowed,Master's,High,Krajan Baru,Toys & Games,USD,$366.16,12,Mixed,4,1,0,Medium,Somewhat Sensitive,2,9,None,Smartphone,Other,8/26/2024,FALSE,TRUE,Need-based,Standard,4,5
+02-653-5884,42,Female,High,Married,Bachelor's,Middle,ZalÅ£an,Arts & Crafts,USD,$481.78,8,Online,5,3,2,High,Not Sensitive,2,7,Low,Desktop,PayPal,4/24/2024,TRUE,FALSE,Wants-based,No Preference,1,0
+13-792-4356,21,Male,High,Divorced,Bachelor's,Middle,Tianbao,Gardening & Outdoors,USD,$131.48,8,In-Store,5,1,1,High,Very Sensitive,1,2,Medium,Tablet,Credit Card,8/8/2024,FALSE,FALSE,Need-based,No Preference,12,20
+00-335-5034,37,Agender,High,Married,Bachelor's,High,Sanxing,Home Appliances,USD,$402.86,11,In-Store,1,3,0,High,Somewhat Sensitive,2,9,None,Smartphone,paypal,9/5/2024,TRUE,FALSE,Impulsive,Standard,8,5
+22-483-3115,37,Female,High,Single,Bachelor's,Middle,Rukem,Arts & Crafts,USD,$333.18,6,Online,3,2,0,Medium,Very Sensitive,0,2,High,Desktop,Cash,4/16/2024,FALSE,FALSE,Wants-based,Express,8,0
+02-677-6735,21,Female,High,Widowed,High School,High,Cianorte,Electronics,USD,$73.23,8,Online,4,2,1,Low,Very Sensitive,0,4,High,Desktop,Debit Card,7/17/2024,FALSE,TRUE,Need-based,No Preference,6,15
+75-845-3143,23,Bigender,High,Single,High School,High,Rumbek,Software & Apps,USD,$450.47,11,Online,3,4,2,Low,Not Sensitive,1,1,Low,Smartphone,Other,3/18/2024,FALSE,FALSE,Planned,Standard,10,15
+66-515-3648,20,Female,Middle,Married,Bachelor's,Middle,Magdalena,Health Care,USD,$175.74,5,Mixed,4,3,2,Low,Not Sensitive,0,9,None,Smartphone,Debit Card,7/18/2024,FALSE,FALSE,Impulsive,Standard,6,25
+31-927-7787,40,Male,High,Married,High School,High,Esmeralda,Baby Products,USD,$182.60,4,In-Store,4,1,1,High,Not Sensitive,0,9,Medium,Tablet,PayPal,5/31/2024,TRUE,FALSE,Need-based,Standard,5,25
+30-520-8656,19,Female,Middle,Married,Bachelor's,Middle,San Patricio,Health Care,USD,$497.80,2,Online,4,4,1,High,Somewhat Sensitive,0,4,None,Tablet,other,1/21/2024,TRUE,TRUE,Impulsive,No Preference,9,5
+53-667-0793,25,Male,High,Widowed,High School,High,La Tour-du-Pin,Groceries,USD,$171.17,4,In-Store,5,2,2,Low,Very Sensitive,1,1,None,Tablet,Credit Card,6/15/2024,FALSE,TRUE,Impulsive,Express,12,30
+02-055-8248,25,Female,High,Divorced,Bachelor's,High,Martanesh,Health Supplements,USD,$425.82,3,Mixed,3,4,2,Low,Very Sensitive,0,3,Low,Desktop,Cash,4/19/2024,TRUE,TRUE,Impulsive,Express,11,20
+72-454-2741,49,Male,Middle,Single,High School,Middle,Belene,Packages),USD,$210.58,10,Online,4,2,1,Low,Somewhat Sensitive,0,9,None,Desktop,credit card,9/12/2024,FALSE,FALSE,Impulsive,No Preference,8,10
+53-102-9949,41,Male,Middle,Widowed,Master's,Middle,Libei,Sports & Outdoors,USD,$199.64,11,Mixed,5,2,0.2,None,Somewhat Sensitive,2,1,None,Tablet,PayPal,9/4/2024,TRUE,TRUE,Planned,Express,8,5
+62-701-1037,49,Male,Middle,Widowed,Master's,High,Lazarevac,Books,USD,$162.22,10,Mixed,2,5,2,Medium,Very Sensitive,0,2,Medium,Smartphone,credit card,4/28/2024,TRUE,FALSE,Need-based,Standard,8,25
+17-344-8603,29,Male,High,Divorced,Bachelor's,Middle,Al JÄ«zah,Animal Feed,USD,$401.75,8,In-Store,4,1,0,Low,Not Sensitive,1,6,High,Tablet,paypal,12/8/2024,TRUE,TRUE,Need-based,No Preference,6,5
+65-457-2840,24,Male,Middle,Single,High School,Middle,Maralal,Software & Apps,USD,$365.88,12,In-Store,1,1,1,None,Somewhat Sensitive,2,10,Medium,Tablet,Credit Card,11/5/2024,TRUE,FALSE,Wants-based,Standard,7,0
+23-253-2565,23,Female,High,Divorced,High School,High,Hinlayagan Ilaud,Toys & Games,USD,$58.29,6,Online,4,1,0,Medium,Somewhat Sensitive,0,4,Medium,Smartphone,Debit Card,2/13/2024,TRUE,FALSE,Need-based,No Preference,14,0
+78-116-8349,38,Female,High,Widowed,Bachelor's,Middle,GyÅ‘r,Sports & Outdoors,USD,$66.86,3,Online,4,3,1,Medium,Very Sensitive,0,10,High,Tablet,Cash,1/25/2024,TRUE,FALSE,Planned,No Preference,9,20
+65-359-4645,28,Female,Middle,Married,High School,High,Xieba,Packages),USD,$279.34,5,Mixed,3,1,0,Low,Not Sensitive,0,9,High,Smartphone,Cash,8/22/2024,FALSE,FALSE,Planned,Standard,11,15
+05-546-5128,21,Male,Middle,Divorced,Bachelor's,Middle,Clichy,Sports & Outdoors,USD,$358.50,3,In-Store,5,2,1,Low,Somewhat Sensitive,1,3,High,Tablet,Cash,11/14/2024,TRUE,TRUE,Impulsive,No Preference,8,25
+38-242-3251,43,Male,High,Divorced,Bachelor's,Middle,Majdal BanÄ« FÄá¸‘il,Arts & Crafts,USD,$360.92,7,In-Store,4,2,1,None,Very Sensitive,1,3,Low,Desktop,paypal,11/10/2024,TRUE,FALSE,Planned,Standard,8,0
+70-761-3550,43,Male,High,Widowed,Master's,Middle,KovÃ¡Å™ov,Books,USD,$374.36,4,Online,2,1,0,High,Not Sensitive,2,1,High,Smartphone,other,10/3/2024,TRUE,FALSE,Impulsive,No Preference,1,20
+88-428-8409,37,Male,High,Married,Master's,Middle,ZiniarÃ©,Packages),USD,$435.37,11,Mixed,4,4,1,Low,Somewhat Sensitive,0,1,High,Desktop,PayPal,8/30/2024,TRUE,FALSE,Planned,Standard,4,25
+10-330-6387,45,Male,High,Divorced,High School,High,YenikÃ¶y,Furniture,USD,$459.30,9,Mixed,5,3,2,Low,Not Sensitive,0,8,High,Desktop,Credit Card,10/9/2024,TRUE,FALSE,Planned,No Preference,1,25
+13-015-8097,46,Female,High,Single,Bachelor's,High,Adelaide,Sports & Outdoors,USD,$426.89,2,Mixed,4,3,0,High,Very Sensitive,0,6,None,Tablet,PayPal,11/2/2024,FALSE,FALSE,Impulsive,No Preference,10,10
+64-090-3433,35,Male,Middle,Married,Master's,High,BollÃ¨ne,Sports & Outdoors,USD,$365.37,6,In-Store,3,2,1,High,Very Sensitive,2,3,None,Tablet,Debit Card,7/2/2024,FALSE,FALSE,Need-based,Standard,7,0
+27-843-5553,44,Non-binary,Middle,Single,Bachelor's,Middle,TÃ­o Pujio,Mobile Accessories,USD,$487.25,4,Online,1,4,2,High,Very Sensitive,2,5,Low,Smartphone,credit card,10/8/2024,TRUE,FALSE,Impulsive,Standard,1,0
+61-453-3503,34,Male,High,Widowed,High School,High,Qingshandi,Software & Apps,USD,$187.22,10,Online,2,3,2,None,Not Sensitive,1,7,Medium,Desktop,Credit Card,6/4/2024,TRUE,TRUE,Need-based,No Preference,4,20
+38-935-1865,18,Female,High,Widowed,Bachelor's,High,Novoukrainskiy,Beauty & Personal Care,USD,$396.82,7,In-Store,3,1,1,High,Somewhat Sensitive,0,1,High,Smartphone,Cash,8/13/2024,TRUE,TRUE,Wants-based,No Preference,9,0
+88-445-9235,46,Female,High,Married,High School,High,Demuk,Luxury Goods,USD,$246.74,10,Online,5,3,0,Medium,Somewhat Sensitive,0,5,None,Desktop,Debit Card,3/27/2024,FALSE,TRUE,Planned,Standard,8,15
+33-484-6674,47,Male,Middle,Single,Master's,Middle,Porangatu,Packages),USD,$128.74,12,In-Store,4,1,2,Medium,Very Sensitive,1,2,High,Smartphone,credit card,1/6/2024,TRUE,FALSE,Wants-based,No Preference,1,15
+98-130-8811,18,Female,High,Single,High School,Middle,Tilburg,Electronics,USD,$339.63,2,Mixed,3,2,2,None,Very Sensitive,1,7,High,Tablet,Credit Card,8/26/2024,TRUE,TRUE,Planned,Standard,6,0
+37-468-8133,44,Male,Middle,Single,High School,Middle,Cimara,Health Care,USD,$223.58,11,Online,1,4,1,Low,Not Sensitive,0,2,Medium,Desktop,PayPal,5/20/2024,TRUE,TRUE,Wants-based,Standard,11,20
+22-157-2494,19,Male,High,Divorced,High School,High,Revolucion Verde,Toys & Games,USD,$446.92,5,Online,2,1,0,None,Very Sensitive,1,10,Medium,Desktop,Other,7/19/2024,TRUE,TRUE,Wants-based,Standard,10,0
+72-590-6161,32,Female,Middle,Single,Master's,High,Saltpond,Gardening & Outdoors,USD,$175.65,11,Mixed,1,2,1,Low,Not Sensitive,0,7,None,Tablet,PayPal,12/8/2024,TRUE,TRUE,Wants-based,Standard,8,15
+15-146-4456,40,Male,High,Divorced,Master's,High,Hexiangqiao,Animal Feed,USD,$491.49,10,Mixed,5,5,1,None,Very Sensitive,1,5,Medium,Tablet,Debit Card,5/28/2024,FALSE,FALSE,Wants-based,Standard,1,10
+67-593-9579,46,Male,Middle,Single,Bachelor's,High,Rozhdestveno,Baby Products,USD,$88.40,5,Online,1,5,2,High,Not Sensitive,2,9,Low,Smartphone,Cash,5/26/2024,FALSE,FALSE,Wants-based,No Preference,4,30
+01-023-2094,27,Polygender,Middle,Divorced,Master's,Middle,Ngrejo,Sports & Outdoors,USD,$430.90,8,Online,5,4,2,Low,Somewhat Sensitive,1,5,None,Smartphone,Cash,6/6/2024,FALSE,FALSE,Planned,No Preference,11,25
+17-551-9779,33,Female,Middle,Widowed,Master's,High,Marabahan,Beauty & Personal Care,USD,$435.23,2,In-Store,1,4,2,Low,Somewhat Sensitive,1,6,None,Desktop,Other,2/27/2024,TRUE,FALSE,Need-based,Express,13,10
+63-743-6962,39,Male,Middle,Single,High School,Middle,Tanushimarumachi-toyoki,Travel & Leisure (Flights,USD,$218.65,3,In-Store,2,4,2,Low,Somewhat Sensitive,1,9,High,Desktop,other,7/17/2024,TRUE,TRUE,Wants-based,Standard,4,20
+26-150-0209,28,Male,Middle,Widowed,High School,Middle,Taiyigong,Clothing,USD,$207.66,10,Mixed,1,1,1,Medium,Not Sensitive,0,4,Medium,Smartphone,Credit Card,7/8/2024,FALSE,FALSE,Impulsive,Standard,8,20
+05-167-0833,21,Male,Middle,Single,Master's,Middle,LabÃ¨ge,Travel & Leisure (Flights,USD,$141.09,7,Online,2,1,1,High,Very Sensitive,0,4,Low,Desktop,Credit Card,6/19/2024,FALSE,FALSE,Planned,Express,1,25
+76-848-9229,29,Male,High,Married,Bachelor's,Middle,Saint-Gratien,Animal Feed,USD,$142.70,6,Mixed,2,3,0,High,Not Sensitive,0,3,Low,Tablet,credit card,5/17/2024,FALSE,TRUE,Wants-based,Standard,11,30
+09-332-0236,47,Female,Middle,Divorced,Master's,Middle,San Marcos,Baby Products,USD,$64.09,10,Mixed,3,5,0.2,Medium,Not Sensitive,2,6,High,Tablet,credit card,10/20/2024,FALSE,TRUE,Need-based,No Preference,7,20
+75-526-2611,36,Female,High,Widowed,Master's,High,Yamaga,Beauty & Personal Care,USD,$126.26,2,Online,5,3,2,Low,Very Sensitive,0,5,Medium,Smartphone,Other,9/19/2024,TRUE,FALSE,Wants-based,Express,13,20
+39-090-0124,31,Bigender,Middle,Single,Bachelor's,High,Tafo,Gardening & Outdoors,USD,$195.05,5,Online,4,2,0.3,High,Not Sensitive,1,3,Medium,Smartphone,Other,5/21/2024,FALSE,FALSE,Wants-based,Standard,11,20
+91-532-5399,29,Male,Middle,Single,Master's,Middle,Bucaramanga,Health Supplements,USD,$432.84,7,Mixed,1,1,0,High,Somewhat Sensitive,1,10,Low,Tablet,credit card,2/5/2024,TRUE,TRUE,Need-based,Standard,4,30
+61-951-7929,32,Male,Middle,Divorced,High School,High,Bamut,Health Supplements,USD,$404.12,6,In-Store,2,1,1,High,Not Sensitive,1,8,High,Smartphone,Cash,2/29/2024,TRUE,TRUE,Planned,Express,11,30
+90-069-8934,40,Male,High,Divorced,Master's,High,DhankutÄ,Hotels,USD,$438.26,10,Online,3,4,0,Medium,Somewhat Sensitive,2,2,High,Desktop,Debit Card,7/4/2024,FALSE,TRUE,Wants-based,Express,10,25
+31-284-5722,36,Female,High,Single,Bachelor's,High,Jianshan,Hotels,USD,$233.02,4,In-Store,2,2,0,Medium,Very Sensitive,1,6,Medium,Tablet,other,10/29/2024,TRUE,FALSE,Need-based,Standard,8,25
+51-431-7150,41,Female,Middle,Widowed,Bachelor's,Middle,Shiqiao,Furniture,USD,$273.41,7,In-Store,1,3,1,High,Not Sensitive,2,1,High,Desktop,PayPal,10/17/2024,TRUE,TRUE,Impulsive,Standard,2,5
+68-507-4747,41,Female,High,Widowed,High School,High,Kubangwaru,Clothing,USD,$338.96,10,Mixed,5,2,0,Medium,Not Sensitive,0,1,Low,Desktop,Credit Card,11/4/2024,TRUE,FALSE,Wants-based,Standard,4,25
+65-249-5416,35,Male,High,Widowed,Master's,Middle,Shalkar,Jewelry & Accessories,USD,$75.91,12,Mixed,5,2,1,Low,Very Sensitive,1,3,None,Desktop,PayPal,11/21/2024,TRUE,TRUE,Need-based,Express,1,25
+06-061-0023,20,Female,High,Widowed,High School,Middle,KembÃ©,Hotels,USD,$425.21,12,In-Store,3,1,2,High,Not Sensitive,1,3,Low,Tablet,Other,3/25/2024,FALSE,FALSE,Planned,Express,12,15
+33-264-2822,38,Male,High,Divorced,Bachelor's,Middle,Lugo,Toys & Games,USD,$268.80,2,In-Store,4,4,0.7,Medium,Not Sensitive,2,1,None,Tablet,debit card,4/20/2024,TRUE,TRUE,Impulsive,Standard,12,15
+06-008-2805,32,Female,High,Married,Master's,Middle,ShÄdegÄn,Sports & Outdoors,USD,$170.71,10,Mixed,3,3,2,None,Not Sensitive,2,4,Medium,Tablet,cash,4/14/2024,TRUE,TRUE,Impulsive,Standard,7,5
+28-862-5550,49,Female,Middle,Married,Bachelor's,High,General Lavalle,Food & Beverages,USD,$444.05,10,Mixed,1,5,1,Medium,Somewhat Sensitive,0,1,High,Tablet,Other,6/4/2024,TRUE,TRUE,Wants-based,Standard,8,5
+11-850-1953,32,Genderfluid,Middle,Single,High School,Middle,Beizhakou,Packages),USD,$255.10,5,In-Store,2,1,2,Low,Not Sensitive,2,8,None,Tablet,credit card,1/28/2024,TRUE,FALSE,Impulsive,Express,14,10
+53-380-3968,43,Female,High,Widowed,Bachelor's,High,Qingyun,Food & Beverages,USD,$236.44,6,In-Store,5,5,0,Medium,Somewhat Sensitive,1,2,Medium,Desktop,PayPal,5/15/2024,TRUE,FALSE,Wants-based,No Preference,6,25
+78-796-5651,35,Female,Middle,Divorced,High School,High,DÅ‚utÃ³w,Office Supplies,USD,$201.69,11,In-Store,3,5,2,Medium,Very Sensitive,0,1,High,Desktop,Other,7/19/2024,FALSE,TRUE,Impulsive,Express,3,15
+06-767-5206,49,Male,High,Single,Bachelor's,Middle,Mount Darwin,Health Supplements,USD,$390.51,6,In-Store,4,4,1,None,Very Sensitive,1,5,None,Tablet,credit card,4/15/2024,TRUE,FALSE,Wants-based,No Preference,6,20
+45-776-7217,37,Female,Middle,Divorced,Bachelor's,High,Binagadi,Baby Products,USD,$442.29,9,In-Store,3,3,2,Low,Not Sensitive,2,7,Medium,Tablet,Other,9/11/2024,TRUE,FALSE,Impulsive,No Preference,13,30
+34-095-3364,31,Polygender,Middle,Divorced,High School,Middle,Daszewice,Office Supplies,USD,$89.60,7,Mixed,5,5,1,None,Very Sensitive,1,1,High,Smartphone,PayPal,3/10/2024,FALSE,TRUE,Impulsive,Express,8,30
+55-570-3804,36,Male,Middle,Widowed,Master's,Middle,Bom Despacho,Luxury Goods,USD,$166.74,6,In-Store,2,3,1,High,Somewhat Sensitive,0,3,Medium,Smartphone,Credit Card,1/14/2024,TRUE,FALSE,Need-based,Standard,1,15
+09-216-1957,31,Female,High,Divorced,Master's,Middle,LeÅ›nica,Jewelry & Accessories,USD,$299.28,12,In-Store,5,1,2,Medium,Somewhat Sensitive,0,5,High,Tablet,credit card,5/29/2024,FALSE,FALSE,Need-based,No Preference,3,20
+33-243-8793,45,Male,Middle,Widowed,High School,High,Semenivka,Luxury Goods,USD,$404.57,5,In-Store,3,5,1,High,Somewhat Sensitive,2,10,High,Desktop,Cash,8/31/2024,TRUE,FALSE,Planned,Standard,14,5
+29-779-7209,34,Female,High,Widowed,Master's,High,Pilaya,Books,USD,$344.81,10,In-Store,5,2,2,Low,Not Sensitive,0,7,Low,Tablet,Other,12/23/2024,FALSE,FALSE,Need-based,No Preference,14,20
+11-975-9054,33,Male,Middle,Married,High School,High,Cunha,Clothing,USD,$217.84,10,Mixed,3,1,1,High,Not Sensitive,0,7,None,Smartphone,Credit Card,1/16/2024,FALSE,FALSE,Planned,No Preference,11,30
+90-888-8726,48,Female,High,Divorced,Master's,Middle,Saint-Jouan-des-GuÃ©rets,Jewelry & Accessories,USD,$445.34,9,In-Store,5,2,0,Medium,Somewhat Sensitive,2,1,None,Smartphone,Other,3/4/2024,FALSE,FALSE,Planned,No Preference,3,20
+18-633-9387,27,Male,Middle,Married,Bachelor's,High,San Bautista,Animal Feed,USD,$151.73,3,In-Store,3,1,2,Low,Not Sensitive,0,7,Medium,Tablet,Debit Card,9/24/2024,TRUE,TRUE,Impulsive,Standard,11,5
+14-118-5229,25,Male,Middle,Divorced,Master's,High,Dayr Sharaf,Books,USD,$123.73,9,Online,3,4,1,Low,Very Sensitive,1,2,Medium,Smartphone,PayPal,10/7/2024,TRUE,TRUE,Planned,Standard,10,25
+62-198-2511,22,Male,Middle,Divorced,Master's,High,Macau,Home Appliances,USD,$370.54,2,Mixed,1,3,0,High,Not Sensitive,1,5,High,Desktop,Credit Card,3/25/2024,FALSE,TRUE,Wants-based,Standard,7,25
+15-530-3861,36,Male,High,Divorced,High School,High,Bayan Tuohai,Clothing,USD,$152.87,3,Online,4,5,0,Medium,Somewhat Sensitive,2,5,High,Tablet,credit card,8/20/2024,FALSE,FALSE,Planned,Standard,11,25
+66-949-9895,21,Male,Middle,Widowed,Master's,High,Vendargues,Electronics,USD,$295.75,4,In-Store,2,4,0,None,Not Sensitive,2,7,Low,Smartphone,cash,12/7/2024,TRUE,TRUE,Need-based,Standard,8,20
+80-277-3242,36,Male,High,Widowed,High School,Middle,Montreuil,Travel & Leisure (Flights,USD,$358.11,11,In-Store,1,5,2,Low,Very Sensitive,2,3,High,Desktop,Other,9/3/2024,FALSE,FALSE,Need-based,Standard,11,0
+72-728-4406,50,Female,Middle,Single,Master's,High,Liutan,Packages),USD,$63.60,12,In-Store,2,5,1,Medium,Somewhat Sensitive,2,3,None,Tablet,Credit Card,2/9/2024,TRUE,FALSE,Impulsive,Express,6,20
+26-672-1285,24,Genderfluid,Middle,Married,High School,Middle,Moutnice,Clothing,USD,$419.53,3,In-Store,5,5,2,None,Very Sensitive,1,4,None,Smartphone,paypal,3/27/2024,TRUE,TRUE,Impulsive,Express,6,15
+07-402-7433,42,Agender,Middle,Single,High School,Middle,Dagup,Health Supplements,USD,$491.92,10,In-Store,1,1,1,Low,Not Sensitive,2,3,Low,Desktop,Credit Card,12/29/2024,TRUE,FALSE,Planned,Express,2,20
+91-857-0797,22,Genderfluid,High,Widowed,High School,Middle,Pinagsibaan,Baby Products,USD,$114.44,4,Online,4,2,1,Low,Very Sensitive,0,3,High,Tablet,Credit Card,10/20/2024,TRUE,TRUE,Planned,Standard,1,25
+39-952-4459,18,Female,High,Divorced,High School,High,Tessalit,Electronics,USD,$388.82,10,Online,3,3,0,Medium,Very Sensitive,2,5,Medium,Smartphone,PayPal,9/3/2024,TRUE,FALSE,Wants-based,Express,6,20
+25-096-6830,36,Male,High,Divorced,High School,Middle,La Guata,Mobile Accessories,USD,$58.32,7,Online,4,3,2,None,Somewhat Sensitive,1,5,High,Tablet,Debit Card,3/13/2024,TRUE,FALSE,Impulsive,Standard,8,0
+37-037-1765,30,Male,High,Married,Bachelor's,Middle,â€˜AÅŸÄ«rah ash ShamÄlÄ«yah,Jewelry & Accessories,USD,$464.76,2,In-Store,1,3,1,High,Very Sensitive,0,4,Low,Smartphone,Debit Card,2/4/2024,FALSE,FALSE,Impulsive,Express,3,25
+32-457-2982,47,Female,High,Divorced,High School,Middle,Proletarsk,Animal Feed,USD,$116.92,7,Online,5,1,2,Low,Somewhat Sensitive,0,8,None,Desktop,PayPal,3/31/2024,TRUE,TRUE,Need-based,Express,14,30
+27-018-2262,42,Female,Middle,Married,Bachelor's,Middle,Bom Jesus do Itabapoana,Travel & Leisure (Flights,USD,$396.76,8,In-Store,4,4,2,None,Somewhat Sensitive,1,6,High,Smartphone,Debit Card,7/17/2024,FALSE,FALSE,Wants-based,Express,8,25
+31-788-0864,42,Male,Middle,Single,High School,Middle,Karlstad,Beauty & Personal Care,USD,$393.35,7,In-Store,5,3,2,None,Not Sensitive,2,7,High,Tablet,Debit Card,6/16/2024,TRUE,FALSE,Need-based,Express,12,25
+79-592-5396,30,Female,High,Married,Master's,High,Binalbagan,Sports & Outdoors,USD,$114.03,7,Online,3,3,1,High,Very Sensitive,1,1,Medium,Desktop,Debit Card,4/13/2024,TRUE,TRUE,Need-based,Standard,6,0
+15-663-7994,20,Female,Middle,Widowed,Bachelor's,High,Tanahmerah,Jewelry & Accessories,USD,$109.97,4,Online,3,5,0.2,High,Somewhat Sensitive,1,2,Medium,Smartphone,Other,8/12/2024,TRUE,FALSE,Wants-based,No Preference,1,25
+81-820-4735,48,Female,Middle,Divorced,Bachelor's,High,Banjar Medura,Toys & Games,USD,$310.23,12,Mixed,3,4,2,Medium,Somewhat Sensitive,0,6,None,Desktop,PayPal,12/17/2024,FALSE,TRUE,Need-based,No Preference,3,0
+17-032-6274,40,Female,High,Married,Bachelor's,High,Rizal,Books,USD,$383.13,3,Online,3,5,2,High,Not Sensitive,2,7,Medium,Tablet,Cash,9/25/2024,TRUE,TRUE,Impulsive,Standard,7,0
+37-100-8709,27,Male,High,Divorced,Master's,Middle,Turinsk,Office Supplies,USD,$434.86,11,Mixed,1,1,2,High,Somewhat Sensitive,1,10,High,Smartphone,Credit Card,6/24/2024,TRUE,TRUE,Planned,Express,11,30
+49-037-2300,31,Female,Middle,Single,High School,Middle,EslÄmÄbÄd,Clothing,USD,$489.10,9,Mixed,5,1,2,Low,Somewhat Sensitive,0,7,Low,Tablet,Other,11/18/2024,TRUE,FALSE,Need-based,No Preference,13,5
+28-395-9872,38,Male,High,Married,Master's,Middle,Blantyre,Hotels,USD,$288.15,3,In-Store,4,4,0,Medium,Not Sensitive,0,8,Medium,Smartphone,Other,8/6/2024,FALSE,FALSE,Impulsive,Standard,13,30
+19-311-9149,21,Bigender,High,Single,High School,High,Gereshk,Packages),USD,$105.87,12,In-Store,3,5,0,Medium,Somewhat Sensitive,0,5,Medium,Smartphone,Other,9/15/2024,TRUE,FALSE,Wants-based,No Preference,4,10
+37-128-5425,40,Female,High,Widowed,Bachelor's,Middle,Manchester,Toys & Games,USD,$163.40,3,Online,2,5,1,None,Very Sensitive,2,7,High,Tablet,Other,7/8/2024,TRUE,TRUE,Need-based,Express,7,25
+90-858-0453,23,Male,Middle,Widowed,High School,High,Pandean,Sports & Outdoors,USD,$422.92,6,Mixed,2,1,0,High,Not Sensitive,0,8,None,Tablet,PayPal,10/17/2024,TRUE,TRUE,Impulsive,Standard,6,5
+70-014-6406,18,Male,Middle,Divorced,Bachelor's,High,Kobe,Packages),USD,$361.48,10,Online,5,3,1,Low,Very Sensitive,1,2,None,Desktop,PayPal,6/16/2024,FALSE,TRUE,Impulsive,Standard,13,20
+48-203-9118,21,Female,Middle,Single,High School,High,Dongzhou,Health Care,USD,$270.82,2,Online,5,2,0.33,Medium,Not Sensitive,1,10,Low,Tablet,Other,10/30/2024,FALSE,FALSE,Planned,Express,13,10
+71-354-5174,34,Female,High,Single,Master's,High,Tsuen Wan,Software & Apps,USD,$372.26,11,In-Store,2,5,0,Medium,Somewhat Sensitive,1,8,Medium,Tablet,Debit Card,8/13/2024,TRUE,FALSE,Planned,No Preference,6,20
+11-820-5039,22,Female,Middle,Married,Bachelor's,Middle,GalÃ¡n,Office Supplies,USD,$208.59,3,Online,1,4,1,None,Not Sensitive,1,8,Medium,Smartphone,Debit Card,9/3/2024,TRUE,FALSE,Need-based,Express,1,5
+71-876-9118,24,Male,Middle,Single,High School,Middle,Naranjal,Health Supplements,USD,$163.22,8,In-Store,1,2,0,Low,Not Sensitive,0,9,None,Smartphone,other,7/1/2024,TRUE,FALSE,Need-based,Standard,8,25
+93-989-8649,26,Male,Middle,Divorced,Bachelor's,Middle,Shibushi,Food & Beverages,USD,$364.98,7,Online,1,3,0,Medium,Somewhat Sensitive,0,8,Low,Desktop,credit card,5/11/2024,TRUE,FALSE,Impulsive,No Preference,8,15
+64-915-2968,30,Female,High,Divorced,High School,Middle,TÃ½n nad Vltavou,Packages),USD,$142.43,3,Mixed,4,3,1,Medium,Not Sensitive,0,6,Medium,Desktop,Debit Card,9/28/2024,TRUE,TRUE,Need-based,Express,8,25
+78-826-3039,27,Male,High,Single,Master's,High,Vidual,Gardening & Outdoors,USD,$449.72,3,Online,1,1,2,Low,Not Sensitive,2,2,Medium,Desktop,PayPal,2/18/2024,TRUE,TRUE,Impulsive,Express,3,0
+42-969-0735,29,Female,High,Divorced,Bachelor's,Middle,Jiuxian,Packages),USD,$241.56,12,In-Store,5,3,2,Medium,Very Sensitive,2,7,None,Desktop,Other,11/28/2024,FALSE,TRUE,Wants-based,Standard,2,0
+36-444-5336,48,Male,Middle,Divorced,Master's,High,Jianggang,Food & Beverages,USD,$249.73,5,In-Store,2,1,2,High,Not Sensitive,2,4,None,Smartphone,Cash,11/15/2024,TRUE,TRUE,Impulsive,Express,1,10
+71-975-9564,40,Male,High,Married,Master's,High,Klonowa,Gardening & Outdoors,USD,$437.30,7,Online,1,2,2,Low,Not Sensitive,2,7,None,Smartphone,Credit Card,7/24/2024,FALSE,TRUE,Planned,Standard,1,10
+57-345-3921,42,Female,High,Single,High School,Middle,Mondorf-les-Bains,Jewelry & Accessories,USD,$277.29,4,In-Store,3,1,0,Low,Somewhat Sensitive,2,10,Medium,Desktop,Credit Card,1/27/2024,FALSE,FALSE,Need-based,Express,4,20
+27-672-6081,35,Male,High,Divorced,Bachelor's,Middle,Bangbayang,Groceries,USD,$445.93,6,Mixed,3,1,1,Medium,Somewhat Sensitive,0,3,Medium,Smartphone,Debit Card,5/15/2024,FALSE,TRUE,Wants-based,No Preference,13,25
+21-734-0212,24,Female,Middle,Widowed,High School,High,Namur,Beauty & Personal Care,USD,$242.79,6,Mixed,3,1,2,Low,Somewhat Sensitive,0,9,High,Tablet,credit card,1/20/2024,FALSE,TRUE,Need-based,Standard,7,30
+94-408-2581,40,Female,Middle,Married,High School,High,Bordeaux,Travel & Leisure (Flights,USD,$393.09,8,In-Store,1,5,2,Low,Not Sensitive,1,6,High,Smartphone,PayPal,4/11/2024,TRUE,FALSE,Planned,Standard,1,15
+86-257-9581,30,Male,High,Single,Bachelor's,Middle,WÄdÄ« as SalqÄ,Gardening & Outdoors,USD,$167.61,2,In-Store,1,2,2,High,Very Sensitive,2,3,Medium,Smartphone,Credit Card,11/10/2024,TRUE,TRUE,Wants-based,No Preference,13,20
+54-164-2243,48,Male,Middle,Single,High School,Middle,Benito Juarez,Hotels,USD,$324.22,2,Online,1,5,1,High,Not Sensitive,0,2,Low,Tablet,Debit Card,4/18/2024,FALSE,TRUE,Need-based,No Preference,14,30
+18-793-9543,28,Male,High,Divorced,Master's,Middle,MonterÃ­a,Furniture,USD,$159.30,11,Online,5,2,2,None,Not Sensitive,2,3,None,Smartphone,credit card,4/24/2024,TRUE,TRUE,Wants-based,Express,2,5
+76-561-2427,27,Agender,Middle,Widowed,High School,High,Cane,Travel & Leisure (Flights,USD,$324.39,5,Online,3,5,1,High,Not Sensitive,2,8,High,Tablet,PayPal,11/19/2024,TRUE,FALSE,Wants-based,No Preference,1,20
+81-604-7906,49,Male,Middle,Divorced,High School,High,Tewulike,Hotels,USD,$198.89,2,Mixed,2,5,1,Low,Very Sensitive,2,7,Low,Tablet,Cash,1/12/2024,FALSE,FALSE,Impulsive,No Preference,1,30
+83-455-7266,37,Female,Middle,Married,Bachelor's,Middle,CrÃ©teil,Toys & Games,USD,$287.18,7,Mixed,5,2,0,None,Very Sensitive,2,3,None,Desktop,Cash,3/11/2024,FALSE,FALSE,Planned,No Preference,8,10
+67-159-7366,29,Female,High,Widowed,Bachelor's,Middle,Monastyrshchina,Electronics,USD,$162.24,7,In-Store,2,4,1,None,Very Sensitive,1,4,Low,Smartphone,Debit Card,10/11/2024,FALSE,FALSE,Wants-based,Standard,7,30
+18-518-0140,47,Female,High,Divorced,Bachelor's,Middle,Coro,Baby Products,USD,$92.97,6,In-Store,1,4,1,None,Somewhat Sensitive,0,5,Medium,Desktop,Debit Card,12/15/2024,FALSE,FALSE,Planned,Express,7,5
+10-430-5821,25,Male,High,Divorced,Master's,Middle,Kapan,Software & Apps,USD,$144.39,12,Mixed,5,4,0.3,None,Very Sensitive,1,9,Medium,Tablet,Other,6/11/2024,TRUE,FALSE,Planned,No Preference,12,5
+99-771-9310,37,Female,High,Widowed,Master's,Middle,Vitoria-Gasteiz,Food & Beverages,USD,$253.37,12,In-Store,2,1,0,Low,Not Sensitive,1,2,High,Smartphone,Cash,5/8/2024,TRUE,FALSE,Need-based,Express,6,15
+98-238-6733,42,Female,High,Married,High School,High,Liuzhou,Luxury Goods,USD,$209.62,12,In-Store,2,5,0,High,Very Sensitive,0,4,Medium,Tablet,Credit Card,10/12/2024,FALSE,TRUE,Impulsive,No Preference,9,10
+30-417-6981,45,Male,High,Married,Master's,High,Jianmin,Baby Products,USD,$411.62,6,In-Store,1,5,2,High,Very Sensitive,1,8,None,Tablet,Debit Card,10/5/2024,FALSE,FALSE,Impulsive,Express,12,25
+51-220-3072,31,Male,Middle,Married,Master's,High,Shuntian,Mobile Accessories,USD,$388.01,2,In-Store,4,4,2,High,Somewhat Sensitive,2,2,Low,Desktop,PayPal,11/19/2024,TRUE,TRUE,Wants-based,Express,10,5
+03-950-6074,36,Female,Middle,Married,Master's,Middle,Strabychovo,Software & Apps,USD,$50.78,6,Mixed,2,1,2,High,Not Sensitive,0,10,None,Smartphone,cash,1/12/2024,TRUE,TRUE,Wants-based,No Preference,9,20
+83-792-5141,50,Female,Middle,Single,Bachelor's,Middle,Chengguan,Home Appliances,USD,$159.82,2,Online,3,4,2,Medium,Not Sensitive,2,2,None,Tablet,Debit Card,12/9/2024,FALSE,TRUE,Wants-based,Standard,10,5
+70-207-6999,36,Female,High,Divorced,High School,Middle,Dakingari,Office Supplies,USD,$79.43,3,Online,3,4,2,Medium,Very Sensitive,1,3,None,Smartphone,Credit Card,1/15/2024,FALSE,FALSE,Planned,Standard,6,0
+65-431-1264,21,Male,Middle,Single,Bachelor's,High,Dhalie,Books,USD,$131.36,4,Online,4,1,1,None,Very Sensitive,0,9,Medium,Desktop,PayPal,11/21/2024,TRUE,FALSE,Wants-based,Express,3,15
+85-666-7449,26,Female,High,Widowed,Bachelor's,High,Zhongzhang,Health Supplements,USD,$299.75,12,In-Store,1,3,2,Medium,Somewhat Sensitive,1,3,Medium,Desktop,other,7/5/2024,FALSE,FALSE,Planned,No Preference,7,5
+24-591-4327,35,Male,High,Divorced,High School,High,Nowe Brzesko,Animal Feed,USD,$319.38,9,Online,1,1,1,High,Not Sensitive,2,2,High,Desktop,Other,11/15/2024,TRUE,FALSE,Impulsive,Standard,8,0
+53-843-5619,38,Female,High,Single,High School,High,Orsay,Gardening & Outdoors,USD,$476.48,8,Online,4,3,2,Low,Somewhat Sensitive,0,4,High,Desktop,Other,7/6/2024,FALSE,FALSE,Impulsive,Standard,3,15
+21-297-1223,49,Male,High,Single,Master's,Middle,Pancas,Travel & Leisure (Flights,USD,$301.01,9,Mixed,5,2,2,High,Very Sensitive,2,4,High,Smartphone,Debit Card,8/23/2024,TRUE,TRUE,Planned,Standard,13,15
+82-671-7236,28,Female,Middle,Divorced,Bachelor's,High,Ä€bdÄnÄn,Home Appliances,USD,$378.71,5,Online,5,3,0.25,High,Very Sensitive,1,8,Low,Desktop,Debit Card,8/30/2024,FALSE,FALSE,Wants-based,Express,14,30
+19-925-2376,24,Male,High,Single,Bachelor's,Middle,Segodim,Mobile Accessories,USD,$314.32,6,In-Store,1,2,2,High,Very Sensitive,1,8,Low,Desktop,Cash,3/16/2024,FALSE,TRUE,Impulsive,Express,7,0
+55-944-9669,32,Bigender,Middle,Divorced,Master's,High,Sobeok,Clothing,USD,$210.90,12,Mixed,1,4,2,Low,Very Sensitive,1,4,Low,Desktop,Cash,8/17/2024,TRUE,FALSE,Wants-based,No Preference,12,15
+93-455-0576,23,Female,Middle,Widowed,Master's,Middle,Novoorsk,Toys & Games,USD,$218.26,4,Mixed,1,4,1,High,Somewhat Sensitive,2,5,Low,Tablet,Credit Card,2/27/2024,FALSE,FALSE,Planned,Express,12,0
+89-883-2101,38,Female,Middle,Divorced,Bachelor's,High,Ngeru,Mobile Accessories,USD,$424.18,5,Mixed,2,4,0,High,Very Sensitive,0,8,None,Tablet,paypal,2/14/2024,TRUE,TRUE,Impulsive,No Preference,5,0
+27-806-4972,26,Female,High,Single,Master's,Middle,Obong,Health Care,USD,$430.75,11,In-Store,1,1,1,High,Not Sensitive,0,1,Low,Tablet,Credit Card,6/24/2024,FALSE,FALSE,Wants-based,No Preference,6,10
+41-501-9276,24,Male,High,Married,Bachelor's,High,Monchegorsk,Sports & Outdoors,USD,$162.95,11,Online,2,3,1,Low,Somewhat Sensitive,1,6,Medium,Smartphone,Debit Card,7/21/2024,FALSE,FALSE,Wants-based,Express,14,20
+89-302-8461,37,Male,Middle,Single,Master's,Middle,Nymburk,Packages),USD,$209.68,2,Mixed,4,4,1,Medium,Very Sensitive,1,4,Medium,Smartphone,PayPal,6/30/2024,FALSE,FALSE,Impulsive,No Preference,8,25
+90-569-7391,18,Female,Middle,Single,Bachelor's,Middle,SkoÃºtari,Health Supplements,USD,$97.97,2,Mixed,2,4,2,Medium,Not Sensitive,1,4,Low,Desktop,Debit Card,10/3/2024,TRUE,TRUE,Wants-based,Standard,1,25
+16-070-0138,39,Female,High,Single,High School,High,Njeru,Luxury Goods,USD,"192,51",9,In-Store,1,5,2,None,Not Sensitive,2,2,Medium,Desktop,Credit Card,8/23/2024,FALSE,TRUE,Planned,No Preference,9,0
+79-861-6506,20,Male,High,Widowed,High School,High,BaturitÃ©,Toys & Games,USD,$151.81,8,In-Store,5,3,0,High,Not Sensitive,0,6,High,Tablet,PayPal,1/13/2024,FALSE,FALSE,Wants-based,Standard,1,0
+04-563-9091,37,Male,Middle,Widowed,Master's,High,Puqian,Office Supplies,USD,$239.28,8,Mixed,5,5,2,Low,Not Sensitive,2,2,Low,Smartphone,Credit Card,11/8/2024,FALSE,FALSE,Need-based,No Preference,10,10
+95-675-7816,19,Female,High,Widowed,Master's,Middle,Noisy-le-Grand,Groceries,USD,$306.17,4,Mixed,1,4,2,Low,Somewhat Sensitive,2,10,Medium,Smartphone,PayPal,1/29/2024,TRUE,FALSE,Impulsive,Express,8,15
+87-806-4478,35,Male,Middle,Widowed,Master's,Middle,Al JÄ«zah,Electronics,USD,$370.38,11,Online,3,4,0,Medium,Not Sensitive,1,10,None,Tablet,Debit Card,3/4/2024,FALSE,FALSE,Planned,No Preference,9,0
+17-328-4678,27,Male,High,Widowed,Bachelor's,Middle,Quimbaya,Packages),USD,$346.58,6,Mixed,5,5,2,Low,Very Sensitive,2,8,Low,Desktop,PayPal,6/3/2024,FALSE,FALSE,Planned,No Preference,7,15
+91-572-6135,45,Male,Middle,Widowed,Bachelor's,Middle,ChabaÅ™ovice,Software & Apps,USD,$292.64,5,Online,2,5,1,None,Not Sensitive,2,2,High,Smartphone,Debit Card,12/6/2024,FALSE,FALSE,Planned,Express,1,20
+23-039-9347,41,Male,Middle,Divorced,High School,High,Yatsuomachi-higashikumisaka,Health Supplements,USD,$102.91,12,In-Store,4,4,0,Medium,Not Sensitive,1,7,None,Tablet,Credit Card,3/26/2024,TRUE,TRUE,Wants-based,Standard,13,25
+39-731-8532,39,Male,High,Married,Master's,Middle,ColÃ³n,Arts & Crafts,USD,$283.78,4,Online,2,3,1.2,Medium,Somewhat Sensitive,1,10,Low,Desktop,Credit Card,8/9/2024,TRUE,TRUE,Impulsive,Standard,10,5
+96-915-4091,36,Female,High,Widowed,Bachelor's,Middle,á¸¨awallÄ«,Electronics,USD,$51.44,2,Online,2,3,1,High,Not Sensitive,2,3,High,Tablet,Debit Card,5/17/2024,FALSE,FALSE,Impulsive,No Preference,5,20
+86-182-9556,34,Male,High,Widowed,High School,High,Port Elizabeth,Electronics,USD,$405.70,12,Mixed,4,1,2,High,Very Sensitive,0,10,High,Desktop,PayPal,2/17/2024,FALSE,TRUE,Need-based,No Preference,14,25
+25-866-7286,30,Female,Middle,Divorced,Master's,High,Carrefour,Electronics,USD,$311.74,11,Online,4,5,1,Medium,Not Sensitive,0,1,Low,Desktop,other,1/17/2024,TRUE,FALSE,Planned,Express,11,20
+23-451-9920,37,Male,Middle,Divorced,Master's,High,Rzeczenica,Luxury Goods,USD,$293.43,9,Mixed,3,5,2,Low,Very Sensitive,0,6,None,Desktop,PayPal,7/5/2024,TRUE,TRUE,Planned,No Preference,7,0
+80-487-2550,34,Male,High,Married,Bachelor's,Middle,Novokayakent,Electronics,USD,$418.51,6,Mixed,5,1,2,None,Somewhat Sensitive,0,5,High,Smartphone,Credit Card,5/1/2024,TRUE,TRUE,Impulsive,Standard,3,30
+37-101-4922,42,Female,Middle,Married,Master's,High,Santa Cruz La Laguna,Mobile Accessories,USD,$85.03,9,In-Store,2,3,0,None,Not Sensitive,0,8,Medium,Smartphone,credit card,10/6/2024,TRUE,FALSE,Wants-based,Standard,8,25
+82-133-0444,43,Male,High,Married,Bachelor's,Middle,HÃ¤gersten,Groceries,USD,$164.94,4,Mixed,5,3,1,High,Not Sensitive,2,10,Low,Desktop,Debit Card,7/18/2024,FALSE,FALSE,Wants-based,Standard,6,5
+84-954-2973,37,Female,High,Single,Master's,Middle,Proptisht,Hotels,USD,$89.32,11,Mixed,1,4,0,None,Very Sensitive,1,9,Medium,Tablet,PayPal,4/23/2024,FALSE,TRUE,Need-based,Express,12,30
+35-644-3184,21,Female,High,Single,Master's,Middle,TÄ›Å¡any,Mobile Accessories,USD,$388.26,2,Online,2,3,2,None,Very Sensitive,2,5,High,Desktop,PayPal,4/2/2024,TRUE,TRUE,Need-based,No Preference,5,15
+39-274-2175,48,Polygender,High,Divorced,Master's,High,Hengdian,Health Supplements,USD,$106.69,5,In-Store,5,3,1,None,Not Sensitive,0,9,Medium,Tablet,Debit Card,9/20/2024,TRUE,FALSE,Need-based,Express,14,5
+45-073-7243,37,Male,High,Single,Bachelor's,High,Jindong,Furniture,USD,$301.16,10,Mixed,5,5,2,Low,Very Sensitive,0,7,Medium,Smartphone,Credit Card,7/26/2024,FALSE,TRUE,Planned,Standard,1,0
+66-085-1226,22,Female,Middle,Married,Master's,High,San Pascual,Groceries,USD,$61.71,6,Mixed,4,5,2,High,Very Sensitive,0,1,High,Tablet,Debit Card,10/3/2024,FALSE,FALSE,Wants-based,No Preference,12,0
+37-126-7954,38,Male,Middle,Divorced,Bachelor's,High,SoÅ›no,Clothing,USD,$83.33,11,Online,1,2,0,High,Somewhat Sensitive,1,6,None,Tablet,PayPal,2/27/2024,FALSE,TRUE,Wants-based,No Preference,1,15
+64-031-2046,29,Female,High,Divorced,Master's,High,Luci,Beauty & Personal Care,USD,$411.81,4,Mixed,4,5,1,High,Not Sensitive,0,2,Low,Tablet,Other,4/8/2024,TRUE,FALSE,Wants-based,No Preference,1,30
+67-037-2087,32,Female,High,Divorced,Bachelor's,Middle,Gobojango,Hotels,USD,$114.93,3,Mixed,1,2,0,Low,Not Sensitive,2,6,None,Tablet,Cash,8/23/2024,FALSE,FALSE,Planned,No Preference,4,25
+48-642-5768,26,Female,Middle,Widowed,Bachelor's,Middle,ShchÃ«kino,Packages),USD,$438.42,11,Online,3,5,2,Low,Very Sensitive,0,9,Medium,Tablet,other,9/10/2024,TRUE,FALSE,Planned,Standard,4,0
+17-763-9416,32,Female,High,Single,High School,Middle,Tsibulev,Software & Apps,USD,$189.97,2,Mixed,4,4,1,High,Somewhat Sensitive,0,6,High,Desktop,PayPal,3/6/2024,FALSE,FALSE,Planned,No Preference,8,15
+46-678-4172,24,Female,Middle,Married,Master's,Middle,Na Chaluai,Luxury Goods,USD,$227.03,12,Online,3,3,2,Medium,Very Sensitive,0,9,High,Smartphone,other,7/7/2024,TRUE,FALSE,Need-based,Express,2,10
+43-671-9834,39,Female,Middle,Divorced,High School,High,Ranot,Clothing,USD,$278.49,4,Mixed,3,2,0,Low,Somewhat Sensitive,1,10,Low,Smartphone,debit card,9/8/2024,FALSE,FALSE,Impulsive,Standard,8,30
+61-286-0069,18,Agender,Middle,Widowed,Bachelor's,Middle,Kosh-Agach,Arts & Crafts,USD,$120.56,5,Online,2,1,1,Low,Not Sensitive,2,7,High,Smartphone,debit card,6/3/2024,FALSE,FALSE,Planned,Express,7,20
+96-140-1936,30,Male,Middle,Married,Bachelor's,Middle,Baihe,Luxury Goods,USD,$320.94,11,Online,2,5,0,High,Very Sensitive,1,2,Low,Desktop,PayPal,11/8/2024,FALSE,FALSE,Need-based,No Preference,10,5
+64-641-7874,33,Female,High,Widowed,High School,High,Providence,Packages),USD,$217.72,3,In-Store,1,4,2,High,Somewhat Sensitive,1,1,Medium,Tablet,Cash,10/16/2024,FALSE,FALSE,Wants-based,Express,14,10
+29-625-7057,31,Female,Middle,Single,Master's,Middle,Nesovice,Arts & Crafts,USD,$222.61,3,Online,5,3,0,High,Somewhat Sensitive,2,2,High,Desktop,PayPal,7/3/2024,TRUE,TRUE,Planned,Standard,3,25
+19-560-0717,50,Polygender,Middle,Married,High School,High,Pombas,Travel & Leisure (Flights,USD,$102.73,3,Mixed,3,4,2,None,Not Sensitive,2,4,High,Tablet,Cash,7/18/2024,TRUE,FALSE,Impulsive,Standard,14,5
+21-959-5766,24,Non-binary,High,Married,High School,Middle,Ma'an,Luxury Goods,USD,$426.87,2,Online,4,2,2,Medium,Somewhat Sensitive,1,6,Low,Tablet,Other,3/14/2024,TRUE,FALSE,Need-based,No Preference,3,25
+37-361-8691,40,Female,High,Married,High School,High,Maguwon,Packages),USD,$473.28,5,Mixed,3,2,1,Low,Very Sensitive,0,1,None,Tablet,Credit Card,12/9/2024,FALSE,FALSE,Wants-based,No Preference,13,20
+96-121-0629,38,Male,Middle,Married,Bachelor's,Middle,Yanshang,Software & Apps,USD,$446.03,9,Mixed,3,2,0,High,Not Sensitive,1,10,Low,Smartphone,Debit Card,6/26/2024,TRUE,FALSE,Need-based,No Preference,12,20
+67-209-0990,39,Male,High,Widowed,High School,High,Stoczek Åukowski,Books,USD,$287.95,3,In-Store,5,5,1,Low,Somewhat Sensitive,1,4,Medium,Smartphone,PayPal,11/12/2024,FALSE,TRUE,Impulsive,Express,11,15
+35-198-9248,21,Female,Middle,Widowed,High School,Middle,Rzewnie,Toys & Games,USD,$132.52,6,In-Store,1,5,1,High,Somewhat Sensitive,1,10,High,Tablet,Other,12/20/2024,TRUE,FALSE,Impulsive,Express,12,5
+82-474-5074,22,Male,Middle,Married,Bachelor's,High,Ambatolaona,Travel & Leisure (Flights,USD,$379.20,7,Mixed,5,5,0,None,Not Sensitive,2,10,Medium,Desktop,Debit Card,5/28/2024,FALSE,TRUE,Wants-based,Standard,7,5
+38-940-4942,22,Female,High,Widowed,Master's,Middle,FaqqÅ«â€˜ah,Health Care,USD,$447.53,4,Mixed,3,4,0,Low,Somewhat Sensitive,0,2,High,Tablet,Other,10/13/2024,FALSE,TRUE,Planned,Express,3,30
+87-727-6434,28,Female,High,Widowed,Master's,Middle,Cravo Norte,Arts & Crafts,USD,$138.44,4,Online,2,2,2,Low,Very Sensitive,1,2,Low,Smartphone,Credit Card,2/22/2024,TRUE,TRUE,Need-based,No Preference,1,30
+54-680-5344,29,Male,Middle,Widowed,Master's,Middle,Langkou,Office Supplies,USD,$440.62,8,In-Store,2,1,2,None,Somewhat Sensitive,2,4,High,Smartphone,other,2/1/2024,FALSE,TRUE,Planned,No Preference,6,20
+59-261-4453,40,Male,High,Widowed,High School,High,Oguma,Furniture,USD,$145.98,4,Mixed,2,4,1,Medium,Very Sensitive,1,7,Medium,Tablet,paypal,9/16/2024,TRUE,TRUE,Need-based,Standard,1,0
+33-519-4214,25,Non-binary,High,Divorced,Bachelor's,Middle,Hengfeng,Mobile Accessories,USD,$405.66,11,Mixed,1,1,0,Low,Somewhat Sensitive,0,9,Medium,Smartphone,PayPal,4/27/2024,TRUE,TRUE,Need-based,No Preference,11,15
+06-237-7338,27,Female,Middle,Married,Bachelor's,Middle,Dhahab,Toys & Games,USD,$419.98,7,Mixed,5,4,0,None,Somewhat Sensitive,0,1,None,Tablet,debit card,4/28/2024,TRUE,TRUE,Wants-based,Express,14,20
+92-908-5062,18,Agender,Middle,Single,Bachelor's,High,Shiroishi,Home Appliances,USD,$260.14,5,In-Store,2,4,1,High,Somewhat Sensitive,2,10,High,Desktop,paypal,9/1/2024,TRUE,FALSE,Need-based,Express,7,10
+80-508-9866,46,Female,Middle,Married,Master's,High,EstÃ¢ncia,Hotels,USD,$368.91,10,In-Store,5,1,2,None,Somewhat Sensitive,1,1,None,Desktop,PayPal,3/21/2024,TRUE,FALSE,Wants-based,No Preference,7,5
+78-361-5100,44,Female,Middle,Married,Master's,High,As SawdÄ,Office Supplies,USD,$100.32,2,In-Store,3,1,0,Low,Not Sensitive,2,4,High,Smartphone,Credit Card,12/11/2024,TRUE,TRUE,Impulsive,Standard,8,25
+49-825-3438,50,Male,High,Widowed,High School,High,Vabalninkas,Mobile Accessories,USD,$107.82,7,In-Store,2,4,0,None,Somewhat Sensitive,2,2,Medium,Smartphone,Cash,12/4/2024,FALSE,TRUE,Impulsive,Express,2,5
+62-644-8183,50,Female,Middle,Married,Master's,High,Haradok,Toys & Games,USD,$83.88,11,Online,3,5,1,Medium,Very Sensitive,1,10,Low,Tablet,other,2/24/2024,TRUE,FALSE,Planned,Standard,4,10
+84-162-8799,43,Male,Middle,Widowed,High School,High,Khilok,Jewelry & Accessories,USD,$81.25,9,In-Store,2,4,1,High,Somewhat Sensitive,1,1,Low,Tablet,Debit Card,5/24/2024,FALSE,TRUE,Impulsive,No Preference,10,15
+07-395-5818,37,Agender,High,Single,High School,High,á¸¨abÄbah,Clothing,USD,$125.80,12,In-Store,2,2,0,High,Not Sensitive,0,4,Low,Tablet,Credit Card,5/18/2024,FALSE,FALSE,Impulsive,Standard,1,0
+16-364-8096,41,Female,High,Married,High School,High,HornÃ­ SuchÃ¡,Animal Feed,USD,$197.90,11,Online,3,2,0,None,Very Sensitive,2,9,Medium,Tablet,Cash,4/2/2024,FALSE,FALSE,Impulsive,Standard,5,10
+96-229-1698,23,Female,Middle,Widowed,High School,Middle,Jinping,Animal Feed,USD,$299.09,8,In-Store,5,1,0,High,Not Sensitive,2,6,None,Tablet,Cash,6/24/2024,TRUE,TRUE,Planned,Express,14,30
+01-799-2615,45,Male,Middle,Married,High School,Middle,Limoges,Furniture,USD,$79.30,10,In-Store,3,4,1,High,Somewhat Sensitive,1,7,High,Desktop,Credit Card,9/3/2024,TRUE,FALSE,Wants-based,No Preference,2,5
+99-089-1930,49,Non-binary,High,Married,Master's,Middle,Freiburg im Breisgau,Packages),USD,$55.73,12,Mixed,1,3,0,Medium,Very Sensitive,0,9,Low,Tablet,Credit Card,5/19/2024,FALSE,TRUE,Need-based,Standard,3,25
+19-386-9088,24,Female,High,Widowed,High School,Middle,Tallahassee,Luxury Goods,USD,$256.44,8,In-Store,5,3,1,None,Not Sensitive,0,4,None,Smartphone,PayPal,8/4/2024,TRUE,TRUE,Impulsive,Standard,3,10
+53-595-7635,25,Female,High,Divorced,High School,Middle,Pingtang,Luxury Goods,USD,$337.21,12,Mixed,4,2,1,Low,Very Sensitive,2,3,Low,Smartphone,Other,10/24/2024,FALSE,FALSE,Need-based,No Preference,11,0
+58-487-8848,38,Female,High,Married,High School,High,KonÄrak,Beauty & Personal Care,USD,$494.97,12,Mixed,4,3,0,None,Very Sensitive,0,8,High,Tablet,PayPal,8/16/2024,FALSE,TRUE,Wants-based,Express,7,0
+46-230-8307,38,Female,High,Single,Master's,Middle,La Roche-sur-Yon,Health Care,USD,$238.58,6,Online,1,2,2,High,Somewhat Sensitive,1,6,High,Desktop,other,6/11/2024,TRUE,FALSE,Wants-based,No Preference,8,10
+53-459-7870,50,Agender,High,Divorced,Master's,Middle,Autun,Packages),USD,$131.90,8,Mixed,1,2,1,Medium,Somewhat Sensitive,1,5,Medium,Desktop,PayPal,11/1/2024,TRUE,FALSE,Impulsive,No Preference,4,20
+67-937-6624,50,Male,High,Divorced,Bachelor's,Middle,Huambo,Software & Apps,USD,$403.03,12,Mixed,5,2,2,Low,Very Sensitive,2,1,High,Smartphone,Cash,8/22/2024,TRUE,FALSE,Planned,Express,2,30
+70-895-5298,28,Female,Middle,Married,Master's,High,Pomar,Food & Beverages,USD,$338.60,10,In-Store,2,5,0,High,Somewhat Sensitive,2,4,Medium,Tablet,Credit Card,8/24/2024,FALSE,TRUE,Need-based,No Preference,9,20
+54-634-0814,35,Male,High,Divorced,Bachelor's,High,Pasirjaya,Furniture,USD,$365.38,11,In-Store,5,3,1,Low,Somewhat Sensitive,0,6,Medium,Desktop,PayPal,8/1/2024,FALSE,TRUE,Need-based,No Preference,14,10
+72-324-1243,34,Male,High,Married,High School,Middle,Bairan,Mobile Accessories,USD,$433.99,11,In-Store,2,4,1,High,Very Sensitive,0,2,Medium,Smartphone,credit card,2/9/2024,TRUE,TRUE,Impulsive,No Preference,8,30
+61-176-8712,27,Female,High,Married,Master's,Middle,Cerro,Beauty & Personal Care,USD,$495.95,5,In-Store,3,2,1,Medium,Somewhat Sensitive,0,1,None,Desktop,Cash,4/10/2024,TRUE,FALSE,Planned,Express,6,30
+08-117-9893,49,Male,High,Single,High School,Middle,Colombo,Baby Products,USD,$356.22,7,Mixed,2,1,0,Medium,Somewhat Sensitive,2,7,Medium,Tablet,PayPal,6/10/2024,TRUE,FALSE,Wants-based,Express,6,5
+79-052-8470,35,Male,Middle,Widowed,High School,High,Å¢awr al BÄá¸©ah,Arts & Crafts,USD,$156.40,7,Online,1,1,1,High,Not Sensitive,0,7,Medium,Desktop,Debit Card,11/7/2024,FALSE,TRUE,Need-based,Standard,4,0
+18-593-8611,22,Genderqueer,High,Single,High School,Middle,San Diego,Health Supplements,USD,$454.36,3,In-Store,4,5,2,Low,Somewhat Sensitive,1,7,Low,Desktop,Credit Card,9/16/2024,FALSE,TRUE,Need-based,Standard,12,25
+26-828-2720,40,Male,High,Divorced,Master's,High,Dashuipo,Mobile Accessories,USD,$486.07,11,In-Store,2,5,0,Low,Not Sensitive,0,5,Low,Tablet,Other,1/16/2024,TRUE,TRUE,Need-based,Standard,12,0
+20-817-9584,42,Male,Middle,Widowed,Master's,Middle,AlfeizerÃ£o,Animal Feed,USD,$427.86,11,Mixed,4,4,1,None,Somewhat Sensitive,2,1,Low,Tablet,Cash,3/3/2024,TRUE,TRUE,Impulsive,No Preference,8,10
+22-414-4955,35,Male,High,Widowed,Bachelor's,High,Dragash,Health Supplements,USD,$235.13,10,In-Store,4,2,2,Low,Very Sensitive,0,6,Medium,Smartphone,Other,3/29/2024,FALSE,TRUE,Impulsive,Express,6,30
+22-579-3978,40,Male,Middle,Divorced,High School,High,Arendal,Clothing,USD,$361.27,4,Online,5,3,0,High,Very Sensitive,1,7,Medium,Desktop,PayPal,9/15/2024,FALSE,FALSE,Planned,Standard,2,10
+25-560-4506,31,Bigender,High,Divorced,High School,High,Paya Dapur,Health Supplements,USD,$195.83,10,Mixed,1,2,1,None,Somewhat Sensitive,1,2,Low,Desktop,Credit Card,1/25/2024,FALSE,FALSE,Wants-based,Standard,13,5
+73-139-4306,24,Female,Middle,Married,Master's,High,Puerto LÃ³pez,Luxury Goods,USD,$340.31,10,Online,2,5,0,Low,Somewhat Sensitive,2,3,Medium,Desktop,PayPal,9/18/2024,FALSE,FALSE,Impulsive,No Preference,14,25
+88-395-8741,44,Male,High,Divorced,High School,Middle,Jelat,Travel & Leisure (Flights,USD,$489.67,5,In-Store,1,1,2,High,Very Sensitive,2,7,High,Tablet,Debit Card,12/21/2024,FALSE,FALSE,Impulsive,Standard,11,0
+68-512-0568,40,Female,High,Married,Master's,Middle,Wolfsberg,Books,USD,$482.50,11,In-Store,3,1,1,Medium,Somewhat Sensitive,0,6,High,Desktop,Other,9/28/2024,TRUE,TRUE,Need-based,Standard,13,15
+68-201-1633,33,Male,Middle,Married,Bachelor's,High,MaÃ±o,Software & Apps,USD,$433.14,10,Mixed,5,3,2,Medium,Somewhat Sensitive,0,8,High,Tablet,Credit Card,7/9/2024,TRUE,TRUE,Wants-based,Standard,5,30
+37-065-3182,24,Female,High,Divorced,Master's,Middle,GrÃ¥bo,Office Supplies,USD,$375.70,6,In-Store,3,5,0,Low,Very Sensitive,1,2,High,Desktop,Cash,9/27/2024,FALSE,FALSE,Need-based,Standard,10,20
+50-395-1941,30,Genderqueer,High,Married,High School,High,SÃ¤rkisalo,Software & Apps,USD,$381.30,12,Online,2,4,2,None,Very Sensitive,0,4,Low,Smartphone,PayPal,1/9/2024,FALSE,FALSE,Impulsive,No Preference,7,10
+15-354-9904,34,Male,Middle,Single,Bachelor's,High,Bagahanlad,Groceries,USD,$210.21,4,Online,3,5,0,None,Not Sensitive,1,9,Medium,Tablet,Other,7/5/2024,TRUE,FALSE,Wants-based,Standard,14,20
+55-569-9247,41,Female,Middle,Married,Master's,High,GÃ¶teborg,Toys & Games,USD,$408.81,8,Online,4,2,1,High,Not Sensitive,2,7,Medium,Smartphone,Credit Card,7/16/2024,FALSE,TRUE,Wants-based,No Preference,12,15
+35-880-9374,36,Female,Middle,Widowed,Bachelor's,High,Karengan,Arts & Crafts,USD,$118.65,10,In-Store,1,3,2,High,Not Sensitive,2,10,High,Desktop,Debit Card,1/9/2024,FALSE,FALSE,Need-based,No Preference,13,10
+79-902-8144,26,Female,High,Single,Bachelor's,Middle,Rates,Baby Products,USD,$166.45,7,Online,2,2,0,High,Very Sensitive,0,7,Low,Tablet,other,8/13/2024,TRUE,FALSE,Impulsive,No Preference,12,25
+77-761-7475,28,Female,Middle,Divorced,Bachelor's,High,Berezna,Packages),USD,$385.32,10,Mixed,5,3,2,None,Somewhat Sensitive,1,3,High,Desktop,Debit Card,9/5/2024,FALSE,TRUE,Impulsive,Standard,9,30
+77-401-8183,30,Female,High,Divorced,High School,High,PhÃºc Thá»,Baby Products,USD,$293.99,10,Mixed,3,5,1,Low,Not Sensitive,1,5,Low,Desktop,PayPal,9/29/2024,FALSE,TRUE,Planned,No Preference,5,30
+67-697-2331,22,Male,Middle,Married,Master's,High,Tanudan,Groceries,USD,$161.41,9,Mixed,1,4,1,None,Somewhat Sensitive,2,8,Low,Smartphone,Credit Card,4/7/2024,TRUE,TRUE,Wants-based,No Preference,3,10
+75-518-2831,33,Male,Middle,Divorced,Master's,Middle,Fengyi,Jewelry & Accessories,USD,$130.92,2,Online,3,4,1.3,Medium,Very Sensitive,2,10,None,Desktop,PayPal,12/18/2024,FALSE,TRUE,Wants-based,Standard,9,25
+79-939-5393,21,Female,High,Married,High School,High,Camalote,Office Supplies,USD,$468.60,4,Mixed,5,5,1,Medium,Somewhat Sensitive,1,1,High,Tablet,Cash,6/14/2024,FALSE,FALSE,Need-based,Standard,2,20
+99-945-7193,24,Female,Middle,Single,Master's,High,Lemery,Hotels,USD,$237.57,5,Mixed,5,4,0,Medium,Somewhat Sensitive,1,7,Low,Smartphone,Cash,4/25/2024,FALSE,FALSE,Impulsive,Express,11,10
+43-616-8365,29,Female,Middle,Single,Master's,High,Kandangan,Jewelry & Accessories,USD,$395.18,5,Online,2,1,0,High,Somewhat Sensitive,2,3,High,Desktop,Other,7/20/2024,FALSE,TRUE,Need-based,Standard,6,10
+85-885-6579,50,Male,Middle,Single,Bachelor's,Middle,Tirana,Arts & Crafts,USD,$427.94,12,Mixed,5,1,1,High,Somewhat Sensitive,0,9,Low,Tablet,Other,3/29/2024,FALSE,FALSE,Impulsive,Express,10,0
+81-877-9170,30,Genderqueer,High,Widowed,Bachelor's,High,Gegernoong,Sports & Outdoors,USD,$81.23,9,Online,1,3,1,Medium,Not Sensitive,1,1,None,Desktop,cash,3/26/2024,FALSE,FALSE,Need-based,Standard,6,0
+47-266-2261,36,Female,Middle,Single,Bachelor's,Middle,BrÃ¤ndÃ¶,Furniture,USD,$257.43,5,In-Store,1,1,1,High,Not Sensitive,1,5,High,Desktop,credit card,4/14/2024,TRUE,FALSE,Impulsive,Standard,13,5
+40-232-5631,47,Genderfluid,Middle,Single,Bachelor's,Middle,Suvorov,Software & Apps,USD,$305.73,7,Online,2,2,2,Low,Very Sensitive,1,4,High,Tablet,Other,12/14/2024,TRUE,FALSE,Need-based,Express,14,10
+99-643-9845,28,Female,Middle,Married,High School,High,Banturkrajan,Groceries,USD,$249.82,10,Online,3,3,2,High,Very Sensitive,0,1,Medium,Smartphone,Cash,8/12/2024,FALSE,TRUE,Need-based,No Preference,10,30
+61-627-1822,39,Male,High,Widowed,Bachelor's,High,Huquan,Jewelry & Accessories,USD,$332.79,11,In-Store,2,1,2,Low,Somewhat Sensitive,2,7,None,Tablet,Other,8/29/2024,TRUE,TRUE,Need-based,Express,4,20
+21-232-1397,25,Male,Middle,Single,Master's,High,Bhadrapur,Sports & Outdoors,USD,$78.90,3,In-Store,5,5,2,None,Not Sensitive,1,3,High,Desktop,Other,9/7/2024,FALSE,FALSE,Planned,Express,10,30
+06-647-3248,26,Female,High,Single,Master's,High,Yuannan,Electronics,USD,$122.55,9,Mixed,4,3,0,Medium,Not Sensitive,1,10,High,Tablet,Credit Card,6/28/2024,TRUE,TRUE,Planned,No Preference,4,5
+86-390-9555,48,Male,Middle,Single,Master's,High,PegÃµes,Groceries,USD,$307.61,6,Online,3,3,0,Medium,Very Sensitive,1,8,Low,Smartphone,debit card,9/12/2024,TRUE,FALSE,Wants-based,No Preference,10,25
+19-344-0102,44,Male,High,Single,Master's,High,Jardin,Home Appliances,USD,$152.33,2,Online,4,4,1,None,Somewhat Sensitive,2,5,Medium,Desktop,Other,1/19/2024,FALSE,TRUE,Planned,No Preference,8,0
+72-830-1211,38,Male,High,Single,Bachelor's,High,Cipolletti,Jewelry & Accessories,USD,"465,07",8,Mixed,2,3,1,High,Somewhat Sensitive,2,8,High,Smartphone,PayPal,3/2/2024,TRUE,FALSE,Impulsive,Standard,8,15
+93-473-7248,43,Male,Middle,Divorced,Master's,High,Zgornje PirniÄe,Baby Products,USD,$498.23,10,Online,1,4,2,None,Not Sensitive,2,8,Low,Tablet,Cash,1/8/2024,TRUE,TRUE,Planned,Standard,9,5
+30-522-1574,31,Male,Middle,Divorced,Bachelor's,High,Xincheng,Health Supplements,USD,$491.18,3,In-Store,5,5,1,Medium,Somewhat Sensitive,0,2,Medium,Desktop,Debit Card,8/27/2024,FALSE,FALSE,Planned,Standard,14,0
+46-098-9737,35,Male,Middle,Married,Master's,High,Chivilcoy,Gardening & Outdoors,USD,$149.42,3,In-Store,2,3,2,High,Not Sensitive,1,3,Medium,Tablet,PayPal,1/3/2024,TRUE,TRUE,Impulsive,Standard,5,20
+65-533-1660,18,Male,Middle,Married,Master's,High,Palma De Mallorca,Home Appliances,USD,$82.13,9,In-Store,4,2,1,Low,Very Sensitive,1,9,None,Tablet,PayPal,4/9/2024,FALSE,TRUE,Impulsive,Standard,6,15
+06-638-0433,41,Male,High,Married,High School,Middle,Doibang,Travel & Leisure (Flights,USD,$425.18,4,Online,3,2,1,Low,Somewhat Sensitive,2,4,High,Smartphone,Debit Card,3/19/2024,FALSE,FALSE,Planned,No Preference,10,5
+81-515-5823,40,Female,Middle,Married,Master's,Middle,Qiankeng,Clothing,USD,$176.12,8,Mixed,4,3,2,Low,Very Sensitive,2,10,High,Desktop,cash,6/15/2024,FALSE,TRUE,Planned,No Preference,14,20
+22-106-8347,48,Male,High,Divorced,Master's,Middle,Bigaa,Toys & Games,USD,$70.30,6,In-Store,2,5,0,Medium,Not Sensitive,2,9,High,Tablet,Credit Card,3/3/2024,TRUE,FALSE,Impulsive,No Preference,3,25
+88-000-9227,49,Male,Middle,Divorced,Bachelor's,Middle,Shreveport,Toys & Games,USD,$319.39,7,In-Store,2,2,0,High,Very Sensitive,1,10,None,Tablet,Other,11/17/2024,TRUE,TRUE,Need-based,Standard,3,30
+63-684-4073,45,Female,High,Divorced,Bachelor's,High,Blokdesa Situgede,Electronics,USD,$113.51,11,Mixed,3,1,0,Low,Somewhat Sensitive,1,6,Medium,Desktop,Debit Card,2/14/2024,FALSE,FALSE,Impulsive,Express,8,10
+19-643-1879,45,Male,Middle,Divorced,High School,High,Kawangkoan,Food & Beverages,USD,$492.74,2,Online,2,2,0,None,Somewhat Sensitive,0,4,High,Tablet,paypal,2/29/2024,TRUE,TRUE,Need-based,Express,13,20
+14-709-8547,44,Female,Middle,Divorced,Bachelor's,High,Lahan Sai,Furniture,USD,$143.80,9,In-Store,5,1,1,None,Somewhat Sensitive,0,8,None,Smartphone,Other,2/22/2024,FALSE,FALSE,Planned,Express,11,15
+39-867-1989,40,Female,High,Widowed,High School,High,Gaopeng,Mobile Accessories,USD,$158.54,5,In-Store,3,5,1,Medium,Somewhat Sensitive,0,6,Medium,Tablet,PayPal,3/31/2024,FALSE,TRUE,Wants-based,Express,5,15
+14-784-5606,19,Genderqueer,High,Single,Bachelor's,High,ManÃ­,Food & Beverages,USD,$213.39,6,Mixed,1,2,2,Medium,Very Sensitive,0,6,Medium,Desktop,Credit Card,10/27/2024,TRUE,FALSE,Wants-based,Standard,4,15
+46-662-1571,40,Female,Middle,Widowed,Master's,Middle,La Laja,Packages),USD,$127.18,2,Online,4,2,1,Low,Somewhat Sensitive,2,9,High,Desktop,cash,12/21/2024,TRUE,TRUE,Need-based,No Preference,4,5
+57-623-5362,43,Genderqueer,High,Married,Bachelor's,High,Jilin,Furniture,USD,$476.63,9,Mixed,5,1,2,High,Not Sensitive,1,9,Low,Tablet,Other,11/19/2024,TRUE,TRUE,Need-based,Standard,1,0
+45-584-7333,40,Female,High,Widowed,Master's,High,Tabonok,Electronics,USD,$56.02,3,In-Store,1,2,1,None,Not Sensitive,1,1,High,Desktop,Other,9/13/2024,TRUE,TRUE,Wants-based,No Preference,12,20
+83-427-3218,47,Female,Middle,Widowed,High School,Middle,White River,Furniture,USD,$398.97,3,In-Store,4,4,2,Medium,Somewhat Sensitive,2,4,Low,Smartphone,PayPal,9/26/2024,FALSE,TRUE,Need-based,No Preference,9,25
+91-724-4633,45,Male,Middle,Married,High School,High,La UniÃ³n,Luxury Goods,USD,$53.45,6,In-Store,4,2,1,Low,Very Sensitive,1,6,None,Tablet,Credit Card,7/14/2024,TRUE,TRUE,Need-based,Standard,11,5
+82-467-3300,23,Male,High,Married,Master's,Middle,Podhum,Baby Products,USD,$61.19,2,Mixed,5,2,0,Medium,Very Sensitive,2,7,Low,Tablet,Credit Card,8/12/2024,FALSE,FALSE,Need-based,No Preference,3,5
+73-827-2774,33,Female,High,Married,Bachelor's,High,Gandapura,Electronics,USD,$471.31,4,Online,2,3,1,Medium,Very Sensitive,1,8,Medium,Desktop,Debit Card,12/17/2024,TRUE,TRUE,Impulsive,Standard,7,20
+46-779-7065,41,Female,High,Divorced,High School,High,Visaginas,Food & Beverages,USD,$179.19,10,Online,3,1,1,Low,Somewhat Sensitive,1,1,None,Smartphone,debit card,3/21/2024,FALSE,FALSE,Need-based,No Preference,12,25
+43-664-4451,30,Female,Middle,Divorced,Master's,Middle,San Pablo,Health Supplements,USD,$294.61,6,Online,3,5,2,Low,Somewhat Sensitive,1,4,High,Desktop,PayPal,10/3/2024,FALSE,FALSE,Need-based,Standard,4,0
+42-518-2602,30,Male,Middle,Divorced,Bachelor's,High,Navoiy,Home Appliances,USD,$375.45,6,In-Store,2,1,1,Medium,Somewhat Sensitive,2,9,None,Tablet,PayPal,4/14/2024,TRUE,FALSE,Impulsive,Express,1,5
+71-780-8195,26,Female,High,Widowed,Bachelor's,High,Selasari,Toys & Games,USD,$83.50,12,In-Store,5,5,2,Low,Very Sensitive,1,9,None,Tablet,credit card,1/25/2024,FALSE,FALSE,Need-based,Standard,10,30
+77-642-7686,38,Female,High,Divorced,High School,High,Liangshuihe,Food & Beverages,USD,$109.88,7,Online,5,1,2,High,Not Sensitive,0,3,None,Smartphone,credit card,1/5/2024,TRUE,FALSE,Impulsive,No Preference,11,25
+27-017-7173,21,Male,Middle,Single,Master's,Middle,SÃ£o Miguel do Araguaia,Software & Apps,USD,$182.54,11,Mixed,5,3,0.2,None,Very Sensitive,2,8,None,Tablet,Cash,8/21/2024,FALSE,TRUE,Planned,No Preference,13,20
+91-789-3191,41,Female,High,Single,High School,Middle,Dake,Sports & Outdoors,USD,$465.48,3,Mixed,3,4,0,None,Very Sensitive,2,9,None,Desktop,Other,6/21/2024,FALSE,TRUE,Need-based,Standard,1,15
+62-797-9254,35,Female,High,Widowed,High School,High,At-Bashi,Home Appliances,USD,$224.52,8,Online,3,5,1,High,Somewhat Sensitive,2,7,Medium,Tablet,PayPal,11/29/2024,FALSE,TRUE,Wants-based,Express,1,25
+05-975-6985,27,Male,High,Divorced,Master's,Middle,Banjar Batanpoh,Hotels,USD,"281,37",12,Mixed,5,5,2,Medium,Very Sensitive,1,9,Medium,Smartphone,Cash,1/2/2024,TRUE,TRUE,Planned,Standard,14,0
+91-602-0761,25,Female,Middle,Widowed,Bachelor's,Middle,EspÃ­rito Santo do Pinhal,Animal Feed,USD,$125.68,2,In-Store,3,4,0,High,Somewhat Sensitive,1,5,None,Desktop,Other,6/21/2024,TRUE,FALSE,Need-based,No Preference,9,30
+15-640-6493,31,Male,High,Divorced,High School,Middle,DÄlbandÄ«n,Animal Feed,USD,$178.21,7,In-Store,4,4,0,Medium,Very Sensitive,1,5,High,Tablet,Debit Card,5/24/2024,FALSE,TRUE,Impulsive,No Preference,9,0
+85-738-8909,40,Female,Middle,Divorced,High School,Middle,Juyuan,Beauty & Personal Care,USD,$483.23,7,Mixed,4,5,0.3,None,Not Sensitive,2,5,None,Tablet,Debit Card,12/19/2024,FALSE,FALSE,Wants-based,Express,9,20
+59-891-2990,22,Female,Middle,Widowed,Bachelor's,High,Portela,Luxury Goods,USD,$415.30,11,Online,4,5,1,None,Not Sensitive,0,8,Low,Smartphone,Other,9/25/2024,FALSE,FALSE,Need-based,Standard,2,20
+04-660-2742,46,Agender,High,Married,High School,High,Meijiang,Animal Feed,USD,$85.52,7,In-Store,4,5,2,None,Somewhat Sensitive,0,6,None,Smartphone,Other,10/31/2024,FALSE,FALSE,Planned,Express,7,25
+52-491-3386,39,Female,High,Married,Master's,Middle,Kamiennik,Arts & Crafts,USD,$422.31,2,In-Store,1,2,2,High,Not Sensitive,0,5,Medium,Tablet,debit card,8/9/2024,TRUE,FALSE,Need-based,No Preference,3,30
+34-874-7357,21,Male,High,Widowed,Master's,Middle,Fort Wayne,Beauty & Personal Care,USD,$70.42,11,Online,2,3,2,Low,Very Sensitive,0,2,Low,Smartphone,Debit Card,10/1/2024,FALSE,TRUE,Impulsive,Express,14,10
+95-876-9757,31,Female,High,Married,Master's,High,Emar,Health Supplements,USD,$437.40,6,Online,3,5,0,Medium,Not Sensitive,2,4,Medium,Desktop,Credit Card,6/16/2024,TRUE,FALSE,Impulsive,Standard,1,0
+86-749-6914,47,Male,Middle,Single,High School,High,San JosÃ© Acatempa,Beauty & Personal Care,USD,$207.11,4,Mixed,4,5,0.3,High,Somewhat Sensitive,2,10,Low,Smartphone,Credit Card,3/28/2024,FALSE,TRUE,Need-based,No Preference,2,10
+89-392-5002,19,Female,High,Single,Bachelor's,High,Xinqiao,Arts & Crafts,USD,$378.87,2,Mixed,2,3,2,None,Very Sensitive,2,7,High,Tablet,PayPal,6/16/2024,TRUE,TRUE,Planned,Standard,9,15
+83-003-2165,49,Male,High,Married,Bachelor's,Middle,Magdalena,Gardening & Outdoors,USD,$349.00,10,Online,4,2,0,High,Not Sensitive,0,7,Medium,Tablet,Debit Card,1/15/2024,TRUE,TRUE,Need-based,Express,10,5
+72-339-1854,19,Bigender,High,Single,Master's,Middle,Sacramento,Furniture,USD,$330.27,3,Online,3,2,1,Low,Not Sensitive,0,3,Medium,Desktop,Cash,2/10/2024,TRUE,FALSE,Impulsive,Express,9,5
+22-039-6819,28,Female,Middle,Divorced,High School,Middle,Queluz,Sports & Outdoors,USD,$410.29,10,Mixed,1,5,0,None,Not Sensitive,0,3,None,Smartphone,Debit Card,9/2/2024,TRUE,FALSE,Wants-based,No Preference,1,30
+01-925-4021,37,Female,Middle,Single,High School,Middle,Tambaksari,Electronics,USD,$400.86,7,In-Store,3,2,1,High,Somewhat Sensitive,2,9,Low,Smartphone,Credit Card,9/12/2024,FALSE,FALSE,Need-based,Standard,5,30
+66-085-1226,22,Female,Middle,Married,Master's,High,San Pascual,Groceries,USD,$225.12,11,Mixed,4,5,2,High,Very Sensitive,0,1,High,Tablet,debit card,8/31/2024,FALSE,FALSE,Wants-based,No Preference,6,10
+02-725-7664,43,Female,High,Divorced,High School,Middle,Klishkivtsi,Food & Beverages,USD,"273,48",12,In-Store,2,1,0,None,Very Sensitive,0,2,None,Desktop,PayPal,1/22/2024,FALSE,TRUE,Wants-based,Express,5,25
+08-297-3351,34,Male,High,Single,Master's,High,Thá»‹ Tráº¥n Than UyÃªn,Health Care,USD,$363.84,11,Online,2,2,2,None,Very Sensitive,0,8,High,Tablet,cash,8/30/2024,TRUE,TRUE,Wants-based,Standard,5,30
+55-944-9669,32,Bigender,Middle,Divorced,Master's,High,Sobeok,Clothing,USD,$302.60,9,Mixed,1,4,2,Low,Very Sensitive,1,4,Low,Desktop,Cash,7/23/2024,TRUE,FALSE,Wants-based,No Preference,2,30
+30-839-5589,42,Female,Middle,Married,High School,Middle,Yaodu,Hotels,USD,$317.09,6,In-Store,5,4,1,Low,Not Sensitive,2,2,High,Smartphone,PayPal,4/11/2024,TRUE,TRUE,Planned,No Preference,4,15
+67-937-6624,50,Male,High,Divorced,Bachelor's,Middle,Huambo,Software & Apps,USD,$193.32,9,Mixed,5,2,2,Low,Very Sensitive,2,1,High,Smartphone,Cash,7/11/2024,TRUE,FALSE,Planned,Express,6,20
+26-521-8328,49,Female,Middle,Divorced,Bachelor's,High,Fengjiang,Furniture,USD,$282.24,6,Online,2,1,0,None,Somewhat Sensitive,0,4,High,Desktop,other,9/16/2024,FALSE,FALSE,Wants-based,No Preference,1,20
+91-199-9097,29,Male,High,Married,High School,Middle,TrhovÃ© Sviny,Clothing,USD,$154.19,6,In-Store,4,5,0,Low,Not Sensitive,0,7,None,Desktop,credit card,9/22/2024,FALSE,TRUE,Planned,Express,1,30
+98-238-6733,42,Female,High,Married,High School,High,Liuzhou,Luxury Goods,USD,$84.15,10,In-Store,2,5,0,High,Very Sensitive,0,4,Medium,Tablet,Credit Card,11/3/2024,FALSE,TRUE,Impulsive,No Preference,1,5
+84-724-8407,47,Female,High,Divorced,Bachelor's,Middle,Veiga,Jewelry & Accessories,USD,$214.69,7,Online,3,3,1,None,Very Sensitive,2,4,High,Tablet,Cash,5/15/2024,TRUE,TRUE,Planned,Express,9,10
+78-826-3039,27,Male,High,Single,Master's,High,Vidual,Gardening & Outdoors,USD,$61.21,12,Online,1,1,2,Low,Not Sensitive,2,2,Medium,Desktop,PayPal,11/24/2024,TRUE,TRUE,Impulsive,Express,13,15
+46-230-8307,38,Female,High,Single,Master's,Middle,La Roche-sur-Yon,Health Care,USD,$462.48,11,Online,1,2,2,High,Somewhat Sensitive,1,6,High,Desktop,Other,3/31/2024,TRUE,FALSE,Wants-based,No Preference,12,5
+91-695-8237,31,Female,Middle,Widowed,High School,High,Kryva Hora,Arts & Crafts,USD,$449.18,3,Online,3,2,2,Medium,Very Sensitive,2,9,Medium,Tablet,PayPal,3/21/2024,TRUE,TRUE,Wants-based,Standard,10,10
+36-649-0081,24,Female,High,Divorced,Master's,Middle,Beigucheng,Hotels,USD,$314.36,7,Online,3,3,1,High,Very Sensitive,1,7,Low,Smartphone,Credit Card,7/3/2024,TRUE,FALSE,Planned,No Preference,1,20
+55-846-2579,47,Male,Middle,Divorced,Bachelor's,High,Kiev,Software & Apps,USD,$367.70,3,Mixed,2,2,1,Medium,Very Sensitive,1,6,High,Smartphone,PayPal,3/17/2024,FALSE,FALSE,Wants-based,Standard,3,25
+35-853-2222,19,Female,High,Married,Bachelor's,High,Valongo,Sports & Outdoors,USD,$229.97,7,Online,3,4,1,Medium,Very Sensitive,0,5,Low,Tablet,Other,11/21/2024,TRUE,FALSE,Need-based,No Preference,6,5
+04-545-9162,49,Male,High,Divorced,Master's,High,Tiang,Electronics,USD,$226.53,3,Mixed,1,1,1,None,Somewhat Sensitive,1,9,High,Smartphone,Debit Card,8/2/2024,TRUE,TRUE,Need-based,Standard,13,15
+81-111-7832,50,Female,High,Widowed,Bachelor's,Middle,PelasgÃ­a,Animal Feed,USD,$218.32,2,Online,5,2,2,None,Very Sensitive,2,2,Medium,Desktop,Debit Card,9/24/2024,TRUE,FALSE,Planned,No Preference,3,5
+07-751-9620,23,Polygender,Middle,Widowed,Bachelor's,High,Ferreira do Alentejo,Software & Apps,USD,$132.67,7,Mixed,1,5,0,Medium,Very Sensitive,0,7,Low,Tablet,Debit Card,12/18/2024,FALSE,FALSE,Planned,No Preference,1,15
+79-592-5396,30,Female,High,Married,Master's,High,Binalbagan,Sports & Outdoors,USD,$416.96,7,Online,3,3,1,High,Very Sensitive,1,1,Medium,Desktop,Debit Card,5/25/2024,TRUE,TRUE,Need-based,Standard,7,30
+89-883-2101,38,Female,Middle,Divorced,Bachelor's,High,Ngeru,Mobile Accessories,USD,$459.51,7,Mixed,2,4,0,High,Very Sensitive,0,8,None,Tablet,PayPal,1/5/2024,TRUE,TRUE,Impulsive,No Preference,11,25
+05-506-7216,36,Male,High,Single,Bachelor's,Middle,Don Carlos,Animal Feed,USD,$487.96,2,Online,2,2,0,Low,Very Sensitive,1,1,Low,Smartphone,Credit Card,3/15/2024,FALSE,FALSE,Planned,Express,12,10
+10-330-6387,45,Male,High,Divorced,High School,High,YenikÃ¶y,Furniture,USD,$150.11,7,Mixed,5,3,2,Low,Not Sensitive,0,8,High,Desktop,Credit Card,7/23/2024,TRUE,FALSE,Planned,No Preference,8,5
+55-301-9368,34,Male,High,Married,Master's,High,Zamora,Electronics,USD,$218.87,5,Mixed,3,5,1,High,Somewhat Sensitive,0,8,High,Desktop,Credit Card,9/18/2024,TRUE,TRUE,Planned,No Preference,11,20
+43-671-9834,39,Female,Middle,Divorced,High School,High,Ranot,Clothing,USD,$437.06,7,Mixed,3,2,0,Low,Somewhat Sensitive,1,10,Low,Smartphone,Debit Card,3/9/2024,FALSE,FALSE,Impulsive,Standard,11,10
+22-053-4627,30,Female,High,Married,High School,High,KamÃ¡rai,Food & Beverages,USD,$122.58,2,Online,4,1,1,Medium,Somewhat Sensitive,2,7,Medium,Smartphone,Debit Card,1/29/2024,FALSE,FALSE,Wants-based,Express,12,30
+65-167-9819,28,Male,High,Divorced,High School,Middle,Punta Gorda,Luxury Goods,USD,$195.07,8,Online,1,3,1,Low,Somewhat Sensitive,0,8,High,Tablet,Credit Card,7/22/2024,TRUE,FALSE,Planned,No Preference,10,10
+85-922-0190,19,Female,High,Widowed,Bachelor's,High,Nanfeng,Toys & Games,USD,$190.06,9,Online,3,3,1,Low,Not Sensitive,0,4,None,Desktop,PayPal,2/3/2024,TRUE,FALSE,Wants-based,Express,12,0
+39-952-4459,18,Female,High,Divorced,High School,High,Tessalit,Electronics,USD,$485.76,10,Online,3,3,0,Medium,Very Sensitive,2,5,Medium,Smartphone,PayPal,6/3/2024,TRUE,FALSE,Wants-based,Express,4,30
+85-738-8909,40,Female,Middle,Divorced,High School,Middle,Juyuan,Beauty & Personal Care,USD,$242.57,7,Mixed,4,5,0.3,None,Not Sensitive,2,5,None,Tablet,Debit Card,10/5/2024,FALSE,FALSE,Wants-based,Express,1,20
+90-858-0453,23,Male,Middle,Widowed,High School,High,Pandean,Sports & Outdoors,USD,$303.13,2,Mixed,2,1,0,High,Not Sensitive,0,8,None,Tablet,paypal,1/4/2024,TRUE,TRUE,Impulsive,Standard,10,10
+85-467-6564,35,Female,Middle,Widowed,High School,Middle,San Nicolas,Health Care,USD,$136.10,5,In-Store,4,2,0,High,Very Sensitive,1,7,None,Smartphone,other,2/27/2024,FALSE,FALSE,Planned,No Preference,14,25
+51-387-9144,38,Male,High,Single,Master's,Middle,Thá»‹ Tráº¥n Cáº©m Thá»§y,Electronics,USD,"249,02",11,Online,5,2,1,None,Somewhat Sensitive,2,10,High,Desktop,PayPal,10/1/2024,FALSE,TRUE,Impulsive,Express,14,5
+39-107-6852,21,Male,Middle,Married,High School,High,Xinglongchang,Sports & Outdoors,USD,$466.74,7,Mixed,3,2,1,High,Not Sensitive,0,2,None,Desktop,Credit Card,12/11/2024,FALSE,FALSE,Need-based,No Preference,5,25
+70-895-5298,28,Female,Middle,Married,Master's,High,Pomar,Food & Beverages,USD,$229.30,6,In-Store,2,5,0,High,Somewhat Sensitive,2,4,Medium,Tablet,credit card,11/25/2024,FALSE,TRUE,Need-based,No Preference,6,10
+88-313-2633,33,Male,Middle,Divorced,Master's,Middle,ItsandzÃ©ni,Furniture,USD,$450.52,8,In-Store,2,2,2,Low,Somewhat Sensitive,0,7,None,Tablet,Debit Card,1/13/2024,TRUE,FALSE,Wants-based,No Preference,8,15
+05-167-0833,21,Male,Middle,Single,Master's,Middle,LabÃ¨ge,Travel & Leisure (Flights,USD,$246.44,4,Online,2,1,1,High,Very Sensitive,0,4,Low,Desktop,Credit Card,9/17/2024,FALSE,FALSE,Planned,Express,5,30
+04-660-2742,46,Agender,High,Married,High School,High,Meijiang,Animal Feed,USD,$93.52,2,In-Store,4,5,2,None,Somewhat Sensitive,0,6,None,Smartphone,Other,8/12/2024,FALSE,FALSE,Planned,Express,12,25
+00-275-9990,24,Female,Middle,Married,Bachelor's,Middle,Tempuran,Food & Beverages,USD,$137.75,6,Mixed,1,5,0,High,Very Sensitive,0,6,High,Smartphone,PayPal,9/9/2024,TRUE,TRUE,Wants-based,Express,4,20
+47-178-9529,37,Female,High,Divorced,Master's,Middle,Bida,Jewelry & Accessories,USD,$78.64,5,In-Store,4,4,2,Medium,Not Sensitive,1,4,High,Tablet,Debit Card,5/26/2024,FALSE,TRUE,Wants-based,No Preference,12,25
+89-625-5542,38,Female,Middle,Divorced,Bachelor's,High,MirÃ³w,Electronics,USD,$214.82,9,In-Store,5,4,0,Low,Not Sensitive,2,9,Low,Tablet,Credit Card,11/9/2024,TRUE,TRUE,Wants-based,No Preference,11,25
+58-487-8848,38,Female,High,Married,High School,High,KonÄrak,Beauty & Personal Care,USD,$57.39,3,Mixed,4,3,0,None,Very Sensitive,0,8,High,Tablet,PayPal,7/19/2024,FALSE,TRUE,Wants-based,Express,3,10
+44-786-7696,41,Bigender,Middle,Divorced,Master's,Middle,Zhongying,Gardening & Outdoors,USD,$363.91,10,In-Store,1,2,0,None,Somewhat Sensitive,0,4,Low,Smartphone,PayPal,1/7/2024,TRUE,TRUE,Impulsive,No Preference,9,5
+84-765-0748,34,Female,Middle,Widowed,High School,High,Hoolt,Jewelry & Accessories,USD,$304.79,12,In-Store,5,3,2,High,Very Sensitive,2,6,None,Desktop,Other,1/7/2024,FALSE,TRUE,Need-based,Standard,10,15
+96-772-7220,40,Male,High,Married,Bachelor's,High,Tanjungbalai,Travel & Leisure (Flights,USD,$363.98,4,Mixed,5,5,2,Low,Somewhat Sensitive,1,3,None,Tablet,Credit Card,5/27/2024,TRUE,FALSE,Need-based,Standard,1,0
+06-160-8063,21,Bigender,Middle,Divorced,High School,High,Latacunga,Sports & Outdoors,USD,$249.60,7,Online,5,3,2,Low,Not Sensitive,1,9,None,Desktop,credit card,5/11/2024,FALSE,FALSE,Planned,Express,11,5
+99-509-4653,36,Male,High,Widowed,Master's,High,OlavarrÃ­a,Health Care,USD,$345.04,12,In-Store,3,5,1,Low,Somewhat Sensitive,2,8,None,Tablet,Other,10/16/2024,TRUE,FALSE,Wants-based,Standard,13,10
+38-935-1865,18,Female,High,Widowed,Bachelor's,High,Novoukrainskiy,Beauty & Personal Care,USD,$59.15,3,In-Store,3,1,1,High,Somewhat Sensitive,0,1,High,Smartphone,Cash,4/19/2024,TRUE,TRUE,Wants-based,No Preference,8,30
+11-850-1953,32,Genderfluid,Middle,Single,High School,Middle,Beizhakou,Packages),USD,$461.81,12,In-Store,2,1,2,Low,Not Sensitive,2,8,None,Tablet,Credit Card,6/7/2024,TRUE,FALSE,Impulsive,Express,8,0
+70-761-3550,43,Male,High,Widowed,Master's,Middle,KovÃ¡Å™ov,Books,USD,$280.88,4,Online,2,1,0,High,Not Sensitive,2,1,High,Smartphone,Other,5/5/2024,TRUE,FALSE,Impulsive,No Preference,2,20
