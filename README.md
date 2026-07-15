@@ -22,7 +22,7 @@ Langkah-langkah yang dilakukan dalam memproses data mentah menjadi data siap ana
 
 ## 📊 Dashboard Visualizations
 Proyek ini menghasilkan 2 halaman *dashboard* utama:
-1. Business Performance:** Fokus pada metrik finansial utama, tren pendapatan per bulan, top kategori produk, kontribusi *channel* pembelian, dan pendapatan berdasarkan demografi.
+1. **Business Performance:** Fokus pada metrik finansial utama, tren pendapatan per bulan, top kategori produk, kontribusi *channel* pembelian, dan pendapatan berdasarkan demografi.
 2. **Dashboard 2 - Customer Satisfaction & Behavior:** Fokus pada analisis kepuasan pelanggan, metode pembayaran, sensitivitas terhadap diskon, dan tingkat loyalitas merek (*Brand Loyalty*).
 
 ## 💡 Key Insights & Recommendations (Results)
